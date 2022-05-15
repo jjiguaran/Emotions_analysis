@@ -1,0 +1,106 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% IISER Thiruvananthapuram Thesis Report Format
+% LaTeX Template
+%
+% Author:
+% Nikhil Alex Verghese, BS-MS 17
+% PLEASE FORWARD ANY AND ALL SUGGESTIONS AND COMPLAINTS TO: nikhil.alexv@gmail.com
+%
+% READ ALL INSTRUCTIONS IN EACH TEX FILE CAREFULLY, ESPECIALLY THE MAIN REPORT FILE.
+%
+% License:
+% CC BY-NC-SA 4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[12pt,a4wide]{report} % Set the font size (10pt, 11pt and 12pt) and paper size (letterpaper, a4paper, etc)
+
+\usepackage{amsthm,amssymb,mathrsfs,setspace,pstricks,booktabs,mathtools,amsmath,geometry}
+
+% UNCOMMENT REQUIRED PACKAGES
+%
+% latexsym package contains few extra symbols.
+% footmisc package for typesetting footnotes better.
+% hypperref package for creating for reliable hyperlinks and customizations.
+% tikz package for drawing graphs and diagrams (XY-pic is now outdated).
+% xcolor package for better control over colours.
+% biblatex package for bibliography-related (modern form of bibtex; biber and natbib also available, use only one).
+% READ ALL ASSOCIATED PACKAGE HELP FILES CAREFULLY BEFORE USE.
+%
+% \usepackage{latexsym,footmisc,biblatex,hyperref,xcolor,tikz}.
+
+\usepackage{play}
+\usepackage{epsfig}
+%\usepackage[grey,times]{quotchap}
+\usepackage[nottoc]{tocbibind}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+
+\setlength{\parskip}{1em plus 0.25em minus 0.25em}
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{notation}[theorem]{Notation}
+
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+
+\renewcommand{\baselinestretch}{1.5}
+
+% Uncomment below for headers and footers.
+% Further customization codes can be referred here: https://www.overleaf.com/learn/latex/Headers_and_footers
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+
+% Uncomment for some standard notations in math (Real, Complex and Rational numbers, Norm, Jacobian, etc) %
+%\newcommand{\reals}{\mathbb{R}}
+%\newcommand{\complex}{\mathbb{C}}
+%\newcommand{\rational}{\mathbb{Q}}
+%\newcommand{\jacobian}{\mathcal{J}}
+%\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+
+\begin{document}
+
+% CUSTOM INPUT FIELDS ARE MARKED WITH [] IN THE INTRO SECTIONS.
+% GO THROUGH EACH INTRO PAGE AND UPDATE ALL YOUR PERSONAL INFORMATION ACCORDINGLY.
+% ALSO READ ALL UNCOMMENTED LINES CAREFULLY.
+
+\input{00_Intro Pages/01_Title}
+\input{00_Intro Pages/02_Declaration}
+\input{00_Intro Pages/03a_Certificate}
+% Switch from 03a_Certificate (line 81) to 03b_Certificate (line 84) for a fancier format.
+% You can disable geometry package if not switching and compile time is too long. 
+% \input{00_Intro Pages/03b_Certificate}
+\input{00_Intro Pages/04_Acknowledgements}
+\input{00_Intro Pages/05_Abstract}
+\input{00_Intro Pages/06_ToC,LoF,LoT}
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% =========== Main chapters starts here =================== %
+
+\input{Chapters/chapter1}
+\input{Chapters/chapter2}
+
+% You can either break down your chapter into multiple tex files
+% or keep in one file and quickly move between sections and subsections using
+% 'the File Outline' box at the bottom left.
+
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{ref.bib}
+
+\end{document}
+
