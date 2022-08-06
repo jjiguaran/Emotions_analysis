@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.14)  14 MAY 2022 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.14)  5 AUG 2022 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -397,6 +397,40 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \epsfxsize=\dimen277
 \epsfysize=\dimen278
 )
+(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen279
+\captionmargin@=\dimen280
+\captionwidth=\dimen281
+\caption@tempdima=\dimen282
+\caption@indent=\dimen283
+\caption@parindent=\dimen284
+\caption@hangindent=\dimen285
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count317
+\c@continuedfloat=\count318
+)
+\c@KVtest=\count319
+\sf@farskip=\skip59
+\sf@captopadj=\dimen286
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
+\c@subfigure=\count320
+\c@subfigure@save=\count321
+\c@lofdepth=\count322
+\c@subtable=\count323
+\c@subtable@save=\count324
+\c@lotdepth=\count325
+\sf@top=\skip62
+\sf@bottom=\skip63
+)
 (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
@@ -405,45 +439,46 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
 )
-\c@theorem=\count317
+\c@theorem=\count326
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count318
+\l__color_backend_stack_int=\count327
 \l__pdf_internal_box=\box57
 )
 
 LaTeX Warning: Unused global option(s):
     [a4wide].
 
-No file report.aux.
+(./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
-LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count319
-\scratchdimen=\dimen279
+\scratchcounter=\count328
+\scratchdimen=\dimen287
 \scratchbox=\box58
-\nofMPsegments=\count320
-\nofMParguments=\count321
+\nofMPsegments=\count329
+\nofMParguments=\count330
 \everyMPshowfont=\toks43
-\MPscratchCnt=\count322
-\MPscratchDim=\dimen280
-\MPnumerator=\count323
-\makeMPintoPDFobject=\count324
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen288
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
 \everyMPtoPDFconversion=\toks44
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -518,12 +553,21 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
 (./00_Intro Pages/01_Title.tex
-<Images & Logos/iiser_logo.png, id=1, 1284.8pt x 755.82375pt>
-File: Images & Logos/iiser_logo.png Graphic file (type png)
-<use Images & Logos/iiser_logo.png>
-Package pdftex.def Info: Images & Logos/iiser_logo.png  used on input line 50.
-(pdftex.def)             Requested size: 125.7429pt x 73.97716pt.
+<Images & Logos/data_mining.png, id=1, 155.58125pt x 155.58125pt>
+File: Images & Logos/data_mining.png Graphic file (type png)
+<use Images & Logos/data_mining.png>
+Package pdftex.def Info: Images & Logos/data_mining.png  used on input line 31.
+
+(pdftex.def)             Requested size: 85.56993pt x 85.56993pt.
+<Images & Logos/uba.png, id=2, 481.8pt x 482.80376pt>
+File: Images & Logos/uba.png Graphic file (type png)
+<use Images & Logos/uba.png>
+Package pdftex.def Info: Images & Logos/uba.png  used on input line 33.
+(pdftex.def)             Requested size: 86.72025pt x 86.90092pt.
  [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
@@ -542,11 +586,11 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images & Logos/iiser_log
-o.png>]) (./00_Intro Pages/02_Declaration.tex [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images & Logos/data_mini
+ng.png> <./Images & Logos/uba.png>]) (./00_Intro Pages/02_Declaration.tex
+[2
 
-])
-(./00_Intro Pages/03a_Certificate.tex [3
+]) (./00_Intro Pages/03a_Certificate.tex [3
 
 ])
 (./00_Intro Pages/04_Acknowledgements.tex [4
@@ -555,55 +599,46 @@ o.png>]) (./00_Intro Pages/02_Declaration.tex [2
 (./00_Intro Pages/05_Abstract.tex [5
 
 ]) (./00_Intro Pages/06_ToC,LoF,LoT.tex
-No file report.toc.
+(./report.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+))
 \tf@toc=\write3
 \openout3 = `report.toc'.
 
-[6
+ [6
 
 
-]
-No file report.lof.
+] (./report.lof)
 \tf@lof=\write4
 \openout4 = `report.lof'.
 
 [7
 
 
-]
-No file report.lot.
+] (./report.lot)
 \tf@lot=\write5
 \openout5 = `report.lot'.
 
-[8
+ [8
 
 ]) (./Chapters/chapter1.tex
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 34
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [1
+[1
 
 ]
-
-LaTeX Warning: Reference `eqn1' on page 2 undefined on input line 38.
-
-
-LaTeX Warning: Reference `abc' on page 2 undefined on input line 38.
-
 
 LaTeX Warning: Citation `golub' on page 2 undefined on input line 49.
 
@@ -617,18 +652,15 @@ No file report.bbl.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 12048 strings out of 478287
- 214756 string characters out of 5849289
- 506695 words of memory out of 5000000
- 30026 multiletter control sequences out of 15000+600000
+ 13500 strings out of 478287
+ 242784 string characters out of 5849289
+ 533867 words of memory out of 5000000
+ 31459 multiletter control sequences out of 15000+600000
  477553 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,76p,773b,408s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 85i,8n,133p,773b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dis
@@ -638,10 +670,10 @@ public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 ti12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on report.pdf (13 pages, 170151 bytes).
+Output written on report.pdf (13 pages, 216600 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
