@@ -8,3 +8,4 @@
 \contentsline {section}{\numberline {2.1}Section-1 Name}{4}{}%
 \contentsline {section}{\numberline {2.2}Section-2 Name}{4}{}%
 \contentsline {subsection}{\numberline {2.2.1}Subsection name}{5}{}%
+\contentsline {chapter}{Bibliography}{6}{}%

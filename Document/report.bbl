@@ -1,0 +1,15 @@
+\begin{thebibliography}{}
+
+\bibitem[Pak and Paroubek, 2010]{pak2010twitter}
+Pak, A. and Paroubek, P. (2010).
+\newblock Twitter as a corpus for sentiment analysis and opinion mining.
+\newblock In {\em Proceedings of the Seventh International Conference on
+  Language Resources and Evaluation (LREC'10)}.
+
+\bibitem[Pang et~al., 2008]{pang2008opinion}
+Pang, B., Lee, L., et~al. (2008).
+\newblock Opinion mining and sentiment analysis.
+\newblock {\em Foundations and Trends{\textregistered} in information
+  retrieval}, 2(1--2):1--135.
+
+\end{thebibliography}
