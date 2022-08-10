@@ -1,11 +1,9 @@
-\contentsline {chapter}{List of Figures}{vii}{}%
-\contentsline {chapter}{List of Tables}{viii}{}%
-\contentsline {chapter}{\numberline {1}Placeholder I}{1}{}%
-\contentsline {section}{\numberline {1.1}Section-1 Name}{1}{}%
-\contentsline {section}{\numberline {1.2}Section-2 Name}{2}{}%
-\contentsline {subsection}{\numberline {1.2.1}Subsection name}{3}{}%
-\contentsline {chapter}{\numberline {2}Placeholder II}{4}{}%
-\contentsline {section}{\numberline {2.1}Section-1 Name}{4}{}%
-\contentsline {section}{\numberline {2.2}Section-2 Name}{4}{}%
-\contentsline {subsection}{\numberline {2.2.1}Subsection name}{5}{}%
-\contentsline {chapter}{Bibliography}{6}{}%
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\'{I}ndice de figuras}{4}{}%
+\contentsline {chapter}{\'{I}ndice de cuadros}{5}{}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{}%
+\contentsline {section}{\numberline {1.1}Motivación}{1}{}%
+\contentsline {section}{\numberline {1.2}Marco Teórico}{1}{}%
+\contentsline {chapter}{\numberline {2}Metodología}{2}{}%
+\contentsline {chapter}{\numberline {3}Datos}{3}{}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{4}{}%
