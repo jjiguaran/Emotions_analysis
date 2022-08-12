@@ -8,10 +8,39 @@ Alm, C.~O., Roth, D., and Sproat, R. (2005).
   conference on empirical methods in natural language processing}, pages
   579--586.
 
+\bibitem[Bollen et~al., 2011]{bollen2011modeling}
+Bollen, J., Mao, H., and Pepe, A. (2011).
+\newblock Modeling public mood and emotion: Twitter sentiment and
+  socio-economic phenomena.
+\newblock In {\em Proceedings of the international AAAI conference on web and
+  social media}, volume~5, pages 450--453.
+
+\bibitem[Dave et~al., 2003]{dave2003mining}
+Dave, K., Lawrence, S., and Pennock, D.~M. (2003).
+\newblock Mining the peanut gallery: Opinion extraction and semantic
+  classification of product reviews.
+\newblock In {\em Proceedings of the 12th international conference on World
+  Wide Web}, pages 519--528.
+
 \bibitem[Ekman, 1993]{ekman1993facial}
 Ekman, P. (1993).
 \newblock Facial expression and emotion.
 \newblock {\em American psychologist}, 48(4):384.
+
+\bibitem[Go et~al., 2009]{go2009twitter}
+Go, A., Bhayani, R., and Huang, L. (2009).
+\newblock Twitter sentiment classification using distant supervision.
+\newblock {\em CS224N project report, Stanford}, 1(12):2009.
+
+\bibitem[Hasan et~al., 2014]{hasan2014emotex}
+Hasan, M., Rundensteiner, E., and Agu, E. (2014).
+\newblock Emotex: Detecting emotions in twitter messages.
+
+\bibitem[Kouloumpis et~al., 2011]{kouloumpis2011twitter}
+Kouloumpis, E., Wilson, T., and Moore, J. (2011).
+\newblock Twitter sentiment analysis: The good the bad and the omg!
+\newblock In {\em Proceedings of the international AAAI conference on web and
+  social media}, volume~5, pages 538--541.
 
 \bibitem[Pak and Paroubek, 2010]{pak2010twitter}
 Pak, A. and Paroubek, P. (2010).
@@ -25,6 +54,12 @@ Pang, B., Lee, L., et~al. (2008).
 \newblock {\em Foundations and Trends{\textregistered} in information
   retrieval}, 2(1--2):1--135.
 
+\bibitem[Pang et~al., 2002]{pang2002thumbs}
+Pang, B., Lee, L., and Vaithyanathan, S. (2002).
+\newblock Thumbs up? sentiment classification using machine learning
+  techniques.
+\newblock {\em arXiv preprint cs/0205070}.
+
 \bibitem[Picard, 2000]{picard2000affective}
 Picard, R.~W. (2000).
 \newblock {\em Affective computing}.
@@ -35,5 +70,24 @@ Roberts, K., Roach, M.~A., Johnson, J., Guthrie, J., and Harabagiu, S. (2012).
 \newblock Empatweet: Annotating and detecting emotions on twitter.
 \newblock In {\em Proceedings of the Eighth International Conference on
   Language Resources and Evaluation (LREC'12)}, pages 3806--3813.
+
+\bibitem[Strapparava and Mihalcea, 2007]{strapparava2007semeval}
+Strapparava, C. and Mihalcea, R. (2007).
+\newblock Semeval-2007 task 14: Affective text.
+\newblock In {\em Proceedings of the Fourth International Workshop on Semantic
+  Evaluations (SemEval-2007)}, pages 70--74.
+
+\bibitem[Strapparava and Mihalcea, 2008]{strapparava2008learning}
+Strapparava, C. and Mihalcea, R. (2008).
+\newblock Learning to identify emotions in text.
+\newblock In {\em Proceedings of the 2008 ACM symposium on Applied computing},
+  pages 1556--1560.
+
+\bibitem[Wilson et~al., 2005]{wilson2005recognizing}
+Wilson, T., Wiebe, J., and Hoffmann, P. (2005).
+\newblock Recognizing contextual polarity in phrase-level sentiment analysis.
+\newblock In {\em Proceedings of human language technology conference and
+  conference on empirical methods in natural language processing}, pages
+  347--354.
 
 \end{thebibliography}
