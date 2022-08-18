@@ -14,6 +14,11 @@ Aman, S. and Szpakowicz, S. (2007).
 \newblock In {\em International Conference on Text, Speech and Dialogue}, pages
   196--205. Springer.
 
+\bibitem[Barbosa and Feng, 2010]{barbosa2010robust}
+Barbosa, L. and Feng, J. (2010).
+\newblock Robust sentiment detection on twitter from biased and noisy data.
+\newblock In {\em Coling 2010: Posters}, pages 36--44.
+
 \bibitem[Bollen et~al., 2011]{bollen2011modeling}
 Bollen, J., Mao, H., and Pepe, A. (2011).
 \newblock Modeling public mood and emotion: Twitter sentiment and
@@ -27,6 +32,11 @@ Dave, K., Lawrence, S., and Pennock, D.~M. (2003).
   classification of product reviews.
 \newblock In {\em Proceedings of the 12th international conference on World
   Wide Web}, pages 519--528.
+
+\bibitem[Davidov et~al., 2010]{davidov2010enhanced}
+Davidov, D., Tsur, O., and Rappoport, A. (2010).
+\newblock Enhanced sentiment learning using twitter hashtags and smileys.
+\newblock In {\em Coling 2010: Posters}, pages 241--249.
 
 \bibitem[Ekman, 1993]{ekman1993facial}
 Ekman, P. (1993).
@@ -55,6 +65,12 @@ Kouloumpis, E., Wilson, T., and Moore, J. (2011).
 \newblock In {\em Proceedings of the international AAAI conference on web and
   social media}, volume~5, pages 538--541.
 
+\bibitem[Liu et~al., 2003]{liu2003model}
+Liu, H., Lieberman, H., and Selker, T. (2003).
+\newblock A model of textual affect sensing using real-world knowledge.
+\newblock In {\em Proceedings of the 8th international conference on
+  Intelligent user interfaces}, pages 125--132.
+
 \bibitem[Mohammad, 2012]{mohammad2012emotional}
 Mohammad, S. (2012).
 \newblock \# emotional tweets.
@@ -62,6 +78,20 @@ Mohammad, S. (2012).
   Computational Semantics--Volume 1: Proceedings of the main conference and the
   shared task, and Volume 2: Proceedings of the Sixth International Workshop on
   Semantic Evaluation (SemEval 2012)}, pages 246--255.
+
+\bibitem[Nasukawa and Yi, 2003]{nasukawa2003sentiment}
+Nasukawa, T. and Yi, J. (2003).
+\newblock Sentiment analysis: Capturing favorability using natural language
+  processing.
+\newblock In {\em Proceedings of the 2nd international conference on Knowledge
+  capture}, pages 70--77.
+
+\bibitem[O'Connor et~al., 2010]{o2010tweets}
+O'Connor, B., Balasubramanyan, R., Routledge, B.~R., and Smith, N.~A. (2010).
+\newblock From tweets to polls: Linking text sentiment to public opinion time
+  series.
+\newblock In {\em Fourth international AAAI conference on weblogs and social
+  media}.
 
 \bibitem[Ortony et~al., 1987]{ortony1987referential}
 Ortony, A., Clore, G.~L., and Foss, M.~A. (1987).
@@ -97,6 +127,13 @@ Picard, R.~W. (2000).
 \newblock {\em Affective computing}.
 \newblock MIT press.
 
+\bibitem[Read, 2005]{read2005using}
+Read, J. (2005).
+\newblock Using emoticons to reduce dependency in machine learning techniques
+  for sentiment classification.
+\newblock In {\em Proceedings of the ACL student research workshop}, pages
+  43--48.
+
 \bibitem[Roberts et~al., 2012]{roberts2012empatweet}
 Roberts, K., Roach, M.~A., Johnson, J., Guthrie, J., and Harabagiu, S. (2012).
 \newblock Empatweet: Annotating and detecting emotions on twitter.
@@ -126,6 +163,12 @@ Tumasjan, A., Sprenger, T., Sandner, P., and Welpe, I. (2010).
   political sentiment.
 \newblock In {\em Proceedings of the International AAAI Conference on Web and
   Social Media}, volume~4, pages 178--185.
+
+\bibitem[Turney, 2002]{turney2002thumbs}
+Turney, P.~D. (2002).
+\newblock Thumbs up or thumbs down? semantic orientation applied to
+  unsupervised classification of reviews.
+\newblock {\em arXiv preprint cs/0212032}.
 
 \bibitem[Wang et~al., 2012]{wang2012harnessing}
 Wang, W., Chen, L., Thirunarayan, K., and Sheth, A.~P. (2012).
