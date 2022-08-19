@@ -1,5 +1,11 @@
 \begin{thebibliography}{}
 
+\bibitem[Acheampong et~al., 2021]{acheampong2021transformer}
+Acheampong, F.~A., Nunoo-Mensah, H., and Chen, W. (2021).
+\newblock Transformer models for text-based emotion detection: a review of
+  bert-based approaches.
+\newblock {\em Artificial Intelligence Review}, 54(8):5789--5829.
+
 \bibitem[Alm et~al., 2005]{alm2005emotions}
 Alm, C.~O., Roth, D., and Sproat, R. (2005).
 \newblock Emotions from text: machine learning for text-based emotion
@@ -38,6 +44,12 @@ Davidov, D., Tsur, O., and Rappoport, A. (2010).
 \newblock Enhanced sentiment learning using twitter hashtags and smileys.
 \newblock In {\em Coling 2010: Posters}, pages 241--249.
 
+\bibitem[Devlin et~al., 2018]{devlin2018bert}
+Devlin, J., Chang, M.-W., Lee, K., and Toutanova, K. (2018).
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}.
+
 \bibitem[Ekman, 1993]{ekman1993facial}
 Ekman, P. (1993).
 \newblock Facial expression and emotion.
@@ -55,9 +67,34 @@ Go, A., Bhayani, R., and Huang, L. (2009).
 \newblock Twitter sentiment classification using distant supervision.
 \newblock {\em CS224N project report, Stanford}, 1(12):2009.
 
+\bibitem[Gonzalez et~al., 2021]{gonzalez2021twilbert}
+Gonzalez, J.~A., Hurtado, L.-F., and Pla, F. (2021).
+\newblock Twilbert: Pre-trained deep bidirectional transformers for spanish
+  twitter.
+\newblock {\em Neurocomputing}, 426:58--69.
+
 \bibitem[Hasan et~al., 2014]{hasan2014emotex}
 Hasan, M., Rundensteiner, E., and Agu, E. (2014).
 \newblock Emotex: Detecting emotions in twitter messages.
+
+\bibitem[Hatzivassiloglou and McKeown, 1997]{hatzivassiloglou1997predicting}
+Hatzivassiloglou, V. and McKeown, K. (1997).
+\newblock Predicting the semantic orientation of adjectives.
+\newblock In {\em 35th annual meeting of the association for computational
+  linguistics and 8th conference of the european chapter of the association for
+  computational linguistics}, pages 174--181.
+
+\bibitem[Huang et~al., 2019]{huang2019ana}
+Huang, C., Trabelsi, A., and Za{\"\i}ane, O.~R. (2019).
+\newblock Ana at semeval-2019 task 3: Contextual emotion detection in
+  conversations through hierarchical lstms and bert.
+\newblock {\em arXiv preprint arXiv:1904.00132}.
+
+\bibitem[Kim and Hovy, 2004]{kim2004determining}
+Kim, S.-M. and Hovy, E. (2004).
+\newblock Determining the sentiment of opinions.
+\newblock In {\em COLING 2004: Proceedings of the 20th International Conference
+  on Computational Linguistics}, pages 1367--1373.
 
 \bibitem[Kouloumpis et~al., 2011]{kouloumpis2011twitter}
 Kouloumpis, E., Wilson, T., and Moore, J. (2011).
@@ -170,6 +207,12 @@ Turney, P.~D. (2002).
   unsupervised classification of reviews.
 \newblock {\em arXiv preprint cs/0212032}.
 
+\bibitem[Vaswani et~al., 2017]{vaswani2017attention}
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A.~N.,
+  Kaiser, {\L}., and Polosukhin, I. (2017).
+\newblock Attention is all you need.
+\newblock {\em Advances in neural information processing systems}, 30.
+
 \bibitem[Wang et~al., 2012]{wang2012harnessing}
 Wang, W., Chen, L., Thirunarayan, K., and Sheth, A.~P. (2012).
 \newblock Harnessing twitter" big data" for automatic emotion identification.
@@ -181,6 +224,11 @@ Wang, W., Chen, L., Thirunarayan, K., and Sheth, A.~P. (2012).
 Wiebe, J., Wilson, T., and Cardie, C. (2005).
 \newblock Annotating expressions of opinions and emotions in language.
 \newblock {\em Language resources and evaluation}, 39(2):165--210.
+
+\bibitem[Wiebe, 1994]{wiebe1994tracking}
+Wiebe, J.~M. (1994).
+\newblock Tracking point of view in narrative.
+\newblock {\em arXiv preprint cmp-lg/9407019}.
 
 \bibitem[Wilson et~al., 2005]{wilson2005recognizing}
 Wilson, T., Wiebe, J., and Hoffmann, P. (2005).
@@ -194,5 +242,12 @@ Wilson, T., Wiebe, J., and Hoffmann, P. (2009).
 \newblock Recognizing contextual polarity: An exploration of features for
   phrase-level sentiment analysis.
 \newblock {\em Computational linguistics}, 35(3):399--433.
+
+\bibitem[Yu and Hatzivassiloglou, 2003]{yu2003towards}
+Yu, H. and Hatzivassiloglou, V. (2003).
+\newblock Towards answering opinion questions: Separating facts from opinions
+  and identifying the polarity of opinion sentences.
+\newblock In {\em Proceedings of the 2003 conference on Empirical methods in
+  natural language processing}, pages 129--136.
 
 \end{thebibliography}
