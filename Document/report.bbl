@@ -32,6 +32,18 @@ Bollen, J., Mao, H., and Pepe, A. (2011).
 \newblock In {\em Proceedings of the international AAAI conference on web and
   social media}, volume~5, pages 450--453.
 
+\bibitem[Canete et~al., 2020]{canete2020spanish}
+Canete, J., Chaperon, G., Fuentes, R., Ho, J.-H., Kang, H., and P{\'e}rez, J.
+  (2020).
+\newblock Spanish pre-trained bert model and evaluation data.
+\newblock {\em Pml4dc at iclr}, 2020:1--10.
+
+\bibitem[Chung et~al., 2014]{chung2014empirical}
+Chung, J., Gulcehre, C., Cho, K., and Bengio, Y. (2014).
+\newblock Empirical evaluation of gated recurrent neural networks on sequence
+  modeling.
+\newblock {\em arXiv preprint arXiv:1412.3555}.
+
 \bibitem[Dave et~al., 2003]{dave2003mining}
 Dave, K., Lawrence, S., and Pennock, D.~M. (2003).
 \newblock Mining the peanut gallery: Opinion extraction and semantic
@@ -62,6 +74,13 @@ Esuli, A. and Sebastiani, F. (2006).
 \newblock In {\em Proceedings of the Fifth International Conference on Language
   Resources and Evaluation (LREC’06)}.
 
+\bibitem[Gil et~al., 2013]{gil2013combining}
+Gil, G.~B., Jes{\'u}s, A. B.~d., and Lop{\'e}z, J. M.~M. (2013).
+\newblock Combining machine learning techniques and natural language processing
+  to infer emotions using spanish twitter corpus.
+\newblock In {\em International Conference on Practical Applications of Agents
+  and Multi-Agent Systems}, pages 149--157. Springer.
+
 \bibitem[Go et~al., 2009]{go2009twitter}
 Go, A., Bhayani, R., and Huang, L. (2009).
 \newblock Twitter sentiment classification using distant supervision.
@@ -83,6 +102,11 @@ Hatzivassiloglou, V. and McKeown, K. (1997).
 \newblock In {\em 35th annual meeting of the association for computational
   linguistics and 8th conference of the european chapter of the association for
   computational linguistics}, pages 174--181.
+
+\bibitem[Hochreiter and Schmidhuber, 1997]{hochreiter1997long}
+Hochreiter, S. and Schmidhuber, J. (1997).
+\newblock Long short-term memory.
+\newblock {\em Neural computation}, 9(8):1735--1780.
 
 \bibitem[Huang et~al., 2019]{huang2019ana}
 Huang, C., Trabelsi, A., and Za{\"\i}ane, O.~R. (2019).
@@ -164,6 +188,13 @@ Picard, R.~W. (2000).
 \newblock {\em Affective computing}.
 \newblock MIT press.
 
+\bibitem[Plaza-del Arco et~al., 2020]{plaza2020improved}
+Plaza-del Arco, F.~M., Mart{\'\i}n-Valdivia, M.~T., Ure{\~n}a-L{\'o}pez, L.~A.,
+  and Mitkov, R. (2020).
+\newblock Improved emotion recognition in spanish social media through
+  incorporation of lexical knowledge.
+\newblock {\em Future Generation Computer Systems}, 110:1000--1008.
+
 \bibitem[Read, 2005]{read2005using}
 Read, J. (2005).
 \newblock Using emoticons to reduce dependency in machine learning techniques
@@ -176,6 +207,15 @@ Roberts, K., Roach, M.~A., Johnson, J., Guthrie, J., and Harabagiu, S. (2012).
 \newblock Empatweet: Annotating and detecting emotions on twitter.
 \newblock In {\em Proceedings of the Eighth International Conference on
   Language Resources and Evaluation (LREC'12)}, pages 3806--3813.
+
+\bibitem[Sidorov et~al., 2012]{sidorov2012empirical}
+Sidorov, G., Miranda-Jim{\'e}nez, S., Viveros-Jim{\'e}nez, F., Gelbukh, A.,
+  Castro-S{\'a}nchez, N., Vel{\'a}squez, F., D{\'\i}az-Rangel, I.,
+  Su{\'a}rez-Guerra, S., Trevino, A., and Gordon, J. (2012).
+\newblock Empirical study of machine learning based approach for opinion mining
+  in tweets.
+\newblock In {\em Mexican international conference on Artificial intelligence},
+  pages 1--14. Springer.
 
 \bibitem[Strapparava and Mihalcea, 2007]{strapparava2007semeval}
 Strapparava, C. and Mihalcea, R. (2007).
