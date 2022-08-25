@@ -44,13 +44,6 @@ Chung, J., Gulcehre, C., Cho, K., and Bengio, Y. (2014).
   modeling.
 \newblock {\em arXiv preprint arXiv:1412.3555}.
 
-\bibitem[Dave et~al., 2003]{dave2003mining}
-Dave, K., Lawrence, S., and Pennock, D.~M. (2003).
-\newblock Mining the peanut gallery: Opinion extraction and semantic
-  classification of product reviews.
-\newblock In {\em Proceedings of the 12th international conference on World
-  Wide Web}, pages 519--528.
-
 \bibitem[Davidov et~al., 2010]{davidov2010enhanced}
 Davidov, D., Tsur, O., and Rappoport, A. (2010).
 \newblock Enhanced sentiment learning using twitter hashtags and smileys.
@@ -66,13 +59,6 @@ Devlin, J., Chang, M.-W., Lee, K., and Toutanova, K. (2018).
 Ekman, P. (1993).
 \newblock Facial expression and emotion.
 \newblock {\em American psychologist}, 48(4):384.
-
-\bibitem[Esuli and Sebastiani, 2006]{esuli2006sentiwordnet}
-Esuli, A. and Sebastiani, F. (2006).
-\newblock Sentiwordnet: A publicly available lexical resource for opinion
-  mining.
-\newblock In {\em Proceedings of the Fifth International Conference on Language
-  Resources and Evaluation (LREC’06)}.
 
 \bibitem[Gil et~al., 2013]{gil2013combining}
 Gil, G.~B., Jes{\'u}s, A. B.~d., and Lop{\'e}z, J. M.~M. (2013).
@@ -140,13 +126,6 @@ Mohammad, S. (2012).
   shared task, and Volume 2: Proceedings of the Sixth International Workshop on
   Semantic Evaluation (SemEval 2012)}, pages 246--255.
 
-\bibitem[Nasukawa and Yi, 2003]{nasukawa2003sentiment}
-Nasukawa, T. and Yi, J. (2003).
-\newblock Sentiment analysis: Capturing favorability using natural language
-  processing.
-\newblock In {\em Proceedings of the 2nd international conference on Knowledge
-  capture}, pages 70--77.
-
 \bibitem[O'Connor et~al., 2010]{o2010tweets}
 O'Connor, B., Balasubramanyan, R., Routledge, B.~R., and Smith, N.~A. (2010).
 \newblock From tweets to polls: Linking text sentiment to public opinion time
@@ -156,7 +135,7 @@ O'Connor, B., Balasubramanyan, R., Routledge, B.~R., and Smith, N.~A. (2010).
 
 \bibitem[Ortony et~al., 1987]{ortony1987referential}
 Ortony, A., Clore, G.~L., and Foss, M.~A. (1987).
-\newblock The referential structure of the affective lexicon.
+\newblock hatzivassiloglou1997predicting.
 \newblock {\em Cognitive science}, 11(3):341--364.
 
 \bibitem[Pak and Paroubek, 2010]{pak2010twitter}
