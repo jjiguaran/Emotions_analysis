@@ -20,11 +20,6 @@ Aman, S. and Szpakowicz, S. (2007).
 \newblock In {\em International Conference on Text, Speech and Dialogue}, pages
   196--205. Springer.
 
-\bibitem[Barbosa and Feng, 2010]{barbosa2010robust}
-Barbosa, L. and Feng, J. (2010).
-\newblock Robust sentiment detection on twitter from biased and noisy data.
-\newblock In {\em Coling 2010: Posters}, pages 36--44.
-
 \bibitem[Bollen et~al., 2011]{bollen2011modeling}
 Bollen, J., Mao, H., and Pepe, A. (2011).
 \newblock Modeling public mood and emotion: Twitter sentiment and
@@ -37,6 +32,16 @@ Canete, J., Chaperon, G., Fuentes, R., Ho, J.-H., Kang, H., and P{\'e}rez, J.
   (2020).
 \newblock Spanish pre-trained bert model and evaluation data.
 \newblock {\em Pml4dc at iclr}, 2020:1--10.
+
+\bibitem[Cer{\'o}n-Guzm{\'a}n and Le{\'o}n-Guzm{\'a}n,
+  2016]{ceron2016sentiment}
+Cer{\'o}n-Guzm{\'a}n, J.~A. and Le{\'o}n-Guzm{\'a}n, E. (2016).
+\newblock A sentiment analysis system of spanish tweets and its application in
+  colombia 2014 presidential election.
+\newblock In {\em 2016 IEEE international conferences on big data and cloud
+  computing (BDCloud), social computing and networking (socialcom), sustainable
+  computing and communications (sustaincom)(BDCloud-socialcom-sustaincom)},
+  pages 250--257. IEEE.
 
 \bibitem[Chung et~al., 2014]{chung2014empirical}
 Chung, J., Gulcehre, C., Cho, K., and Bengio, Y. (2014).
@@ -78,10 +83,6 @@ Gonzalez, J.~A., Hurtado, L.-F., and Pla, F. (2021).
   twitter.
 \newblock {\em Neurocomputing}, 426:58--69.
 
-\bibitem[Hasan et~al., 2014]{hasan2014emotex}
-Hasan, M., Rundensteiner, E., and Agu, E. (2014).
-\newblock Emotex: Detecting emotions in twitter messages.
-
 \bibitem[Hatzivassiloglou and McKeown, 1997]{hatzivassiloglou1997predicting}
 Hatzivassiloglou, V. and McKeown, K. (1997).
 \newblock Predicting the semantic orientation of adjectives.
@@ -100,23 +101,11 @@ Huang, C., Trabelsi, A., and Za{\"\i}ane, O.~R. (2019).
   conversations through hierarchical lstms and bert.
 \newblock {\em arXiv preprint arXiv:1904.00132}.
 
-\bibitem[Kim and Hovy, 2004]{kim2004determining}
-Kim, S.-M. and Hovy, E. (2004).
-\newblock Determining the sentiment of opinions.
-\newblock In {\em COLING 2004: Proceedings of the 20th International Conference
-  on Computational Linguistics}, pages 1367--1373.
-
 \bibitem[Kouloumpis et~al., 2011]{kouloumpis2011twitter}
 Kouloumpis, E., Wilson, T., and Moore, J. (2011).
 \newblock Twitter sentiment analysis: The good the bad and the omg!
 \newblock In {\em Proceedings of the international AAAI conference on web and
   social media}, volume~5, pages 538--541.
-
-\bibitem[Liu et~al., 2003]{liu2003model}
-Liu, H., Lieberman, H., and Selker, T. (2003).
-\newblock A model of textual affect sensing using real-world knowledge.
-\newblock In {\em Proceedings of the 8th international conference on
-  Intelligent user interfaces}, pages 125--132.
 
 \bibitem[Mohammad, 2012]{mohammad2012emotional}
 Mohammad, S. (2012).
@@ -144,12 +133,6 @@ Pak, A. and Paroubek, P. (2010).
 \newblock In {\em Proceedings of the Seventh International Conference on
   Language Resources and Evaluation (LREC'10)}.
 
-\bibitem[Pang and Lee, 2004]{pang2004sentimental}
-Pang, B. and Lee, L. (2004).
-\newblock A sentimental education: Sentiment analysis using subjectivity
-  summarization based on minimum cuts.
-\newblock {\em arXiv preprint cs/0409058}.
-
 \bibitem[Pang et~al., 2008]{pang2008opinion}
 Pang, B., Lee, L., et~al. (2008).
 \newblock Opinion mining and sentiment analysis.
@@ -174,13 +157,6 @@ Plaza-del Arco, F.~M., Mart{\'\i}n-Valdivia, M.~T., Ure{\~n}a-L{\'o}pez, L.~A.,
   incorporation of lexical knowledge.
 \newblock {\em Future Generation Computer Systems}, 110:1000--1008.
 
-\bibitem[Read, 2005]{read2005using}
-Read, J. (2005).
-\newblock Using emoticons to reduce dependency in machine learning techniques
-  for sentiment classification.
-\newblock In {\em Proceedings of the ACL student research workshop}, pages
-  43--48.
-
 \bibitem[Roberts et~al., 2012]{roberts2012empatweet}
 Roberts, K., Roach, M.~A., Johnson, J., Guthrie, J., and Harabagiu, S. (2012).
 \newblock Empatweet: Annotating and detecting emotions on twitter.
@@ -195,18 +171,6 @@ Sidorov, G., Miranda-Jim{\'e}nez, S., Viveros-Jim{\'e}nez, F., Gelbukh, A.,
   in tweets.
 \newblock In {\em Mexican international conference on Artificial intelligence},
   pages 1--14. Springer.
-
-\bibitem[Strapparava and Mihalcea, 2007]{strapparava2007semeval}
-Strapparava, C. and Mihalcea, R. (2007).
-\newblock Semeval-2007 task 14: Affective text.
-\newblock In {\em Proceedings of the Fourth International Workshop on Semantic
-  Evaluations (SemEval-2007)}, pages 70--74.
-
-\bibitem[Strapparava and Mihalcea, 2008]{strapparava2008learning}
-Strapparava, C. and Mihalcea, R. (2008).
-\newblock Learning to identify emotions in text.
-\newblock In {\em Proceedings of the 2008 ACM symposium on Applied computing},
-  pages 1556--1560.
 
 \bibitem[Strapparava et~al., 2004]{strapparava2004wordnet}
 Strapparava, C., Valitutti, A., et~al. (2004).
@@ -248,19 +212,6 @@ Wiebe, J., Wilson, T., and Cardie, C. (2005).
 Wiebe, J.~M. (1994).
 \newblock Tracking point of view in narrative.
 \newblock {\em arXiv preprint cmp-lg/9407019}.
-
-\bibitem[Wilson et~al., 2005]{wilson2005recognizing}
-Wilson, T., Wiebe, J., and Hoffmann, P. (2005).
-\newblock Recognizing contextual polarity in phrase-level sentiment analysis.
-\newblock In {\em Proceedings of human language technology conference and
-  conference on empirical methods in natural language processing}, pages
-  347--354.
-
-\bibitem[Wilson et~al., 2009]{wilson2009recognizing}
-Wilson, T., Wiebe, J., and Hoffmann, P. (2009).
-\newblock Recognizing contextual polarity: An exploration of features for
-  phrase-level sentiment analysis.
-\newblock {\em Computational linguistics}, 35(3):399--433.
 
 \bibitem[Yu and Hatzivassiloglou, 2003]{yu2003towards}
 Yu, H. and Hatzivassiloglou, V. (2003).
