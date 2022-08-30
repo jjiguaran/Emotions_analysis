@@ -107,6 +107,11 @@ Kouloumpis, E., Wilson, T., and Moore, J. (2011).
 \newblock In {\em Proceedings of the international AAAI conference on web and
   social media}, volume~5, pages 538--541.
 
+\bibitem[Miller, 1995]{miller1995wordnet}
+Miller, G.~A. (1995).
+\newblock Wordnet: a lexical database for english.
+\newblock {\em Communications of the ACM}, 38(11):39--41.
+
 \bibitem[Mohammad, 2012]{mohammad2012emotional}
 Mohammad, S. (2012).
 \newblock \# emotional tweets.
