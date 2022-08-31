@@ -4,6 +4,6 @@
 \contentsline {chapter}{\numberline {1}Introducción}{1}{}%
 \contentsline {section}{\numberline {1.1}Motivación}{1}{}%
 \contentsline {section}{\numberline {1.2}Marco Teórico}{1}{}%
-\contentsline {chapter}{\numberline {2}Metodología}{6}{}%
-\contentsline {chapter}{\numberline {3}Datos}{7}{}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{8}{}%
+\contentsline {chapter}{\numberline {2}Metodología}{7}{}%
+\contentsline {chapter}{\numberline {3}Datos}{8}{}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{9}{}%

@@ -22,20 +22,25 @@ En \cite{ortony1987referential} se habla de como a pesar de que las emociones so
 
 En \cite{hatzivassiloglou1997predicting} a partir de un corpus extenso de adjetivos que vienen en parejas con usando distintos conectores, y un etiquetado manual de algunos de ellos, se establece un algoritmo para determinar lo que los autores denominan la orientación semántica de los mismos, esto es determinar si determinado adjetivo tiene una connotación negativa o positiva de la característica que describe. Este método permite la creación automática de un corpus extenso de adjetivos cuyo sentimiento se encuentra identificado.
 
-En \cite{strapparava2004wordnet} se realiza una anotación manual de estados emocionales basados en las categorias de \cite{ortony1987referential} sobre algunos términos encontrados en WordNet \cite{miller1995wordnet}, que es una base de datos de términos en ingles agrupados por grupos de sinónimos y con relación semántica entre grupos. A partir de ahí se establece la categoría emocional de nuevos términos gracias a los sinónimos y las relaciones semánticas, construyendo así una base de datos de estados emocionales llamada WordNet-Affect
+En \cite{strapparava2004wordnet} se realiza una anotación manual de estados emocionales basados en las categorías de \cite{ortony1987referential} sobre algunos términos encontrados en WordNet \cite{miller1995wordnet}, que es una base de datos de términos en ingles agrupados por grupos de sinónimos y con relación semántica entre grupos. A partir de ahí se establece la categoría emocional de nuevos términos gracias a los sinónimos y las relaciones semánticas, construyendo así una base de datos de estados emocionales llamada WordNet-Affect
 
-En \cite{wiebe1994tracking} se plantea que el analisis de sentimiento es un caso particular de analisis de subjetividad.
-
-
-En \cite{yu2003towards} se plantea un metodo para separar opiniones de hechos.
+En \cite{wiebe1994tracking} se pone de manifiesto que en un tipo particular de texto, la ficción, la narración puede ocurrir desde un punto de vista objetivo,m es decir, una descripción de hechos comprobables, y también desde un punto de vista subjetivo, es decir, poniendo de manifiesto los hechos atravesados por los estados mentales internos el narrador, y que la distinción entre un tipo de narración y otra no esta siempre clara, por lo que propone un algoritmo capaz de hacer esta distinción de manera automática.
 
 
+En \cite{yu2003towards} se plantea la necesidad de sistemas algoritmos capaces de discernir opiniones de hechos con el objetivo de lograr sistemas capaces de responde preguntas. Esta necesidad se plante a nivel de documentos, por ejemplo diferenciar editoriales de artículos de noticias, así como a nivel de frases. se plantean distintos modelos de aprendizaje supervisado para estas tareas en particular.
 
 
 
-En \cite{pang2002thumbs}, \cite{turney2002thumbs},  y  se analiza la detección de sentimiento en el texto
+En \cite{pang2002thumbs} se establece la importancia de desarrollar, ante textos que reflejen opiniones subjetivas, sistemas capaces de identificar si dicha opinión es negativa o positiva. Para este propósito, se emplea el dominio de las reviews online de películas, construyendo algoritmos de aprendizaje supervisado que utiliza como features principalmente unigramas.
 
-En \cite{wiebe2005annotating}, \cite{alm2005emotions},\cite{aman2007identifying}  se puede apreciar como el texto puede ser utilizado para detectar emociones.
+En \cite{turney2002thumbs} se pretende determinar a traves de aprendizaje no supervisado, si determinada review sobre diversos temas online, presenta un sentimiento negativo o positivo. Para ello, emplea el concepto de orientación semántica presente en \cite{hatzivassiloglou1997predicting} para determinar si una frase tiene orientación negativa o positiva para luego determinar si la review en su conjunto es positiva o negativa.
+
+En \cite{wiebe2005annotating} se elabora una anotación manual de las estados emocionales presentes en las oraciones de un gran volumen de noticias, en donde se tiene en cuenta el contexto. El objetivo de esta anotación es crear un corpus etiquetado lo suficientemente grande para generar avances en el campo de la detección de emociones
+
+En \cite{alm2005emotions} se utilizan los cuentos infantiles para desarrollar un modelo de aprendizaje supervisado capaz de detectar emociones en las frases del texto. Para ello se elabora una anotación manual de las frases que constituyen el set de datos y luego, se generan un set de features para estas que pasaran a entrenar un clasificador lineal.
+
+En \cite{aman2007identifying} se utilizan texto proveniente de blogs para realizar detección de emociones presentes en las oraciones de estos. Para ello recurren primero a una anotación manual de las mismas y luego a la construcción de features para entrenar distintos modelos supervisados.
+
 
 Luego, en \cite{pang2008opinion} se muestra como los foros de Internet son una fuente de información de l cual se puede extraer valiosa información, entre esos detectar emociones.
 
