@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.14)  31 AUG 2022 19:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.14)  1 SEP 2022 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -665,22 +665,22 @@ LaTeX Info: Redefining \% on input line 1.
 Cap\'{\i }tulo 1.
 [1
 
-] [2] [3] [4] [5]) (./Chapters/chapter2.tex [6]
+] [2] [3] [4] [5] [6]) (./Chapters/chapter2.tex [7]
 Cap\'{\i }tulo 2.
-) (./Chapters/chapter3.tex [7
+) (./Chapters/chapter3.tex [8
 
 ]
 Cap\'{\i }tulo 3.
-) (./report.bbl [8
+) (./report.bbl [9
 
-] [9
+] [10
 
-] [10]
+] [11]
 Underfull \hbox (badness 4543) in paragraph at lines 87--92
 []\OT1/cmr/m/n/12 Hatzivassiloglou, V. and Mc-Keown, K.
  []
 
-[11] [12] [13]) [14] (./report.aux
+[12] [13] [14]) [15] (./report.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
@@ -691,17 +691,17 @@ Here is how much of TeX's memory you used:
  32815 multiletter control sequences out of 15000+600000
  477930 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,8n,133p,659b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 85i,8n,133p,670b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/type1/publi
 c/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.
 pfb>
-Output written on report.pdf (21 pages, 221351 bytes).
+Output written on report.pdf (22 pages, 224583 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+ 104 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

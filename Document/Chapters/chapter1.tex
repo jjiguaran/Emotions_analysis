@@ -42,17 +42,23 @@ En \cite{alm2005emotions} se utilizan los cuentos infantiles para desarrollar un
 En \cite{aman2007identifying} se utilizan texto proveniente de blogs para realizar detección de emociones presentes en las oraciones de estos. Para ello recurren primero a una anotación manual de las mismas y luego a la construcción de features para entrenar distintos modelos supervisados.
 
 
-Luego, en \cite{pang2008opinion} se muestra como los foros de Internet son una fuente de información de l cual se puede extraer valiosa información, entre esos detectar emociones.
+Luego, en \cite{pang2008opinion} se hace manifiesto la importancia que ha venido ganando el campo del análisis de sentimiento debido al auge del Internet, tanto para usuarios individuales como para la industria de la publicidad, el mercado financiero y la academia, por lo que se hace un recuento de las distintas técnicas y aplicaciones que son consideradas relevantes por los autores hasta la fecha. 
 
 
-En \cite{pak2010twitter}, \cite{kouloumpis2011twitter} y en \cite{go2009twitter}e aprecia como twitter puede ser usado como fuente para identificar sentimientos positivos, negativos y neutros.
-
-En \cite{o2010tweets} se muestra como los sentimientos encontrados en twitter corresponden con resultados de encuestas de opinión.
-
-En \cite{davidov2010enhanced} se utilizan los hashtags y los emoticones para la clasificacion
 
 
-En  , \cite{wang2012harnessing}y en \cite{roberts2012empatweet} se plantea la clasificación mediante distintos algoritmos de las emociones en los tweets.
+En \cite{pak2010twitter} se identifica twitter como una plataforma útil para extraer texto de diferentes usuarios sobre distintos temas por lo que se propone realizar un análisis de sentimientos sobre la misma. Para ello se procede  a la identificación de tweets que contengan emoticones felices y tristes, así como tweets provenientes de cuentas de medios de noticias para tweets neutrales. luego se procede a la construcción de features usando n-gramas a partir de las palabras presentes en el tweets  con estos se entrenaron varios clasificadores.
+
+
+
+En \cite{o2010tweets} se plantea la pregunta si existe una correlación entre el sentimiento encontrado en twitter y las encuestas de opinión. Para ello, se toma una muestra del de mil millones de tweets entre 2008 y 2009 y se toman aquellos tweets que contengan palabras claves asociadas a los temas que se están investigando. EL sentimiento se determina a partir de la proporción de palabras con asociación negativa o positiva presentes en el tema que se esta analizando en un día en particular. Los resultados dan una correlación alta entre el sentimiento encontrado a través del texto y las encuestas.
+
+En \cite{davidov2010enhanced} se parte del supuesto de que los hashtags y los emoticones contienen información relevante el cuanto al sentimiento del tweet, por lo que se hace una selección de 50 hashtags que tengan una asociación fuerte al sentimiento y se entrena un modelo supervisado a partir de los tweets que contengan estos hashtags, construyendo un vector de features para cada uno. El modelo es posteriormente empleado para clasificar otros tweets y jueces humanos verifican su eficacia.
+
+
+En  \cite{wang2012harnessing} se entrena un modelo de supervisado distante de emociones presentes en twitter. Para ellos, se utilizan hashtags que contengan terminos claves provenientes de las 5 emociones basicas de propuestas por \cite{ekman1993facial} para realizar el llamado de la api. A partir de ahi se entrena el modelo a partir de los features construidos para el texto de los tweets. 
+
+En \cite{roberts2012empatweet} se identifica la necesidad de contar con un corpus que sirva de base para la tarea de identificación de emociones en twitter. Para ello, se seleccionan  14 temas que para los autores tienen un fuerte contenido emocional y las palabras clave asociados a estos para ser usados como hashtags en las extracción. A partir de ahí, manualmente se etiquetaron los tweets con su respectiva emoción. Esto sirvió de base para entrenar un modelo de aprendizaje supervisado.
 
 
 
