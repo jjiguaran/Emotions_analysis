@@ -62,17 +62,19 @@ En \cite{roberts2012empatweet} se identifica la necesidad de contar con un corpu
 
 
 
-En \cite{bollen2011modeling} se observa la relación entre los eventos sociales, políticos y económicos y las emociones detectadas.
+En \cite{bollen2011modeling} se plantea que a través del uso de twitter, los usurarios reflejan sus estados emocionales, ya sea de una manera explicita al indicar su emoción o de una manera implícita al hablar sobre un tema de interés general. En ese contexto, se genera procede a realizar una medida del estado emocional de una muestra de tweets entre agosto y diciembre del 2008, en donde el mismo se mide a través de ka similaridad presente entre las palabras de los tweets y ciertos términos claves asociados a estados emocionales. Esto permite encontrar que determinados eventos relevantes generan un impacto emocional significativo y durante un periodo de tiempo en los usuarios.
 
-En \cite{tumasjan2010predicting} se realiza un análisis de sentimientos durante una campaña política.
+En \cite{tumasjan2010predicting} se plante el uso de twitter como plataforma de medición de la sensación política durante las elecciones parlamentarias en Alemania en el 2009. Una de sus preguntas de investigación estuvo relacionada con los sentimientos que se reflejan en los tweets que mencionan a los políticos que hacen parte de las campañas y para esto, se empleo sobre el texto proveniente de twitter, un software capaz de identificar palabras claves asociadas a estados emocionales y cognitivos en el texto. El resultado fue un perfil emocional para cada político que ve de acuerdo con su discurso político.
 
-En \cite{ceron2016sentiment} explora el análisis de sentimiento en twitter durante las elecciones 2014 en Colombia.
+En \cite{ceron2016sentiment} se pretende realizar un análisis de sentimientos sobre tweets relacionados con las elecciones presidenciales en Colombia en el 2014 y comparar los resultados de este con las encuestas de opinión. Para ellos, inicialmente obtiene tweets que tengan  palabras claves y hashtags relacionados con las elecciones, luego hace un filtrado de spam y finalmente entrena un modelo supervisado con los features que genera para los tweets restantes. Los resultados no son consistentes por lo que se plantea en futuros trabajos  una caracterización demográfica.
 
-En \cite{hochreiter1997long} se desarrollan las redes LSTM que son un tipo de RNN.
 
-En \cite{chung2014empirical} se utilizan las GRU que son otro tipo de RNN y superan a las LSTM
 
-En \cite{vaswani2017attention} se desarrollan la tecnica de trasnformers que combina LSTM y GRU, de las cuales bert es un ejemplo
+Las RNN (redes neuronales recurrentes) son un tipo de arquitectura de red neuronal cuyo uso es especial para datos secuenciales, tales como las tareas de NLP. En estas, para un ejemplo nuevo, es posible utilizar el resultado del procesamiento de un dato anterior, para el procesamiento del siguiente dato (como en una secuencia de caracteres por ejemplo), es decir la misma topología de pesos recibirá para cada ejemplo nuevo, el resultado del ejemplo anterior ademas del ejemplo nuevo de entrada. Sin embargo, debido a su arquitectura, la optimizacion de los pesos que constituyen la topología se vuelve compleja pues para el calculo del gradiente del error, se deberá pasar tantas veces por los pesos de la red como pasos en el tiempo haya (como numero de caracteres en una palabra) haciendo que en secuencias particularmente largas, este calculo crezca o disminuya en demasía. Para enfrentar este problema , \cite{hochreiter1997long} y \cite{chung2014empirical} plantean nuevas arquitecturas de RNN conocidas como LSTM (Long-Short term memoryzz) y GRU (Gated Recurrent Unit) respectivamente, en donde a través de nuevas unidades que permiten la activación/cancelación de las señales que constituyen la red, se puede realizar la optimizacion de manera directa sin pasar por los pesos de la red.
+
+
+En general ,las arquitecturas de RNN, al tener una estructura secuencial, se impide la paralelizacion de su computo, pues se necesita las salidas de ejemplos anteriores para llevar a cabo el siguiente paso en el tiempo. Ademas, debido a esta mismo funcionamiento secuencial, si existe un gran numero de pasos en el tiempo, es poco probable que la red tenga en cuenta información presente al inicio. Para solucionar estos inconvenientes, \cite{vaswani2017attention} desarrollan los Transformers, que son un tipo de arquitectura en la que todos los datos de entrada, son ingresados a la red de manera simultanea, como todas las palabras en una frase por ejemplo, y a través de una arquitectura que definen como atención, se realiza una transformación de los datos de manera que la representación de cada dato, en este caso cada palabra, tenga en cuenta que tan importante es la misma para todas las demás palabras de la oración. Esta transformación, aplicada tanto en los datos de entrada como en los de salida, es luego usada para entrenar los pesos de la red. De esta manera la red es capaz de procesar datos en simultaneo así como tener en cuenta toda la información disponible.
+ 
 
 En \cite{devlin2018bert} se desarrolla BERT
 
