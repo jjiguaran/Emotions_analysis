@@ -95,12 +95,6 @@ Hochreiter, S. and Schmidhuber, J. (1997).
 \newblock Long short-term memory.
 \newblock {\em Neural computation}, 9(8):1735--1780.
 
-\bibitem[Huang et~al., 2019]{huang2019ana}
-Huang, C., Trabelsi, A., and Za{\"\i}ane, O.~R. (2019).
-\newblock Ana at semeval-2019 task 3: Contextual emotion detection in
-  conversations through hierarchical lstms and bert.
-\newblock {\em arXiv preprint arXiv:1904.00132}.
-
 \bibitem[Kouloumpis et~al., 2011]{kouloumpis2011twitter}
 Kouloumpis, E., Wilson, T., and Moore, J. (2011).
 \newblock Twitter sentiment analysis: The good the bad and the omg!
@@ -119,6 +113,12 @@ Mohammad, S. (2012).
   Computational Semantics--Volume 1: Proceedings of the main conference and the
   shared task, and Volume 2: Proceedings of the Sixth International Workshop on
   Semantic Evaluation (SemEval 2012)}, pages 246--255.
+
+\bibitem[Mohammad et~al., 2018]{mohammad2018semeval}
+Mohammad, S., Bravo-Marquez, F., Salameh, M., and Kiritchenko, S. (2018).
+\newblock Semeval-2018 task 1: Affect in tweets.
+\newblock In {\em Proceedings of the 12th international workshop on semantic
+  evaluation}, pages 1--17.
 
 \bibitem[O'Connor et~al., 2010]{o2010tweets}
 O'Connor, B., Balasubramanyan, R., Routledge, B.~R., and Smith, N.~A. (2010).

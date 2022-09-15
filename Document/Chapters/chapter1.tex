@@ -60,6 +60,15 @@ En  \cite{wang2012harnessing} se entrena un modelo de supervisado distante de em
 
 En \cite{roberts2012empatweet} se identifica la necesidad de contar con un corpus que sirva de base para la tarea de identificación de emociones en twitter. Para ello, se seleccionan  14 temas que para los autores tienen un fuerte contenido emocional y las palabras clave asociados a estos para ser usados como hashtags en las extracción. A partir de ahí, manualmente se etiquetaron los tweets con su respectiva emoción. Esto sirvió de base para entrenar un modelo de aprendizaje supervisado.
 
+En \cite{gil2013combining} se resalta la utilidad que las redes sociales en general y twitter en particular tienen de proveer un volumen considerable de texto sobre el cual ejecutar la tare de identificación de emociones en español. Para ello, se recurre al empleo de términos relacionados con algunas de las emociones básicas como hashtags ala hora de realizar la query a la API y se construye un dataset en donde los tweets que contengan dichos hashtags son pertenecen a determinada emoción. A partir de ahí se entrenan distintos algoritmos de aprendizaje supervisado.  e
+
+En \cite{mohammad2018semeval} se parte de la necesidad de contar con corpus de tweets con etiquetas emocionales en distintos idiomas para fomentar el desarrollo del area. Para ello se identifica términos claves asociados a las distintas emociones básicas. Estos términos serán los utilizados en la query a la API de twitter y a partir de ahí, se procede a un etiquetado manual de los tweets a través de una plataforma de crowdsourcing. Esto se llevo a cabo en ingles, árabe y español
+
+
+En \cite{plaza2020improved} se identifica que existe poca literatura al rededor de la clasificación de emociones en texto en español. Para ello, se plantea la evaluación de distintos modelos de aprendizaje supervisado usando un corpus de tweets en español con categorías emocionales provenientes de \cite{mohammad2018semeval}. A partir de ahí, se  procede a generar  representaciones vectoriales de los tweets. Se evalúan luego estos modelos de para tener un desempeño de base y luego se añade una variable que indique la presencia de algunos términos claves asociados con las emociones básicas, proveniente del trabajo realizado por \cite{sidorov2012empirical}. Esto mejoro considerablemente el desempeño del modelo.
+
+
+
 
 
 En \cite{bollen2011modeling} se plantea que a través del uso de twitter, los usurarios reflejan sus estados emocionales, ya sea de una manera explicita al indicar su emoción o de una manera implícita al hablar sobre un tema de interés general. En ese contexto, se genera procede a realizar una medida del estado emocional de una muestra de tweets entre agosto y diciembre del 2008, en donde el mismo se mide a través de ka similaridad presente entre las palabras de los tweets y ciertos términos claves asociados a estados emocionales. Esto permite encontrar que determinados eventos relevantes generan un impacto emocional significativo y durante un periodo de tiempo en los usuarios.
@@ -67,6 +76,11 @@ En \cite{bollen2011modeling} se plantea que a través del uso de twitter, los us
 En \cite{tumasjan2010predicting} se plante el uso de twitter como plataforma de medición de la sensación política durante las elecciones parlamentarias en Alemania en el 2009. Una de sus preguntas de investigación estuvo relacionada con los sentimientos que se reflejan en los tweets que mencionan a los políticos que hacen parte de las campañas y para esto, se empleo sobre el texto proveniente de twitter, un software capaz de identificar palabras claves asociadas a estados emocionales y cognitivos en el texto. El resultado fue un perfil emocional para cada político que ve de acuerdo con su discurso político.
 
 En \cite{ceron2016sentiment} se pretende realizar un análisis de sentimientos sobre tweets relacionados con las elecciones presidenciales en Colombia en el 2014 y comparar los resultados de este con las encuestas de opinión. Para ellos, inicialmente obtiene tweets que tengan  palabras claves y hashtags relacionados con las elecciones, luego hace un filtrado de spam y finalmente entrena un modelo supervisado con los features que genera para los tweets restantes. Los resultados no son consistentes por lo que se plantea en futuros trabajos  una caracterización demográfica.
+
+
+
+
+En \cite{acheampong2021transformer} se hace un recuento del estado del arte de la detección de emociones en el texto. Aquí, se expresa que debido a la naturaleza contextual del texto, es de fundamental importancia contar con modelos que puedan captar la relación secuencial que existe en el mismo. Es aquí donde se pone en evidencia la conveniencia de usar redes neuronales recurrentes debido a la naturaleza secuencial de su arquitectura. Dentro de estas, se resalta que las redes LSTM permitieron solucionar algunos problemas que estas tenían y fueron de gran utilidad en el desarrollo del area. Luego se describe como el uso de Transformers permitió paralelizár el procesamiento, así como la capacidad de tener información contextual para intervalos secuenciales mas amplias. Dentro del uso de Transformers se resalta el uso de modelos pre entrenados que puedan ser utilizados para tareas especificas a través de un entrenamiento final. Acá se resalta BERT como el modelo mas popular para la tarea de detección de emociones recientemente.
 
 
 
@@ -78,18 +92,16 @@ En general ,las arquitecturas de RNN, al tener una estructura secuencial, se imp
 
 A partir del desarrollo de los Transformers, en  \cite{devlin2018bert} se desarrolla un modelo capaz de aprender el contexto del lenguaje de una manera general y luego utilizar lo aprendido para distintas tareas de NLP denominado BERT (Bidirectional Transformers for Language Understanding). Para ello se utilizo una arquitectura en donde las capas de entrada son las representaciones vectoriales de las palabras (Embedings) y a partir de ahí, contiene múltiples capas de Transformers. Para su entrenamiento, esta arquitectura tuvo dos tareas simultaneas: se suministran dos oraciones consecutivas con palabras faltantes y la tarea es saber que palabra podría ser la faltante, ademas de identificar el orden de las oraciones. Esto le permite al modelo aprender del contexto del lenguaje a nivel de palabras usando las palabras que vienen antes y después como fuente de información, así como el contexto de las oraciones al identificar su orden. Para ello se utilizo toda la wikipedia. Este modelo pre entrenado es luego capaz de utilizar esta representación contextual del lenguaje para realizar distintas tareas de NLP tales como análisis de sentimiento, al agregar una capa final a la red que produzca un posible resultado y al comparar este con su respectivo valor esperado realizar un entrenamiento.
 
-En \cite{acheampong2021transformer} se hace un recuento de el uso de transformers para detectar emociones
-
-EN \cite{canete2020spanish} se propone una aplicación de BERT para español
-
-En \cite{gonzalez2021twilbert}, \cite{huang2019ana} se utiliza bert en twitter para  detectar emociones
-
-En \cite{plaza2020improved}, \cite{gil2013combining} se hace una clasificación de emociones en español.
+EN \cite{canete2020spanish} se destaca la importancia de los modelos pre entrenados basados en Transformers por su superior desempeño en tareas de NLP ademas de su practicidad de uso. Sin embargo, resaltan que no existía hasta la fecha un modelo de este tipo entrenado específicamente para español, ademas del BERT para múltiples lenguajes. Por ello, se proponen entrenar dicho modelo usando ademas de la Wikipedia en español, texto de publicaciones de las naciones unidas, gobiernos y charlas TED. El resultado fue un modelo que supera al BERT en múltiples idiomas en casi todas las tareas evaluadas.
 
 
-En \cite{sidorov2012empirical} propone un léxico de palabras en español asociadas a emociones
-`
 
+En \cite{gonzalez2021twilbert} se resaltan las ventajas de la arquitectura de BERT, sin embargo se pone de manifiesto que el idioma español en general y el dominio de twitter en particular, poseen características propios que al ser tenidas en cuenta, podrían mejorar el desempeño para esta tarea en especifico con respecto al modelo de múltiples lenguaje de BERT. Para ellos, se recurre a un corpus de 41 millones de tweets en español con el que se entrena un modelo con la arquitectura de BERT desde 0 al que denominan TwilBert, obteniendo resultados mejores que BERT para algunas tareas de NLP
+
+
+
+
+Debido a la necesidad de contar con términos en español que puedan ser relacionados a determinadas emociones para propósitos de la detección automática, \cite{sidorov2012empirical} provee un léxico con tal propósito, que obtienen a través de la traducción de léxicos semejantes en ingles, que son luego evaluados por comentadores individuales, para filtrar aquellas palabras que presenten poca asociación con las emociones, así como dar un porcentaje de asociación del termino a la emoción, dependiendo de cuantos comentadores estuvieron de acuerdo en dicha asosiacion.
 
 
 

@@ -9,43 +9,43 @@ Warning--can't use both volume and number fields in strapparava2004wordnet
 Warning--can't use both volume and number fields in tumasjan2010predicting
 You've used 36 entries,
             1935 wiz_defined-function locations,
-            684 strings with 11347 characters,
-and the built_in function-call counts, 16384 in all, are:
-= -- 1635
-> -- 667
-< -- 31
-+ -- 228
-- -- 226
-* -- 1315
-:= -- 2699
+            684 strings with 11349 characters,
+and the built_in function-call counts, 16559 in all, are:
+= -- 1654
+> -- 672
+< -- 32
++ -- 230
+- -- 228
+* -- 1328
+:= -- 2717
 add.period$ -- 114
 call.type$ -- 36
-change.case$ -- 290
+change.case$ -- 291
 chr.to.int$ -- 36
 cite$ -- 40
-duplicate$ -- 694
-empty$ -- 1157
-format.name$ -- 274
-if$ -- 3342
+duplicate$ -- 704
+empty$ -- 1174
+format.name$ -- 276
+if$ -- 3387
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 37
 newline$ -- 183
 num.names$ -- 108
-pop$ -- 315
+pop$ -- 320
 preamble$ -- 1
-purify$ -- 291
+purify$ -- 292
 quote$ -- 0
-skip$ -- 530
+skip$ -- 535
 stack$ -- 0
-substring$ -- 1118
-swap$ -- 173
-text.length$ -- 19
+substring$ -- 1137
+swap$ -- 178
+text.length$ -- 20
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 214
 warning$ -- 4
-while$ -- 135
+while$ -- 138
 width$ -- 0
-write$ -- 471
+write$ -- 472
 (There were 4 warnings)
