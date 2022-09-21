@@ -1,9 +1,13 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\'{I}ndice de figuras}{5}{}%
-\contentsline {chapter}{\'{I}ndice de cuadros}{6}{}%
+\contentsline {chapter}{\'{I}ndice de figuras}{6}{}%
+\contentsline {chapter}{\'{I}ndice de cuadros}{7}{}%
 \contentsline {chapter}{\numberline {1}Introducción}{1}{}%
 \contentsline {section}{\numberline {1.1}Motivación}{1}{}%
 \contentsline {section}{\numberline {1.2}Marco Teórico}{1}{}%
-\contentsline {chapter}{\numberline {2}Datos}{12}{}%
-\contentsline {chapter}{\numberline {3}Metodología}{13}{}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{14}{}%
+\contentsline {subsection}{\numberline {1.2.1}Análisis de sentimiento y emociones en el texto}{1}{}%
+\contentsline {subsection}{\numberline {1.2.2}Sentimientos y emociones en redes sociales}{5}{}%
+\contentsline {subsection}{\numberline {1.2.3}Redes neuronales para el análisis de texto}{8}{}%
+\contentsline {subsection}{\numberline {1.2.4}Detección de sentimientos y emociones en español}{10}{}%
+\contentsline {chapter}{\numberline {2}Datos}{13}{}%
+\contentsline {chapter}{\numberline {3}Metodología}{14}{}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{15}{}%
