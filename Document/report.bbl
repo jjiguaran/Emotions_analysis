@@ -218,6 +218,13 @@ Wiebe, J.~M. (1994).
 \newblock Tracking point of view in narrative.
 \newblock {\em arXiv preprint cmp-lg/9407019}.
 
+\bibitem[{Wikipedia contributors}, 2022]{enwiki:1109264340}
+{Wikipedia contributors} (2022).
+\newblock Recurrent neural network --- {Wikipedia}{,} the free encyclopedia.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Recurrent_neural_network&oldid=1109264340}.
+\newblock [Online; accessed 26-September-2022].
+
 \bibitem[Yu and Hatzivassiloglou, 2003]{yu2003towards}
 Yu, H. and Hatzivassiloglou, V. (2003).
 \newblock Towards answering opinion questions: Separating facts from opinions
