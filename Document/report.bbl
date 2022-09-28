@@ -155,18 +155,31 @@ Picard, R.~W. (2000).
 \newblock {\em Affective computing}.
 \newblock MIT press.
 
-\bibitem[Plaza-del Arco et~al., 2020]{plaza2020improved}
+\bibitem[Plaza-del Arco et~al., 2020a]{plaza2020improved}
 Plaza-del Arco, F.~M., Mart{\'\i}n-Valdivia, M.~T., Ure{\~n}a-L{\'o}pez, L.~A.,
-  and Mitkov, R. (2020).
+  and Mitkov, R. (2020a).
 \newblock Improved emotion recognition in spanish social media through
   incorporation of lexical knowledge.
 \newblock {\em Future Generation Computer Systems}, 110:1000--1008.
+
+\bibitem[Plaza-del Arco et~al., 2020b]{plaza2020emoevent}
+Plaza-del Arco, F.~M., Strapparava, C., Lopez, L. A.~U., and
+  Mart{\'\i}n-Valdivia, M.~T. (2020b).
+\newblock Emoevent: A multilingual emotion corpus based on different events.
+\newblock In {\em Proceedings of the 12th Language Resources and Evaluation
+  Conference}, pages 1492--1498.
 
 \bibitem[Roberts et~al., 2012]{roberts2012empatweet}
 Roberts, K., Roach, M.~A., Johnson, J., Guthrie, J., and Harabagiu, S. (2012).
 \newblock Empatweet: Annotating and detecting emotions on twitter.
 \newblock In {\em Proceedings of the Eighth International Conference on
   Language Resources and Evaluation (LREC'12)}, pages 3806--3813.
+
+\bibitem[Sidorov et~al., 2016]{sidorov2016construccion}
+Sidorov, G., Haro, S. N.~G., and V{\'a}zquez, V. A.~C. (2016).
+\newblock Construcci{\'o}n de un corpus marcado con emociones para el
+  an{\'a}lisis de sentimientos en twitter en espa{\~n}ol.
+\newblock {\em Revista Escritos BUAP}, 1(1).
 
 \bibitem[Sidorov et~al., 2012]{sidorov2012empirical}
 Sidorov, G., Miranda-Jim{\'e}nez, S., Viveros-Jim{\'e}nez, F., Gelbukh, A.,
