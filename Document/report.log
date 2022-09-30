@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.14)  29 SEP 2022 21:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.14)  30 SEP 2022 20:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -721,15 +721,15 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [12 <./Images & Logos/Transformers.png>] [13 <./Images & Logos/BERT.png>]
 [14]) (./Chapters/chapter2.tex [15]
 Cap\'{\i }tulo 2.
-) (./Chapters/chapter3.tex
-Overfull \hbox (21.16092pt too wide) in paragraph at lines 11--1
+
+Overfull \hbox (21.16092pt too wide) in paragraph at lines 11--12
 \OT1/cmr/m/n/12 gua-je. Es-te mo-de-lo, fue en-tre-na-do con los da-tos pro-ve-
 nien-tes de [[]],
  []
 
 [16
 
-] [17]
+]) (./Chapters/chapter3.tex [17]
 Cap\'{\i }tulo 3.
 ) (./report.bbl [18
 
@@ -745,10 +745,10 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 14993 strings out of 478287
- 267052 string characters out of 5849289
- 575377 words of memory out of 5000000
- 32931 multiletter control sequences out of 15000+600000
+ 14996 strings out of 478287
+ 267108 string characters out of 5849289
+ 575388 words of memory out of 5000000
+ 32934 multiletter control sequences out of 15000+600000
  477762 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,8n,133p,2060b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -758,7 +758,7 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-s
 uper/sfti1200.pfb>
-Output written on report.pdf (32 pages, 447825 bytes).
+Output written on report.pdf (32 pages, 448287 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  89 compressed objects within 1 object stream

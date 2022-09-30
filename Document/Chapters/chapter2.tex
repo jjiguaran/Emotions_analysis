@@ -9,3 +9,20 @@ En \cite{wang2012harnessing} se utilizan distintos términos relacionados con em
 
 
 COn el objetyivo de contar con un dataset lo suficientemente robusto para la tarea, una vez descargados los tweets, estos fueron filtrados utilizando un modelo de lenguaje. Este modelo, fue entrenado con los datos provenientes de \cite{mohammad2018semeval}, \cite{sidorov2016construccion}, \cite{plaza2020emoevent}
+
+
+
+\begin{table}[ht]
+	\centering
+	\caption{Cantidad de Tweets para cada emoción por Dataset}
+\begin{tabular}{lrrrrrrr}
+	\toprule
+	{} &   ira &  miedo &  tristeza &  alegria &  asco &  sorpresa &  otra \\
+	\midrule
+	EmoEvent &   840 &     95 &       992 &     1756 &   160 &       340 &  4010 \\
+	SemEval  &   914 &    396 &       849 &     1741 &   168 &       138 &  1016 \\
+	Sidorov  &  1830 &   1873 &       282 &     1952 &  1862 &      1976 &     0 \\
+	\bottomrule
+\end{tabular}
+\label{table:tweets_counts}
+\end{table}
