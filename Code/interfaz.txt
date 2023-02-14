@@ -1,0 +1,50 @@
+<View>
+  <Text name="text" value="$text"/>
+  <View style="box-shadow: 2px 2px 5px #999; padding: 1px; margin-top: 1em; border-radius: 5px;">
+    <Header value="¿Es relevante el presente tweet para el analisis de emociones durante la campaña presidencial?"/>
+    <Choices name="relevancia" toName="text" choice="single" showInLine="true">
+      <Choice value="Si"/>
+      <Choice value="No"/>
+    </Choices>
+  </View>
+  <View style="box-shadow: 2px 2px 5px #999; padding: 1px; margin-top: 1em; border-radius: 5px;">
+    <Header value="¿Existe contenido emocional en este tweet?"/>
+    <Choices name="emocion" toName="text" choice="single" showInLine="true">
+      <Choice value="Si"/>
+      <Choice value="No"/>
+    </Choices>
+  </View>
+  <View style="box-shadow: 2px 2px 5px #999; padding: 1px; margin-top: 1em; border-radius: 5px;">
+    <Header value="¿Esta el texto escrito de manera ironica?"/>
+    <Choices name="ironia" toName="text" choice="single" showInLine="true">
+      <Choice value="Si"/>
+      <Choice value="No"/>
+    </Choices>
+  </View>
+<View style="box-shadow: 2px 2px 5px #999; padding: 1px; margin-top: 1em; border-radius: 5px;">
+    <Header value="¿Que emocion describe mejor el texto?"/>
+    <Choices name="sentimento" toName="text" choice="multiple" showInLine="true">
+      <Choice value="Admiración"/>
+      <Choice value="Asombro"/>
+      <Choice value="Ira"/>
+      <Choice value="Decepción"/>
+      <Choice value="Asco"/>
+      <Choice value="Desagrado"/>
+      <Choice value="Miedo"/>
+      <Choice value="Odio"/>
+      <Choice value="Incertidumbre"/>
+      <Choice value="Alegria"/>
+      <Choice value="Agrado"/>
+      <Choice value="Tristeza"/>
+      <Choice value="Sorpresa"/>
+      <Choice value="Confianza"/>
+      <Choice value="Otra"/>
+    </Choices>
+  </View>
+  <View>
+    <Header value="¿Si en la pregunta anterior eligio Otra, con que emocion describiria mejor el tweet?"/>
+    <TextArea name="answer" toName="text" showSubmitButton="true" maxSubmissions="1" editable="true" required="false"/>
+  </View>
+</View>
+<!-- { "data": {"text": "This is a great 3D movie that delivers everything almost right in your face."}
+} -->

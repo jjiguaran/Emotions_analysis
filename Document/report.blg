@@ -5,47 +5,48 @@ The style file: apalike.bst
 Database file #1: ref.bib
 Warning--can't use both volume and number fields in bollen2011modeling
 Warning--can't use both volume and number fields in kouloumpis2011twitter
+Warning--empty journal in plaza2021overview
 Warning--can't use both volume and number fields in strapparava2004wordnet
 Warning--can't use both volume and number fields in tumasjan2010predicting
-You've used 39 entries,
+You've used 40 entries,
             1935 wiz_defined-function locations,
-            699 strings with 12111 characters,
-and the built_in function-call counts, 17774 in all, are:
-= -- 1778
-> -- 720
+            703 strings with 12475 characters,
+and the built_in function-call counts, 18197 in all, are:
+= -- 1813
+> -- 753
 < -- 34
-+ -- 247
-- -- 244
-* -- 1419
-:= -- 2923
-add.period$ -- 124
-call.type$ -- 39
-change.case$ -- 314
-chr.to.int$ -- 38
-cite$ -- 43
-duplicate$ -- 756
-empty$ -- 1255
-format.name$ -- 295
-if$ -- 3633
++ -- 259
+- -- 256
+* -- 1459
+:= -- 3003
+add.period$ -- 126
+call.type$ -- 40
+change.case$ -- 325
+chr.to.int$ -- 39
+cite$ -- 45
+duplicate$ -- 769
+empty$ -- 1275
+format.name$ -- 308
+if$ -- 3708
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 39
-newline$ -- 199
-num.names$ -- 117
-pop$ -- 341
+missing$ -- 40
+newline$ -- 203
+num.names$ -- 120
+pop$ -- 354
 preamble$ -- 1
-purify$ -- 315
+purify$ -- 326
 quote$ -- 0
-skip$ -- 578
+skip$ -- 588
 stack$ -- 0
-substring$ -- 1213
+substring$ -- 1225
 swap$ -- 191
 text.length$ -- 21
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 232
-warning$ -- 4
-while$ -- 147
+type$ -- 238
+warning$ -- 5
+while$ -- 149
 width$ -- 0
-write$ -- 512
-(There were 4 warnings)
+write$ -- 522
+(There were 5 warnings)
