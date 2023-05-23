@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.14)  11 DEC 2022 16:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.5.14)  22 MAY 2023 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -454,6 +454,31 @@ Package caption Info: Standard document class detected.
 \sf@top=\skip62
 \sf@bottom=\skip63
 )
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count329
+\c@@ppsavesec=\count330
+\c@@ppsaveapp=\count331
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count332
+\LTcapwidth=\dimen288
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count333
+\LT@rows=\count334
+\c@LT@tables=\count335
+\c@LT@chunks=\count336
+\LT@p@ftn=\toks44
+)
 (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
@@ -462,11 +487,11 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
 )
-\c@theorem=\count329
+\c@theorem=\count337
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count330
-\l__pdf_internal_box=\box57
+\l__color_backend_stack_int=\count338
+\l__pdf_internal_box=\box62
 )
 
 LaTeX Warning: Unused global option(s):
@@ -478,36 +503,36 @@ LaTeX Info: Redefining \% on input line 8.
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Info: Redefining \. on input line 80.
-LaTeX Info: Redefining \% on input line 80.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 82.
+LaTeX Font Info:    ... okay on input line 82.
+LaTeX Info: Redefining \. on input line 82.
+LaTeX Info: Redefining \% on input line 82.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count331
-\scratchdimen=\dimen288
-\scratchbox=\box58
-\nofMPsegments=\count332
-\nofMParguments=\count333
-\everyMPshowfont=\toks44
-\MPscratchCnt=\count334
-\MPscratchDim=\dimen289
-\MPnumerator=\count335
-\makeMPintoPDFobject=\count336
-\everyMPtoPDFconversion=\toks45
+\scratchcounter=\count339
+\scratchdimen=\dimen289
+\scratchbox=\box63
+\nofMPsegments=\count340
+\nofMParguments=\count341
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count342
+\MPscratchDim=\dimen290
+\MPnumerator=\count343
+\makeMPintoPDFobject=\count344
+\everyMPtoPDFconversion=\toks46
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -583,7 +608,12 @@ e
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
 Package caption Info: End \AtBeginDocument code.
+
 (./00_Intro Pages/01_Title.tex
 <Images & Logos/data_mining.png, id=1, 155.58125pt x 155.58125pt>
 File: Images & Logos/data_mining.png Graphic file (type png)
@@ -650,21 +680,21 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 (./report.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
-\tf@lof=\write4
-\openout4 = `report.lof'.
-
  [6
 
 
-] (./report.lot
+])
+\tf@lof=\write4
+\openout4 = `report.lof'.
+
+ [7] (./report.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lot=\write5
 \openout5 = `report.lot'.
 
- [7
+ [8
 
 ]) (./Chapters/chapter1.tex
 Cap\'{\i }tulo 1.
@@ -677,7 +707,7 @@ Overfull \hbox (43.96538pt too wide) in paragraph at lines 32--33
  []
 
 [4] [5] [6] [7] [8]
-<Images & Logos/Recurrent_neural_network_unfold.svg.png, id=59, 803.0pt x 268.0
+<Images & Logos/Recurrent_neural_network_unfold.svg.png, id=62, 803.0pt x 268.0
 0125pt>
 File: Images & Logos/Recurrent_neural_network_unfold.svg.png Graphic file (type
  png)
@@ -694,7 +724,7 @@ Overfull \hbox (11.64674pt too wide) in paragraph at lines 62--64
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9] [10 <./Images & Logos/Recurrent_neural_network_unfold.svg.png>]
-<Images & Logos/Transformers.png, id=68, 1525.7pt x 2247.39626pt>
+<Images & Logos/Transformers.png, id=72, 1525.7pt x 2247.39626pt>
 File: Images & Logos/Transformers.png Graphic file (type png)
 <use Images & Logos/Transformers.png>
 Package pdftex.def Info: Images & Logos/Transformers.png  used on input line 81
@@ -705,7 +735,7 @@ Package pdftex.def Info: Images & Logos/Transformers.png  used on input line 81
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [11]
-<Images & Logos/BERT.png, id=73, 1295.84125pt x 539.01375pt>
+<Images & Logos/BERT.png, id=76, 1295.84125pt x 539.01375pt>
 File: Images & Logos/BERT.png Graphic file (type png)
 <use Images & Logos/BERT.png>
 Package pdftex.def Info: Images & Logos/BERT.png  used on input line 91.
@@ -721,47 +751,271 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [12 <./Images & Logos/Transformers.png>] [13 <./Images & Logos/BERT.png>]
 [14]) (./Chapters/chapter2.tex [15]
 Cap\'{\i }tulo 2.
-
-Overfull \hbox (21.16092pt too wide) in paragraph at lines 11--12
-\OT1/cmr/m/n/12 gua-je. Es-te mo-de-lo, fue en-tre-na-do con los da-tos pro-ve-
-nien-tes de [[]],
- []
-
 [16
 
-]) (./Chapters/chapter3.tex [17]
+]
+<../Images/EDA/Cantidad de Hashtags por sector politico.png, id=95, 386.8854pt 
+x 226.9278pt>
+File: ../Images/EDA/Cantidad de Hashtags por sector politico.png Graphic file (
+type png)
+<use ../Images/EDA/Cantidad de Hashtags por sector politico.png>
+Package pdftex.def Info: ../Images/EDA/Cantidad de Hashtags por sector politico
+.png  used on input line 13.
+(pdftex.def)             Requested size: 386.88446pt x 226.92723pt.
+<../Images/EDA/Porcentaje de tweets por sector político.png, id=96, 386.8854pt
+ x 226.9278pt>
+File: ../Images/EDA/Porcentaje de tweets por sector político.png Graphic file 
+(type png)
+<use ../Images/EDA/Porcentaje de tweets por sector político.png>
+Package pdftex.def Info: ../Images/EDA/Porcentaje de tweets por sector polític
+o.png  used on input line 24.
+(pdftex.def)             Requested size: 386.88446pt x 226.92723pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17 <../Images/EDA/Cantidad de Hashtags por sector politico.png>]
+<../Images/EDA/Porcentaje de tweets por sector a lo largo del tiempo.png, id=10
+1, 449.5194pt x 218.2554pt>
+File: ../Images/EDA/Porcentaje de tweets por sector a lo largo del tiempo.png G
+raphic file (type png)
+<use ../Images/EDA/Porcentaje de tweets por sector a lo largo del tiempo.png>
+Package pdftex.def Info: ../Images/EDA/Porcentaje de tweets por sector a lo lar
+go del tiempo.png  used on input line 34.
+(pdftex.def)             Requested size: 449.51828pt x 218.25485pt.
+
+Overfull \hbox (19.51366pt too wide) in paragraph at lines 34--36
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <../Images/EDA/Porcentaje de tweets por sector político.png>]
+<../Images/EDA/emotions_correlations.png, id=106, 649.9482pt x 584.9052pt>
+File: ../Images/EDA/emotions_correlations.png Graphic file (type png)
+<use ../Images/EDA/emotions_correlations.png>
+Package pdftex.def Info: ../Images/EDA/emotions_correlations.png  used on input
+ line 46.
+(pdftex.def)             Requested size: 422.46132pt x 380.18387pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) (./Chapters/chapter3.tex [19 <../Images/EDA/Porcentaje de tweets por sector a
+ lo largo del tiempo.png>] [20] [21 <../Images/EDA/emotions_correlations.png>]
 Cap\'{\i }tulo 3.
-) (./report.bbl [18
+) (./Chapters/chapter4.tex [22
 
-] [19
+]
+Cap\'{\i }tulo 4.
+<../Images/Results/W&B Chart 5_18_2023, 7_25_13 PM (1).png, id=122, 2537.48pt x
+ 1923.185pt>
+File: ../Images/Results/W&B Chart 5_18_2023, 7_25_13 PM (1).png Graphic file (t
+ype png)
+<use ../Images/Results/W&B Chart 5_18_2023, 7_25_13 PM (1).png>
+Package pdftex.def Info: ../Images/Results/W&B Chart 5_18_2023, 7_25_13 PM (1).
+png  used on input line 11.
+(pdftex.def)             Requested size: 380.60558pt x 288.4653pt.
 
-] [20]
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23
+
+]
+<../Images/Results/Cantidad_de_tweets__por_emocion.png, id=126, 386.8854pt x 22
+6.446pt>
+File: ../Images/Results/Cantidad_de_tweets__por_emocion.png Graphic file (type 
+png)
+<use ../Images/Results/Cantidad_de_tweets__por_emocion.png>
+Package pdftex.def Info: ../Images/Results/Cantidad_de_tweets__por_emocion.png 
+ used on input line 23.
+(pdftex.def)             Requested size: 386.88446pt x 226.44543pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../Images/Results/Porcentaje de tweets por sector etiquetados con Miedo.png, i
+d=127, 399.894pt x 226.446pt>
+File: ../Images/Results/Porcentaje de tweets por sector etiquetados con Miedo.p
+ng Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets por sector etiquetados con Miedo.pn
+g>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets por sector etiq
+uetados con Miedo.png  used on input line 41.
+(pdftex.def)             Requested size: 399.893pt x 226.44543pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24 <../Images/Results/W&B Chart 5_18_2023, 7_25_13 PM (1).png>]
+<../Images/Results/Porcentaje de tweets por sector etiquetados con Alegria.png,
+ id=132, 388.3308pt x 226.446pt>
+File: ../Images/Results/Porcentaje de tweets por sector etiquetados con Alegria
+.png Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets por sector etiquetados con Alegria.
+png>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets por sector etiq
+uetados con Alegria.png  used on input line 50.
+(pdftex.def)             Requested size: 388.32983pt x 226.44543pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../Images/Results/Porcentaje de tweets por sector etiquetados con Asco.png, id
+=133, 386.8854pt x 226.446pt>
+File: ../Images/Results/Porcentaje de tweets por sector etiquetados con Asco.pn
+g Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets por sector etiquetados con Asco.png
+>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets por sector etiq
+uetados con Asco.png  used on input line 59.
+(pdftex.def)             Requested size: 386.88446pt x 226.44543pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../Images/Results/Porcentaje de tweets por sector etiquetados con Tristeza.png
+, id=134, 396.5214pt x 226.446pt>
+File: ../Images/Results/Porcentaje de tweets por sector etiquetados con Tristez
+a.png Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets por sector etiquetados con Tristeza
+.png>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets por sector etiq
+uetados con Tristeza.png  used on input line 69.
+(pdftex.def)             Requested size: 396.52042pt x 226.44543pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25 <../Images/Results/Cantidad_de_tweets__por_emocion.png>]
+<../Images/Results/Porcentaje de tweets por emocion a lo largo del tiempo.png, 
+id=139, 442.7742pt x 218.2554pt>
+File: ../Images/Results/Porcentaje de tweets por emocion a lo largo del tiempo.
+png Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets por emocion a lo largo del tiempo.p
+ng>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets por emocion a l
+o largo del tiempo.png  used on input line 84.
+(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+
+Overfull \hbox (12.7685pt too wide) in paragraph at lines 84--86
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26 <../Images/Results/Porcentaje de tweets por sector etiquetados con Miedo.pn
+g>]
+<../Images/Results/Porcentaje de tweets con Alegria por sector lo largo del tie
+mpo.png, id=144, 442.7742pt x 218.2554pt>
+File: ../Images/Results/Porcentaje de tweets con Alegria por sector lo largo de
+l tiempo.png Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets con Alegria por sector lo largo del
+ tiempo.png>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets con Alegria por
+ sector lo largo del tiempo.png  used on input line 98.
+(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+
+Overfull \hbox (12.7685pt too wide) in paragraph at lines 98--100
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../Images/Results/Porcentaje de tweets con Miedo por sector lo largo del tiemp
+o.png, id=145, 442.7742pt x 218.2554pt>
+File: ../Images/Results/Porcentaje de tweets con Miedo por sector lo largo del 
+tiempo.png Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets con Miedo por sector lo largo del t
+iempo.png>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets con Miedo por s
+ector lo largo del tiempo.png  used on input line 108.
+(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+
+Overfull \hbox (12.7685pt too wide) in paragraph at lines 108--110
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[27 <../Images/Results/Porcentaje de tweets por sector etiquetados con Alegria.
+png>]
+<../Images/Results/Porcentaje de tweets con Tristeza por sector lo largo del ti
+empo.png, id=150, 442.7742pt x 218.2554pt>
+File: ../Images/Results/Porcentaje de tweets con Tristeza por sector lo largo d
+el tiempo.png Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets con Tristeza por sector lo largo de
+l tiempo.png>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets con Tristeza po
+r sector lo largo del tiempo.png  used on input line 118.
+(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+
+Overfull \hbox (12.7685pt too wide) in paragraph at lines 118--120
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<../Images/Results/Porcentaje de tweets con Asco por sector lo largo del tiempo
+.png, id=151, 442.7742pt x 218.2554pt>
+File: ../Images/Results/Porcentaje de tweets con Asco por sector lo largo del t
+iempo.png Graphic file (type png)
+<use ../Images/Results/Porcentaje de tweets con Asco por sector lo largo del ti
+empo.png>
+Package pdftex.def Info: ../Images/Results/Porcentaje de tweets con Asco por se
+ctor lo largo del tiempo.png  used on input line 127.
+(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+
+Overfull \hbox (12.7685pt too wide) in paragraph at lines 127--129
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [28 <../Images/Results/Porcentaje de tweets por sector etiquetados con Asco.p
+ng>] (./Appendix/appendix1.tex [29 <../Images/Results/Porcentaje de tweets por 
+sector etiquetados con Tristeza.png> <../Images/Results/Porcentaje de tweets po
+r emocion a lo largo del tiempo.png>] [30 <../Images/Results/Porcentaje de twee
+ts con Alegria por sector lo largo del tiempo.png> <../Images/Results/Porcentaj
+e de tweets con Miedo por sector lo largo del tiempo.png>] [31 <../Images/Resul
+ts/Porcentaje de tweets con Tristeza por sector lo largo del tiempo.png> <../Im
+ages/Results/Porcentaje de tweets con Asco por sector lo largo del tiempo.png>]
+Ap\'{e}ndice A.
+(../Data/trendings_clean.tex [32
+
+] [33] [34] [35] [36] [37] [38] [39]))
+(./report.bbl [40] [41
+
+] [42]
 Underfull \hbox (badness 4543) in paragraph at lines 87--92
 []\OT1/cmr/m/n/12 Hatzivassiloglou, V. and Mc-Keown, K.
  []
 
-[21] [22] [23] [24]) [25] (./report.aux
+[43] [44] [45] [46]) [47] (./report.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 14999 strings out of 478287
- 267157 string characters out of 5849289
- 575421 words of memory out of 5000000
- 32937 multiletter control sequences out of 15000+600000
+ 15409 strings out of 478287
+ 280296 string characters out of 5849289
+ 631863 words of memory out of 5000000
+ 33311 multiletter control sequences out of 15000+600000
  477762 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,8n,133p,2060b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 85i,9n,133p,2060b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-s
 uper/sfti1200.pfb>
-Output written on report.pdf (33 pages, 448904 bytes).
+Output written on report.pdf (56 pages, 1456120 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 252 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
