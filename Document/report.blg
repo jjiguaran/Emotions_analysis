@@ -3,50 +3,62 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: report.aux
 The style file: apalike.bst
 Database file #1: ref.bib
+Repeated entry---line 421 of file ref.bib
+ : @inproceedings{perez-etal-2022-robertuito
+ :                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 452 of file ref.bib
+ : @misc{mromero2020electricidad-base-discriminator
+ :                                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 461 of file ref.bib
+ : @inproceedings{CaneteCFP2020
+ :                             ,
+I'm skipping whatever remains of this entry
 Warning--can't use both volume and number fields in bollen2011modeling
 Warning--can't use both volume and number fields in kouloumpis2011twitter
 Warning--empty journal in plaza2021overview
 Warning--can't use both volume and number fields in strapparava2004wordnet
 Warning--can't use both volume and number fields in tumasjan2010predicting
-You've used 40 entries,
+You've used 48 entries,
             1935 wiz_defined-function locations,
-            703 strings with 12475 characters,
-and the built_in function-call counts, 18197 in all, are:
-= -- 1813
-> -- 753
-< -- 34
-+ -- 259
-- -- 256
-* -- 1459
-:= -- 3003
-add.period$ -- 126
-call.type$ -- 40
-change.case$ -- 325
-chr.to.int$ -- 39
-cite$ -- 45
-duplicate$ -- 769
-empty$ -- 1275
-format.name$ -- 308
-if$ -- 3708
-int.to.chr$ -- 2
+            744 strings with 14201 characters,
+and the built_in function-call counts, 22158 in all, are:
+= -- 2187
+> -- 996
+< -- 37
++ -- 348
+- -- 344
+* -- 1808
+:= -- 3693
+add.period$ -- 151
+call.type$ -- 48
+change.case$ -- 409
+chr.to.int$ -- 46
+cite$ -- 53
+duplicate$ -- 907
+empty$ -- 1504
+format.name$ -- 404
+if$ -- 4476
+int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 40
-newline$ -- 203
-num.names$ -- 120
-pop$ -- 354
+missing$ -- 47
+newline$ -- 243
+num.names$ -- 144
+pop$ -- 438
 preamble$ -- 1
-purify$ -- 326
+purify$ -- 410
 quote$ -- 0
-skip$ -- 588
+skip$ -- 691
 stack$ -- 0
-substring$ -- 1225
-swap$ -- 191
-text.length$ -- 21
+substring$ -- 1437
+swap$ -- 218
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 238
+type$ -- 286
 warning$ -- 5
-while$ -- 149
+while$ -- 175
 width$ -- 0
-write$ -- 522
-(There were 5 warnings)
+write$ -- 626
+(There were 3 error messages)

@@ -2,6 +2,13 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Ejemplos de tweets con respecto a orientacion politica\relax }}{15}{}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Descripción de las emociones usadas\relax }}{19}{}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Indice de Fleiss Kappa en cada emocion\relax }}{24}{}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Descripción de los modelos usados\relax }}{25}{}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Metricas de los modelos entrenados\relax }}{30}{}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Ejemplos de tweets clasificados\relax }}{32}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces Hashtags\relax }}{32}{}%
+\contentsline {table}{\numberline {A.1}{\ignorespaces Hashtags\relax }}{48}{}%

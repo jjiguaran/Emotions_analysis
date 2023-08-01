@@ -1,53 +1,138 @@
-\chapter{Datos}
+\chapter{Metodología}
 
-\section{Obtención y análisis exploratorio de datos}
+\section{Datos}
 
-El dataset obtenido esta inicialmente constituido por 585001 tweets recolectados entre el 22 de mayo al 22 de junio del 2022, periodo dentro del cual ocurrieron la primera y la segunda vuelta de las elecciones presidenciales, el 29 de mayo y 19 de junio respectivamente. Para la extracción de los datos, se utilizaron 173 hashtags con contenido político que tuvieron lugar durante este periodo. este dataset fue filtrado para remover aquellos tweets que tuvieran menos de 5 palabras, aquellos que tuvieran una proporción de menciones,hashtags mayor al 20\% del total del texto, aquellos que tuvieran links o que provinieran de usuarios con un numero atípico de posteos. Esto redujo la base a 193348 tweets.  Los hashtags utilizados fueron etiquetados en uno de tres sectores políticos: Izquierda, Derecha y Neutro, dependiendo del contenido asociado a dichos hashtags y su tendencia política. En la tabla \ref{table:hashtags} se muestran los hashtags,así como su etiqueta política y cuantos tweets hubo para cada hashtags.
+\subsection{Obtención y análisis exploratorio de datos}
 
-La distribución de los hashtags a través de los sectores políticos se puede evidenciar en el gráfico \ref{figure:tweets_cantidad_hashtags} donde se muestra que el sector neutro tiene mas de un  40\% del total de los hashtags, mientras que la izquierda y la derecha, tienen una cantidad semejante de aproximadamente un 28\%.
+El dataset obtenido esta inicialmente constituido por 585001 tweets, recolectados entre el 22 de mayo y el 22 de junio del 2022, periodo dentro del cual ocurrieron la primera y la segunda vuelta de las elecciones presidenciales en Colombia , el 29 de mayo y 19 de junio respectivamente. Para la extracción de los datos, se utilizaron 173 hashtags con contenido político que tuvieron lugar durante este periodo. Este dataset fue filtrado para remover aquellos tweets que tuvieran menos de 5 palabras, aquellos que tuvieran una proporción de menciones o hashtags mayor al 20\% del total del texto y aquellos que tuvieran links o que provinieran de usuarios con un numero atípico de posteos. Esto redujo la base a 193348 tweets.  Los hashtags utilizados fueron etiquetados en uno de tres sectores políticos: Izquierda, Derecha y Neutro, dependiendo del contenido asociado a dichos hashtags y su tendencia política. En la tabla \ref{table:hashtags} se muestran los hashtags,así como su etiqueta política y cuantos tweets hubo para cada hashtags. En adelante durante el presente trabajo, cuando se hable de sector político, se estará haciendo referencia a esta clasificación.
+
+Cabe resaltar que la asignación de un sector político en particular a un hashtag, fue llevado a cabo a partir de la tendencia política observada en los tweets, lo que no excluye sin embargo la presencia de tweets cuya tendencia política sea contraria. En la tabla \ref{table:ejemplos_1} se pueden encontrar algunos ejemplos de tweets que muestran la relación del hashtag con la orientación política.  El hashtag \#EstallidoSocialEs por ejemplo, fue catalogado como de derecha por presentar en general tweets como el tweet 1 . Sin embargo, hay tweets que lo utilizan, en donde se aprecia un apoyo al candidato de izquierda como el tweet 2 . Del mismo modo el hashtag \#YaEsSuficiente es utilizado en general como apoyo a la izquierda, como en el tweet 3. Sin embargo, también hay casos en donde se usa como apoyo un candidato de derecha como en el ejemplo 4.
+
+\input{tables/tweets_ejemplos_1.tex}
+ 
+
+La distribución de los hashtags a través de los sectores políticos se puede evidenciar en el gráfico \ref{figure:tweets_cantidad_hashtags} donde se muestra que el sector neutro tiene mas de un  40\% del total de los hashtags, mientras que la izquierda y la derecha, tienen una cantidad semejante, de aproximadamente un 28\% cada uno.
 
 
-\begin{figure}[h]
-	\caption{Porcentaje de Hashtags por sector político'}
+\begin{figure}[t]
 	\centering
-	\includegraphics{../Images/EDA/Cantidad de Hashtags por sector politico.png} 
+	\includegraphics{Images & Logos/EDA/Cantidad de Hashtags por sector politico.png} 
+	\caption{Porcentaje de Hashtags clasificados según sector político}
 	\label{figure:tweets_cantidad_hashtags}
 \end{figure}
 
-De manera similar, el gráfico \ref{figure:tweets_porcentaje} muestra la distribución de tweets a lo largo de los sectores políticos. En este se aprecia que el sector neutro tiene la mayoría de los tweets, con mas del 46\%, luego se encuentra la izquierda con un 33\% y finalmente la derecha con cerca de un 29\%,
+De manera similar, el gráfico \ref{figure:tweets_porcentaje} muestra la distribución de tweets a lo largo de los sectores políticos. Allí se aprecia que el sector neutro tiene la mayoría de los tweets, con mas del 46\%, luego se encuentra la izquierda con un 33\% y finalmente la derecha con cerca de un 29\%,
 
 
 
-\begin{figure}[h]
-	\caption{Porcentaje de tweets por sector político'}
+\begin{figure}[t]
 	\centering
-	\includegraphics{../Images/EDA/Porcentaje de tweets por sector político.png} 
+	\includegraphics{Images & Logos/EDA/Porcentaje de tweets por sector político.png} 
+	\caption{Porcentaje de Tweets clasificados según sector político}
 	\label{figure:tweets_porcentaje}
 \end{figure}
 
 
-Al analizar la cantidad de tweets por sector a lo largo del tiempo, se obtienen los resultados observados en el gráfico \ref{figure:tweets_porcentaje_tiempo}, en donde se muestra que porcentaje del total de los tweets de cada sector, hubo en cada día. Se puede evidenciar que hubo algunas fechas particularmente importantes: el 24 de mayo que el dia de un debate y sobresale el sector neutro, el 29 de mayo que fue el dia de la primera vuelta y sobresalen los tres, el 9 de junio que fue el dia en el que salieron a la luz los llamados petro videos y sobresale la derecha y las fechas cercanas al 19 de junio que fue la fecha de la segunda vuelta y sobresalen los tres.
+Al analizar la cantidad de tweets por sector político a lo largo del tiempo, se obtienen los resultados observados en el gráfico \ref{figure:tweets_porcentaje_tiempo}, en donde se muestra para cada  sector, que porcentaje del total de los tweets tuvo cada día. Se puede evidenciar que hubo algunas fechas particularmente importantes: el 24 de mayo fue el día de un debate y sobresale el sector neutro, el 29 de mayo fue el día de la primera vuelta y sobresalen los tres, el 9 de junio fue el día en el que salieron a la luz los llamados Petro videos, que fueron unos videos filtrados en donde se ve al equipo de campaña de Petro discutiendo estrategias políticas y sobresale la derecha y las fechas cercanas al 19 de junio que fue la segunda vuelta, sobresalen los tres.
 
-\begin{figure}[h]
-	\caption{Porcentaje de tweets por sector político'}
+
+
+
+\begin{figure}[t]
 	\centering
-	\includegraphics{../Images/EDA/Porcentaje de tweets por sector a lo largo del tiempo.png} 
+	\includegraphics{Images & Logos/EDA/Porcentaje de tweets por sector a lo largo del tiempo.png} 
+	\caption{Porcentaje de tweets clasificados según sector político a lo largo del tiempo}
 	\label{figure:tweets_porcentaje_tiempo}
 \end{figure}
 
 
-\section{Etiquetado}
 
-Para poder entrenar el modelo, se procedió a elaborar el etiquetado manual de una muestra del dataset. Esta muestra contiene 1200 tweets y se escogió de manera estratificada proporcional a la cantidad de tweets en los hashtags. La muestra fue etiquetada por el autor y los directores, quedando así 3 etiquetas independiente para cada uno de los tweets. Estos fueron etiquetados permitiendo múltiples etiquetas por tweets. Las etiquetas posibles fueron : Alegria, Agrado, Confianza, Admiración, Miedo, Incertidumbre, Sorpresa, Asombro, Tristeza, Decepción, Asco, Desagrado, Ira, Odio, Otra. Este etiquetado se llevo a cabo usando la plataforma web Label Studio. A partir de los resultados obtenidos, se obtuvo el grafico \ref{figure:correlacion_emociones}, en donde a partir de tener en cuenta las etiquetas de todos los etiquetadores se calcula la correlacion que tuvieron las distintas etiquetas. 
+\subsection{Etiquetado}
 
-\begin{figure}[h]
-	\caption{Correlación entre emociones'}
+Para proporcionar un dataset que sirva de base al eventual entrenamiento del modelo , se procedió al etiquetado manual de 1200 tweets escogidos mediante una muestra aleatoria estratificada proporcional a la cantidad de tweets en los hashtags. Las etiquetas a elegir fueron las emociones presentes en el tweet. 
+
+Una emoción es un patrón de reacción complejo, que involucra elementos experienciales, conductuales y fisiológicos, mediante el cual un individuo intenta lidiar con un asunto o evento personalmente significativo. La cualidad específica de la emoción (por ejemplo, miedo, ira) está determinada por el significado específico que el individuo asigna al evento. Por ejemplo, si el evento implica amenaza, es probable que se genere miedo. Están comprendidas de tres componentes distintos: una experiencia subjetiva, una respuesta fisiológica y una respuesta conductual o expresiva.
+Para el contexto del presente trabajo, la experiencia subjetiva y la respuesta fisiológica, no son componentes accesibles. Es así como la atención durante el etiquetado recayó en la respuesta expresiva, concretamente, como el autor del tweet, expresa a través del texto, la respuesta emocional generada en respuesta hacia la entidad en particular a la cual se dirige el tweet. 
+
+LA tarea de etiquetado concretamente consistió en etiquetar un tweet a la vez dentro de una plataforma de etiquetado, en donde se tuvo la posibilidad, mediante un esquema de selección múltiple, de asignar una o varias emociones al tweet, basado en los lineamientos presentes en el manual de etiquetado \footnote{\url{https://docs.google.com/document/d/1hoUYKMaYHSeGeOQ2FqRVyahTin6T09Mu8wtl_HY62O0/edit?usp=sharing}}. Esta tarea fue llevado a cabo por el autor y los directores, quedando así 3 etiquetas independiente para cada uno de los tweets.
+
+Para el esquema de etiquetado, se uso como referencia lo elaborado por \cite{mohammad2015sentiment}, en donde el etiquetador responde varias preguntas, y al ser preguntado por la emoción presente en el tweet,  puede escoger 19 emociones distintas. En el presente trabajo a través de una prueba iterativa para elegir las etiquetas mas adecuadas, se llego a escoger 14 emociones posibles ademas de la categoría otra: Alegria, Agrado, Confianza, Admiración, Miedo, Incertidumbre, Sorpresa, Asombro, Tristeza, Decepción, Asco, Desagrado, Ira, Odio, Otra. En la tabla\ref{table:emotions_description} se presenta una descripción de las emociones usadas.
+
+\input{tables/emotions_table.tex}
+
+
+Este etiquetado se llevo a cabo usando la plataforma web Label Studio. La interfaz de etiquetado se puede observar en la figura \ref{figure:interfaz}.
+
+
+\begin{figure}[t]
 	\centering
-	\includegraphics[scale=0.65]{../Images/EDA/emotions_correlations.png} 
+	\includegraphics[scale=0.45]{Images & Logos/interfaz.png}
+	\caption{Interfaz de etiquetado} 
+	\label{figure:interfaz}
+\end{figure}
+
+A partir de los resultados obtenidos, se obtuvo el gráfico \ref{figure:correlacion_emociones}, en donde  se calcula la correlacion que tuvieron las etiquetadores en las distintas etiquetas. 
+
+\begin{figure}[t]
+	\centering
+	\includegraphics[scale=0.65]{Images & Logos/EDA/emotions_correlations.png} 
+	\caption{Porcentaje de coorelación entre etiquetadores de las emociones asignadas a los tweets'}
 	\label{figure:correlacion_emociones}
 \end{figure}
 
 
-A partir de estos resultados se construyeron 4 etiquetas agrupadoras, basado en cuan correlacionados estuvieron. Estas etiquetas fueron: Alegría que contiene las etiquetas Alegria, Agrado, Confianza y Admiración; Miedo que contiene las etiquetas Miedo e  Incertidumbre; Tristeza que contiene las etiquetas Tristeza y  Decepción; y 
-Asco que contiene las etiquetas Asco, Desagrado, Ira y Odio. A cada tweet se le asigno una o varias de estas etiquetas finales si al menos dos de los etiquetadores asignaban alguna de las emociones que las componían a dicho tweet. Estas fueron las etiquetas con las que se entreno el modelo.
+Basándose en estos resultados, se construyeron 4 etiquetas agrupadoras, a partir de la correlacion que presentaron. Estas etiquetas fueron: Alegría que contiene las etiquetas Alegria, Agrado, Confianza y Admiración; Miedo que contiene las etiquetas Miedo e  Incertidumbre; Tristeza que contiene las etiquetas Tristeza y  Decepción; y 
+Asco que contiene las etiquetas Asco, Desagrado, Ira y Odio. A cada tweet se le asigno una o varias de estas etiquetas finales, si al menos dos de los etiquetadores coincidían en dichas etiquetas. Estas fueron las etiquetas con las que se entreno el modelo.
+
+El acuerdo observado entre los etiquetadores para cada una de estas 4 emociones, fue medido utilizando el indice de Fleiss Kappa. Los resultados se encuentran en el cuadro \ref{table:agreements}.
+
+
+\input{tables/agreements.tex}
+
+Se puede apreciar como alegría y asco tuvieron puntajes relativamente altos en comparación con tristeza y miedo. Esto se explica en parte por la cercanía que presentan estas dos ultimas a ascos, como se puede apreciar en el tweet numero 5 de la tabla \ref{table:ejemplos_1}. En el, dos de los etiquetadores coincidieron en asignar tristeza mientras el tercero asigno asco. Este mismo fenómeno ocurren con miedo como se aprecia en el tweet numero 6 de la tabla. Allí también fue el caso en donde uno de los etiquetadores asigno asco  mientras los otros dos asignaron miedo.
+
+
+\section{Modelos}
+
+\subsection{Modelos pre entrenados}
+
+Los modelos de lenguaje pre entrenados se encuentran disponibles para su uso en el sitio Hugging Face \footnote{\url{https://huggingface.co/}}. Desde allí, basándose en la relevancia del modelo para la tarea del presente trabajo, se escogieron 6 modelos diferentes para ser probados y escoger aquel que tuviera el mejor desempeño.
+
+
+
+
+\input{tables/models_descriptions.tex}
+
+Los modelos escogidos fueron robertuito \cite{perez-etal-2022-robertuito}, bertin \cite{BERTIN},  BETO \cite{CaneteCFP2020}, electricidad \cite{mromero2020electricidad-base-discriminator},  roberta \cite{ROBERTA} y twitter-xlm \cite{barbieri2022xlm}. En el cuadro \ref{table:model_description} se encuentra una pequeña descripción de estos así como su localización dentro del hub de Hugging Face.
+
+
+
+
+\subsection{Entrenamiento de los modelos}
+
+
+Debido a que el fine tuning de estos modelos requiere un poder de computo importante, se decidió utilizar el servicio de Google Colab \footnote{\url{https://colab.research.google.com/}}, en donde se pueden desarrollar notebooks utilizando GPU de manera gratuita. Allí, se utilizo la librería Transformers de Huggingface para poder acceder a los modelos. 
+
+Para poder entrenar los modelos con esta librería, existen dos objetos importantes, el Tokenizer y el trainer. El primero, realiza una transformación de los datos de entrada en vectores tokenizados que puedan ser interpretados por el modelo. EL segundo, recibe como entrada estos datos tokenizados, el modelo a utilizar, los hiperparametros y la métrica a utilizar para evaluar el modelo durante el entrenamiento. Tanto para la definición del tokenizer como la del modelo, se debe especificar la ruta del modelo en particular que se desea implementar.
+
+Los modelos se entrenaron usando los hiperparametros por defecto disponibles en Hugging Face. Estos son principalmente Adamw como algoritmo de optimizacion, con un learning rate de 5e-05, un
+decay de 0.0, 3 como el numero de epochs en train y un batch size por nucleo de 8. Estos pueden consultarse en el sitio web \footnote{\url{https://huggingface.co/docs/transformers/v4.30.0/en/main_classes/trainer#transformers.TrainingArguments}}
+
+\subsection{Evaluación de los modelos}
+
+Los modelos fueron entrenados y evaluados utilizando la métrica Micro F1 score definida de la siguiente manera:
+
+
+\[
+{\text{Micro F1}}=\frac{\text{TP} }{\text{TP} + \frac{1}{2}\text{(FP +FN)}}
+\]
+
+En donde TP es el numero de verdaderos positivos, FP el numero de falsos positivos y FN el numero de falsos negativos a lo largo de todas las clases. Se eligió esta métrica debido a que el modelo en cuestión permite la clasificación múltiple y con esta métrica se puede evaluar de manera simultanea el desempeño de las distintas clases.
+
+Para entrenar y evaluar los modelos, los datos etiquetados se dividieron en train y test. Se opto por no realizar una tercera partición debido a que no se realiza una hiperoptimizacion de los modelos, sumado al tamaño del dataset etiquetado. Una vez particionados los datos, se procedió a entrenar cada uno de los 6 modelos, 10 veces y a guardar el resultado de su desempeño, con el objetivo de obtener una lectura mas robusta, dada la naturaleza aleatoria de las redes neuronales. El resultado del entrenamiento de cada modelo fue registrado en el sitio Wandb \footnote{\url{https://wandb.ai/}}, cuyo propósito es servir de herramienta de acompañamiento al entrenar modelos.
+
+
+
+
+
 

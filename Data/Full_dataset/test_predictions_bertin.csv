@@ -1,0 +1,1295 @@
+text,labels,tweet_id,input_ids,attention_mask,Alegria,Miedo,Tristeza,Asco
+"hashtag este domingo los colombianos por primer vez demostraremos que sabemos elegir.  hashtag este domingo el país será coherente al elegir, una persona que sea coherente con las necesidades del país. hashtag este domingo Gustavo Petro,  recibirá la bendición de un pueblo laico.",[1. 0. 0. 0.],1537743546761252864,"[    0   126  6423  5374   533  2659   364 36053   383  1166   939  3409
+  5050   341  5544  4865    68   275 26990   533  2659   344  1089  1355
+ 18916   389  4865    66   405  1952   341  1351 18916   350   387  3576
+   369  1089    68 26990   533  2659 17672 43183    66   275 11978   332
+ 29372   313   355     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9869718,0.0051666372,0.004036888,0.0038246645
+"@usuario @usuario @usuario Estoy de acuerdo, así como, se mira noticias del candidato de afectos, se debe conocer el otro lado, es una realidad el sesgo político, de esa revista, pero es bueno saber, en que nube están viviendo. hashtag yo bloqueo asemana",[0. 0. 0. 1.],1536952339373989890,"[    0    86   422 27065  1139   422 27065  1139   422 27065 49417   313
+  1658    66   974   466    66   361  7448  1693   369  4016   313 42367
+    66   361  1724  1910   344  1216  2100    66   347   405  2132   344
+ 39629  2988    66   313  1487  4864    66   623   347  3383  2421    66
+   334   341 15192     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9844238,0.0053601903,0.0041147475,0.0061012204
+"hashtag debate final ese fajardo tiene su merecido, último en todas las encuestas.  Lo de hoy es de una bajeza terrible.",[0. 0. 1. 1.],1530381793920266241,"[    0   126  6423  5374  3314  1450  1305   362   484  4756   819   373
+ 20494    66  1800   334  1224   387  8778    68   275  3385   313  1290
+   347   313   405  1148  1210 14002    68     2     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.25647944,0.029872268,0.032441553,0.68120676
+Colombia el 19 de Junio:  Entre un giro a la izquierda que parecería nefasto y un Pedro Castillo santandereano.   emoji cara de payaso emoji  emoji cara de payaso emoji  emoji cara de payaso emoji   hashtag elecciones colombia,[0. 0. 0. 1.],1531045098577924101,"[    0 32099   344  1050   313 11771    80   275 11897   355 13020   320
+   332  3426   341 38209 49753   342   355  2523  8913 32210   123   686
+    68   275   275  3377 20498  1611   313 38011  3377 20498   275  3377
+ 20498  1611   313 38011  3377 20498   275  3377 20498  1611   313 38011
+  3377 20498   275     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.11695278,0.024400678,0.0260903,0.8325562
+Listo el voto  emoji chispas emoji  si Dios quiere hoy ganamos hashtag elecciones colombia,[1. 0. 0. 0.],1530917525579603971,"[    0    98 11087   344  4113   275  3377 20498 13109  1741  3377 20498
+   275   509  3997  2227  1290 32203 26990  2147   841  7471     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9875311,0.004924195,0.0039098086,0.0036348128
+"Pobre hashtag fico me hace recordar mis primeras clases de Cálculo Integral: no sabía ni  emoji caca con ojos emoji  , pero de todas formas asistía, para que el profe me viera.  hashtag el debate definitivo",[0. 0. 0. 1.],1528939321939591168,"[    0   102   575 26990   362   511   503   981  5659   905  4133  3885
+   313   379  1583  2595 18742    80   403  9013   760   275  3377 20498
+ 40166   350  4612  3377 20498   275   275    66   623   313  1224  4121
+  7908  2819    66   394   341   344 41167   503 35020    68   275 26990
+   344  3314  9944     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.024524687,0.019835632,0.036249667,0.91938996
+"hashtag una verdad es que  Álvaro Uribe Vélez está en su finca con su hermosa Doña Lina y Gustavo Petro dando lora.  Es hora de que Petro se vaya de la política, agarré su bolsa de basura y se vaya a vivir sabroso a Cuba o en  Venezuela.   emoji agujero emoji  emoji caca con ojos emoji  emoji desatascador emoji",[0. 0. 0. 1.],1534415270021894144,"[    0   126  6423  5374   405  1765   347   341   275  9855 37137 25677
+   698   334   373 12012   350   373 15705 20606   448   723   342 17672
+ 43183  5063   314   609    68   275   547  1880   313   341 43183   361
+  5972   313   332  1622    66 12920 12911   373  8483   313 10299   342
+   361  5972   320     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0058764177,0.009821036,0.020014422,0.9642882
+Cuente con los votos de toda mi familia aquí en Manrique Medellín A.hashtag federico es colombia,[1. 0. 0. 0.],1528464727726252032,"[    0  1474   412   350   364  4024   313  1122   737  2192  1609   334
+ 39495 40947   400    68   126  6423  5374  7848   511   347   841  7471
+     2     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9872846,0.005104194,0.004032387,0.0035787886
+"Contratado con 2 horas de almuezo, horas extra y recargo nocturno  hashtag yo contrato apetro",[1. 0. 0. 0.],1534666063337639936,"[    0 14955   574   350   480  1335   313 15070   330   857    66  1335
+  2078   342 42993 20872   275 26990  1501  4030  6968   488     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.12073858,0.023866901,0.026616663,0.8287779
+"@usuario Hoy la peor delincuencia esta en el congreso gracias al PACTO DE DELINCUENTES. Este domingo no podemos caer en el comunismo. No van a ganar, no van a gobernar, no dirigirán este país. hashtag fico el ganador  hashtag fico es colombia hashtag fico presidente2022",[0. 1. 0. 1.],1530182862250590209,"[    0    86   422 27065  6826   332  4317 28716   514   334   344  9249
+  1888   389 20655  2201   818  3316  1710  8215 17593    68  5329  2659
+   403  2480  6591   334   344 23614    68  1893  2122   320  3476    66
+   403  2122   320  9401    66   403  1707  5553   533  1089    68 26990
+   362   511   344     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.22378884,0.02861529,0.029835658,0.71776026
+"hashtag el debate definitivo  Pensé que Fajardo y Fico traían propuestas pero no. Han copiado las de @usuario pero no saben como implementarlas. Petro en cambio explica el como de sus propuestas, les corrige los cálculos, les explica malentendidos y como resultado los hace ver mal",[1. 0. 0. 1.],1529110594477076480,"[    0   126  6423  5374   344  3314  9944   275 23307   376   341   500
+   484  4756   342   500   511   816   963  4084   623   403    68 15029
+ 45534   387   313  1139   422 27065   623   403  6310   466 17484   610
+    68 43183   334  1777  3351   344   466   313   529  4084    66  1138
+ 45321   364 18927     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.03725339,0.034051757,0.060613602,0.8680813
+"La esperanza de un pueblo olvidado, por agradecimiento a todo lo la lucha en contra de la corrupción  hashtag soy petro soy paz",[1. 0. 0. 0.],1535660698746896385,"[    0   496  6988   313   355  2650 12595    66   383 15266   320   665
+   442   332  3644   334   809   313   332  5439   275 26990  3569 44426
+  3569  5574     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9865737,0.0052079884,0.0040600086,0.004158416
+"hashtag colombia necesita que @usuario No cierre los Micrófonos. Siempre que la gente expresa su indignación en el #, cobardemente cierran los micrófonos.  Realmente les importa un culo el futuro del país. ¡Se burlan de todos!  Decepción y Tristeza, por mi pueblo manipulado.",[0. 0. 1. 1.],1532367096834887681,"[    0   126  6423  5374   841  7471  3652   341  1139   422 27065  1893
+  5406   364  5403  6657 20824    68 38990   341   332  1711  4079   373
+ 19843   334   344  1121    66  3640  1100  7489 21667   364 26863    68
+   275   832   983  1138  7814   355 12995   344  2159   369  1089    68
+  2894   964  5258     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.005442713,0.009627363,0.020478405,0.9644515
+"Me perdonan pero a @usuario nadie le gana en conocimiento de este país.   Pum, Pam! Toma! Cepillo! Petro a todos.   hashtag el debate definitivo",[1. 0. 0. 0.],1528907109320036356,"[    0  1867 16521   328   623   320  1139   422 27065  2702   532  6027
+   334  3808   313   533  1089    68   275   275   395   549    66 37094
+    55 30708    55 25785  2003    55 43183   320   784    68   275   275
+ 26990   344  3314  9944     2     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0]",0.35441485,0.042220604,0.049362607,0.55400187
+"creo que hubo hashtag fraude electoral Pero la verdad que falta de seriedad por parte de los representantes del pacto historico, regar el rumor como si se tratara de un reality",[0. 0. 1. 1.],1531903570047643648,"[    0 28147   341  5486 26990  9831  3617 16260   332  1765   341  1877
+   313 22057   383   786   313   364  5011   369  5982 20952   511    66
+ 48527   344 24415   466   509   361 26343   313   355 25375     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.009966568,0.010287472,0.019665785,0.96008015
+"A un machista y grosero, sin un plan de propuestas.a eso le apuestan los colombianos, sumando a los que se quejan y no salieron a votar o se fueron de puente.   Lo único grato es que FICO no paso a segunda vuelta y no alcanzo ni a prender el carro! hashtag elecciones colombia",[0. 0. 1. 1.],1531037699641004032,"[    0    87   355 10896   342 19491   506    66   580   355  1084   313
+  4084    68   119  1317   532 20130   364 36053    66 20661   320   364
+   341   361 31429   342   403 15283   320  5699   375   361  2181   313
+  7977    68   275   275  3385  2639   882   349   347   341   500  5712
+   403  2104   320     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.29309404,0.027171055,0.027670505,0.6520643
+hashtag este domingo elegiremos entre más de los mismo y el cambio verdadero gustado presidente.,[1. 0. 0. 0.],1537744092888694785,"[   0  126 6423 5374  533 2659 2254 9516  619  467  313  364 1066  342
+  344 1777 7758 8801 1362   68    2    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9875804,0.0049162335,0.0039019387,0.0036014267
+"hashtag los petro videos son la confirmación de lo que ya se sabía, el PH, lo conforman la peor clase política del país, sujetos sin ética, sin escrúpulos, sin moral, los del todo vale, que miedo estos tipos en el poder que harán con el país?, seremos víctimas de estos personajes",[0. 1. 0. 1.],1534901587679797251,"[    0   126  6423  5374   364 44426  8379   644   332 13543   313   442
+   341   647   361  9013    66   344 22267    66   442 13562   332  4317
+  3884  1622   369  1089    66 13815   580 13819    66   580 37885    66
+   580  7883    66   364   369   665  7044    66   341  4710  1157  4697
+   334   344  1226     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.008381015,0.011542467,0.023266349,0.95681024
+"El tarjetón más triste que he visto en mi país, nadie digno... Ningún candidato que pueda hacer algo bueno con todo lo que conlleva ser presidente. hashtag petro nunca será presidente",[0. 0. 1. 0.],1530947145754451969,"[    0   454  4758  1559   467  7435   341  1594  2778   334   737  1089
+    66  2702 15571   522 27858   890  4016   341  2773   853  1356  3383
+   350   665   442   341 12957   499  1362    68 26990 44426  2090  1355
+  1362     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.977095,0.0068853376,0.0055364035,0.010483273
+hashtag lo correcto es entender dos conceptos: Aporofobia: miedo al pobre Petrofobia: miedo a la justicia social porque busca mejorar las condiciones de la población pobre.,[1. 0. 0. 1.],1537053867518709761,"[    0   126  6423  5374   442  9084   347  3976   724  8999    80   400
+   523  2368 11583    80  4710   389  5599 43183 14860    80  4710   320
+   332  5148  1258   921  3585  3010   387  2202   313   332  3120  5599
+    68     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0063432185,0.009581282,0.020013388,0.9640621
+"Decir que hashtag los petro videos son infiltraciones es otra gran mentira de esa campaña. Es muy obvio que el video lo grabó alguien de ellos, que seguramente está inconforme por algo que está pasando ahí. O lo quieren dejar por fuera de algo y se desquitó filtrando eso.",[0. 0. 0. 1.],1534893540718829569,"[    0 36855   341 26990   364 44426  8379   644 25029  7005   347  1388
+   764 11221   313  1487  2389    68   547   727 16057   341   344  3470
+   442 26428  3322   313  1430    66   341  9482   698  7090 15120   383
+  1356   341   698  5845  3300    68   608   442  3906  2431   383  1794
+   313  1356   342     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.00566069,0.009590007,0.019596674,0.9651527
+hashtag votar en blanco es junto al voto nulo o la abstención las única opción que tenemos quienes somos de verdadera derecha y no apoyamos ni al guerrillero indultado chavista Petro ni al anciano progresista abortista  Hernández. hashtag ni petro ni hernandez hashtag derecha verdadera colombiana,[0. 0. 0. 1.],1533822375330037762,"[    0   126  6423  5374  5699   334  4383   347  1894   389  4113 26083
+   375   332 11026   387  3190  3544   341  2121  2920  3560   313  9035
+  3323   342   403 40244   760   389 25979 20884   790 23253 11344   634
+ 43183   760   389 25445 15054  7158  5741   275  7367    68 26990   760
+ 44426   760 48290     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.102602795,0.024483679,0.028063422,0.8448501
+"hashtag el debate definitivo Se ve la clase y la decencia de Federico, mientras los otros cada uno habla por su lado buscando el bien individual, Federico sin odio, envidia y ningún resentimiento. Los otros candidatos repitiendo y siguen en las mismas, no han aprendido nada.",[1. 0. 0. 0.],1528925778922070016,"[    0   126  6423  5374   344  3314  9944  1403  1118   332  3884   342
+   332 45740   313 14865    66  1640   364  1071   956   993  4083   383
+   373  2100  5309   344   961  7621    66 14865   580  9439    66 19248
+   342  2402   502 23481    68  2379  1071  6326 36730   342  4650   334
+   387  4769    66     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.007174857,0.010781323,0.022576971,0.9594668
+@usuario hashtag petro necesita  Mantener distante de algún ministerio a Gustavo Bolivar...  Muy salvajito que espanta...,[0. 0. 0. 1.],1539207904355663873,"[    0    86   422 27065 26990 44426  3652   275  1497 10070 44949   313
+  2682 12684   320 17672  5122 26364   522   275 19316  5385   484   989
+   341  1451  7175   522     2     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.00654105,0.009537588,0.019119615,0.9648018
+Petro una vez más dijo que Colombia es igual a Venezuela. A ese señor se le ve la cara de satisfacción cuando inserta mentiras descaradas en los cerebros vulnerables de los petristas.  hashtag el debate definitivo,[0. 0. 0. 1.],1528944593894526976,"[    0  6148   488   405   939   467  2739   341  8389   347  1808   320
+  7023    68   400  1305  5560   361   532  1118   332  1611   313  9178
+   845  8414   345 14040  2922   577   334   364 39165 16344   313   364
+   969   346   815    68   275 26990   344  3314  9944     2     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0]",0.0056552268,0.0099431565,0.020469494,0.96393204
+hashtag fico el ganador Fico debe ganar en primera vuelta tiene el mejor programa de gobierno,[1. 0. 0. 0.],1529843575814504451,"[   0  126 6423 5374  362  511  344 7724  500  511 1724 3476  334 1154
+ 3678  819  344  840 1627  313 1968    2    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.987666,0.0048574465,0.0038214899,0.0036550232
+"hashtag petro es presidente y me siento orgulloso de ser mezcla de negro e indígena, eso finalmente es Colombia",[1. 0. 0. 0.],1538680016766177281,"[    0   126  6423  5374 44426   347  1362   342   503  7875 17678   313
+   499  8261   313  4811   312 33341    66  1317  5137   347  8389     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.986981,0.0050784396,0.00402881,0.0039117592
+hashtag los petro videos son el escándalo de un medio de comunicación adherido a las políticas tradicionales.,[0. 0. 0. 1.],1534935204325797888,"[    0   126  6423  5374   364 44426  8379   644   344 13648   313   355
+  1377   313  2215 30529   320   387  3118  7165    68     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0052053886,0.009638469,0.02080454,0.9643517
+@usuario hashtag un tramposo es un periodista que manipula sus preguntas a favor de su candidato preferido.,[0. 0. 0. 1.],1528728384674713601,"[    0    86   422 27065 26990   355  3744 35525   347   355  5308   341
+ 46290   529  4853   320  1576   313   373  4016 16986    68     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0049814475,0.009726597,0.021176623,0.9641154
+"En hashtag el debate definitivo Fico le refutó a Petro que su exfuncionario Villegas hubiese tenido contactos con la oficina de Envigado, si mal no recuerdo, Villegas reconoció esos contactos en el acuerdo con la Fiscalía. ¿Necesitamos más evidencias del nivel de cinismo del greñaldo?",[0. 0. 0. 1.],1529052116177801217,"[    0   546 26990   344  3314  9944   500   511   532   837   139   854
+   320 43183   341   373   453 16950 13028 30133  9875  2586  8427   350
+   332  6892   313  1267   140 34948    66   509  1437   403  6190    66
+ 30133 12352  2660  8427   334   344  1658   350   332  6175    68  1486
+ 12639   467 22699     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0057427543,0.010141567,0.020839462,0.9632762
+hashtag me inquieta Que la w no pueda advertir la probabilidad de aplazamiento de elecciones en un gobierno tan corrupto y lleno de jugaditas.,[0. 1. 0. 1.],1528696091981631490,"[    0   126  6423  5374   503 41821  7499   332   909   403  2773 23107
+   332 16255   313 37505   313  2147   334   355  1968   719 28009   342
+  7403   313  1626  1775   450    68     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0050659063,0.010112607,0.021896776,0.9629247
+"hashtag el debate definitivo petro no supera a Uribe Vélez en su intervención, lo primero que le sale de la boca es Uribe. Así gana votos; es su bandera del engaño, lo convirtió en el malo del paseo cuando los violentos fueron otros !!",[0. 0. 0. 1.],1528934860546523138,"[    0   126  6423  5374   344  3314  9944 44426   403  8967   320 37137
+ 25677   334   373  4572    66   442  2397   341   532  5468   313   332
+  5555   347 37137    68 21568  6027  4024    81   347   373  7760   369
+ 21465    66   442  8364   334   344  8193   369  7736   845   364 19407
+  2181  1071   275     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.006743374,0.009865258,0.020592114,0.9627994
+"Parce ese Fico es muy nea, que pena con las neas que son todo bien todo copas, pero este se da garra. hashtag el debate definitivo",[0. 0. 0. 1.],1528913179488681985,"[    0  3346   504  1305   500   511   347   727   356   780    66   341
+  4684   350   387  1083   323   341   644   665   961   665 19990    66
+   623   533   361   838 27313    68 26990   344  3314  9944     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.008492008,0.0098919235,0.017962867,0.9636532
+"No quería decir grocerias pero que maricada, ni los animadores se respetan la palabra. hashtag petro gana debate hashtag el debate definitivo",[0. 0. 1. 1.],1528940068672524290,"[    0   836  6259  1549 28217   565   661   623   341   654  3602    66
+   760   364  2102   826   361 30896   332  4591    68 26990 44426  6027
+  3314 26990   344  3314  9944     2     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.04729228,0.016868742,0.021733474,0.9141055
+hashtag fraude electoral O nos gobierna la inteligencia o a las patadas! Ojalá elijamos bien!,[0. 1. 0. 0.],1532061146085474304,"[    0   126  6423  5374  9831  3617   608   683 18070   332  8108   375
+   320   387 34839    55   608 13431   344  3810   602   961    55     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.004754573,0.009150854,0.020861285,0.96523327
+"Todos los ciudadanos deben garantizar la transparencia electoral. En Marymount, fue descubierta una persona con tarjetones marcados por el Pacto Histórico!!! TODOS PENDIENTES  emoji ojos emoji  emoji ojos emoji  emoji ojos emoji  hashtag colombia decide",[0. 1. 0. 1.],1530940421064499204,"[    0  2790   364  2840  3197  5044   332  8613  3617    68  1267 21954
+   490 16055    66   847 34940   405  1952   350  4758  6582  8615   383
+   344 13894 16573  3818  6701   395 10397 28879   275  3377 20498  4612
+  3377 20498   275  3377 20498  4612  3377 20498   275  3377 20498  4612
+  3377 20498   275     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9123029,0.012364299,0.010361548,0.06497125
+"Queda claro lo importante que es la preparación, que nuestro voto la rompa  hashtag debate final",[1. 0. 0. 0.],1530381933682761730,"[    0  5929  2296   442  1713   341   347   332  8420    66   341  1180
+  4113   332 39771   275 26990  3314  1450     2     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98611265,0.0053454493,0.0041985027,0.0043434473
+"Ahí tienen a su ""presidente"" da risa este tipo hashtag rodolfo cobarde",[0. 0. 0. 1.],1537604513586204672,"[    0 14186  1386   320   373   459 25021    56   838 16134   533  1373
+ 26990  1029 13088 34402     2     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.007500346,0.010404904,0.023811324,0.9582834
+"@usuario Al mamerto corriente q dista de ser una persona pensante, esto no le importará, están adoctrinados, es más, pueden ver a Petro en video violando un bebé y lo seguirán defendiendo. El resto del país, q se preocupa x el futuro, se está dando cuenta de que hashtag petrismo sucio es lo peor",[0. 0. 0. 1.],1534868041305149440,"[    0    86   422 27065   771  6317   319   349  8476  4357 43913   313
+   499   405  1952  1509   557    66  1337   403   532   986  2457    66
+  1055 28500  7493    66   347   467    66  1387   664   320 43183   334
+  3470  2161   485   355  7803   342   442 14362 16795    68   951  2276
+   369  1089    66     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.006545448,0.009768635,0.019578723,0.9641072
+"el debate sin propuestas y de alimento para el morbo, moderadores flojos y acomodados, como si eso sorprendiera... hashtag eldebate definitivo",[0. 0. 1. 1.],1528922202908811264,"[    0   434  3314   580  4084   342   313 13838   394   344 38888    66
+  3258   826  6915  1184   342 21654   477    66   466   509  1317  3760
+  1752   522 26990   344 45447  9944     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.26114768,0.028378706,0.027618349,0.68285525
+"CORAZÓN DE LATINOAMÉRICA, LATES CON UNA FUERZA DIFERENTE lo siento y lo saboreo después de un día... hashtag petro es presidente",[1. 0. 0. 0.],1539238213184892928,"[    0    89  7975   112  2505   818  1758   106 12363  2963 25272  3852
+    66  1758  9692  2852  9239 33728  6207 33739   884  7072   442  7875
+   342   442  7813   777  1278   313   355   920   522 26990 44426   347
+  1362     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98485005,0.0053557465,0.004188651,0.005605582
+hashtag un tramposo es El que se hace llamar anticorrupción y espera juicio por corrupto Vitalogic @usuario,[0. 0. 0. 1.],1528813507847901188,"[    0   126  6423  5374   355  3744 35525   347   951   341   361   981
+  7137 45773   342  3105  4076   383 28009 22370   754   359  1139   422
+ 27065     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.004689407,0.009566354,0.02059108,0.9651531
+hashtag soy petro soy paz y no me pagaron lo hago de gratis,[1. 0. 0. 0.],1535871759249022982,"[    0   126  6423  5374  3569 44426  3569  5574   342   403   503 41053
+   442  8762   313  3061     2     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9859622,0.005217647,0.003997746,0.0048223445
+hashtag elecciones colombia  Mi pais no aprende a lo bien  emoji cara desanimada emoji,[0. 0. 1. 0.],1531059140541415424,"[    0   126  6423  5374  2147   841  7471   275  5312  4619   403 20096
+   320   442   961   275  3377 20498  1611   430  9005   428  3377 20498
+     2     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.5061718,0.030679079,0.029157646,0.43399146
+"Yo no hashtag voto por x alguien q haya dañado o atentado contra la vida o dignidad de una persona, menos por alguien cuya actitud o comportamiento no sea coherente o respetuosa de los derechos fundamentales y menos si tiene  propósitos de dividir, incitar y promover diferencias y odios.",[0. 0. 0. 1.],1529557468027801600,"[    0  2713   403 26990  4113   383  3756  3322  4357  2178 36266   375
+  8682   809   332  1078   375  9605   313   405  1952    66  1111   383
+  3322  4337  6578   375  7038   403  1351 18916   375 32727   313   364
+  1714  7307   342  1111   509   819   275 25207   313 23289    66 15857
+   414   342  7230     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.32747662,0.0435113,0.048660748,0.5803513
+"@usuario Petro es el político más tradicional y antiguo de Colombia y esta rodeado de lo peor de la clase política, en cambio Rodolfo si tiene independencia y si se rodea de buenos asesores y ministros independientes igual que él, es posible un buen gobierno  hashtag el verdadero cambio es",[1. 0. 0. 1.],1532029527899119618,"[    0    86   422 27065 43183   347   344  2988   467  4405   342  5587
+   313  8389   342   514 14588   313   442  4317   313   332  3884  1622
+    66   334  1777 39219   509   819  5049   342   509   361 14157   313
+  5251 18057   342 12360 11629  1808   341  1650    66   347  1652   355
+  1282  1968   275     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9449294,0.012641778,0.010681828,0.031747077
+"Esta mañana hashtag leapuestoa que los que votarán por el que no debe ser, no serán capaces de devolvernos el país de los derechos. Hoy tenemos la posibilidad de decidir. Después quedaremos sumidos en el NO, si no estás de acuerdo con un gobierno ruin perpetuo.",[0. 1. 0. 0.],1529062806435274754,"[    0  1541  2138 26990 22959  1557   119   341   364   341 42345   383
+   344   341   403  1724   499    66   403  3022  6645   313  9204   889
+   344  1089   313   364  1714    68  6826  2121   332  2901   313  6631
+    68 40154  1375  5050  3807   741   334   344  4502    66   509   403
+  5089   313  1658     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.5346853,0.056706518,0.06574756,0.34286067
+Porque precisamente NO es periodismo sino sensacionalismo hashtag yo bloqueo asemana,[0. 0. 0. 1.],1536906157809451009,"[    0  4778  5607  4502   347  6804  1520 31081   637 26990  1501 12404
+ 35893   595     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.004349475,0.0091459025,0.022123287,0.9643813
+"@usuario El nuevo liberalismo, el verdadero nuevo liberalismo, fundió su sangre acallada con la nuestra atormentada. El nuevo liberalismo, el del héroe sacrificado por los villanos, se expresó también en nuestros gritos de alegría por el renacer de la esperanza.  hashtag petro es presidente",[1. 0. 0. 0.],1538893022938955776,"[    0    86   422 27065   951  1069 28088    66   344  7758  1069 28088
+    66   910  3103   373  6277   447  1608   428   350   332  1242 39940
+ 41525    68   951  1069 28088    66   344   369 17585 10019  4272   383
+   364 25518   315    66   361 20167   738   334  1721 15352   313  8270
+   383   344 19919     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.97877455,0.0062288516,0.0048534735,0.0101430565
+Ni con todas las condiciones a su favor es capaz de debatir. hashtag rodolfo cobarde,[0. 0. 0. 1.],1537609725558149120,"[    0  6255   350  1224   387  2202   320   373  1576   347  4555   313
+ 10621    68 26990  1029 13088 34402     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.009973972,0.010274036,0.02004565,0.95970637
+@usuario Mi nombre es Claudia voto por Federico porque respeta la libertad religiosa hashtag voy con federico,[1. 0. 0. 0.],1530648676313575432,"[    0    86   422 27065  5312  1969   347 32963  4113   383 14865   921
+ 19992   332  2876 12703 26990  4228   350  7848   511     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98781514,0.0048692212,0.0038597605,0.0034558603
+"Que orgullo, mis hijos mi mamá mis 4 hermanos, mi cuñada y yo ya votamos todos por el cambio!! Vamos por Petro hashtag petro presidente2022 hashtag petro presidente en primera",[1. 0. 0. 0.],1531004254902579200,"[    0  1846 11056    66   905  3217   737 10913   905   922  7301    66
+   737   427 12685   342  1501   647  1179  1227   784   383   344  1777
+  1240 48708   383 43183 26990 44426  1362  1269  5275 26990 44426  1362
+   334  1154     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9875387,0.0049803653,0.0039716233,0.0035092884
+"Quién no se va a querer ir a dormir oyendo a @usuario con esa voz sexy y ahogada, recitar trabalenguas sin sentido para confundir a sus focas, haciéndoles creer que sabe más de matemáticas que @usuario  emoji cara llorando de risa emoji  Que sueño profe! hashtag el debate definitivo hashtag fajardo presidente",[0. 0. 0. 1.],1528957102936432640,"[    0  8554   403   361  1093   320  8810  1354   320  9838   375 10739
+   320  1139   422 27065   350  1487  4352 23095   342 29860   428    66
+   952   414   426  9813   318 11203   580  2163   394 23465   320   529
+   362 18089    66 17371   613  8253   341  3477   467   313 11454   341
+  1139   422 27065     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.005888708,0.009601466,0.019518081,0.9649918
+"Cuántos meses de campaña, cuántos debates y ese Fico Gutierrez no pudo entender la diferencia entre exploración y explotación petrolera.  hashtag debate final Caracol",[0. 0. 0. 1.],1530371076437512192,"[    0 30138  1635   313  2389    66 23310 11039   342  1305   500   511
+ 11031   319  2272   403  5294  3976   332  4259   619 21537   342  7979
+ 32887    68   275 26990  3314  1450 12528  1618     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.021491501,0.013736346,0.024400696,0.94037145
+"Es momento del cambio, es momento de cambiar la historia de nuestro país, no más continuismos,  no más de lo mismo, vamos por el campo, por el trabajo digno, por eso y mucho más hashtag yo voto petro presidente",[1. 0. 0. 0.],1530354340539637760,"[    0   539  1245   369  1777    66   347  1245   313  3340   332  1397
+   313  1180  1089    66   403   467  1708  4205    66   275   403   467
+   313   442  1066    66  3259   383   344  2771    66   383   344  1123
+ 15571    66   383  1317   342  1204   467 26990  1501  4113 44426  1362
+     2     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0]",0.98716205,0.0050574658,0.0039753104,0.0038051936
+Saben? hoy Me siento orgullosa de mi Presidente electo.  hashtag petro es presidente,[1. 0. 0. 0.],1538675736172810240,"[    0 43973    85  1290  3500  7875 26632   313   737  6600 25333    68
+   275 26990 44426   347  1362     2     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9874622,0.005009715,0.0039939582,0.0035341543
+"hashtag fico el ganador sin duda alguna, unir y organizar a Colombia es una prioridad.",[1. 0. 0. 0.],1530294286280957952,"[    0   126  6423  5374   362   511   344  7724   580  3089  2388    66
+ 11575   342  9591   320  8389   347   405 10329    68     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9876199,0.0048993547,0.0039097513,0.003571092
+"hashtag petro el cambio seguro,porque Colombia merece ser manejada por una persona que maneje bien las relaciones políticas y para que el país progurese.",[1. 0. 0. 0.],1532834239376461824,"[    0   126  6423  5374 44426   344  1777  3114    66 10243  8389  7211
+   499  6579  7538   383   405  1952   341  6579   708   961   387  4237
+  3118   342   394   341   344  1089   411   507 26318    68     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98624855,0.0050921333,0.003952058,0.0047072624
+"@usuario Sergio te felicito ayer que bien debate...pero en todo el tiempo de campaña tuviste muchos errores y te fuiste contra Fico y el no era te enemigo, tu verdadero enemigo era el imnombrable... Lo siento hashtag voy con federico",[0. 0. 1. 0.],1530625132762374146,"[    0    86   422 27065  7407   510 35424  2596   341   961  3314   522
+  4078   334   665   344  1030   313  2389  6026   879  1581  6558   342
+   510   871   879   809   500   511   342   344   403  1233   510 11726
+    66   583  7758 11726  1233   344   542   132  6872   672   522  3385
+  7875 26990  4228     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.15260948,0.02339252,0.025281986,0.79871607
+hashtag mi candidato es @usuario El que tiene coherencia y un verdadero plan de gobierno. Gustavo Petro  emoji pulgar hacia arriba emoji  emoji bandera colombia emoji  emoji bandera colombia emoji  emoji bandera colombia emoji,[1. 0. 0. 0.],1531578437286219777,"[    0   126  6423  5374   737  4016   347  1139   422 27065   951   341
+   819 18844   342   355  7758  1084   313  1968    68 17672 43183   275
+  3377 20498  3522   605  1929  6085  3377 20498   275  3377 20498  7760
+   841  7471  3377 20498   275  3377 20498  7760   841  7471  3377 20498
+   275  3377 20498     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9874014,0.005020488,0.0039843842,0.0035937857
+@usuario @usuario Lo único que sé es que mi voto en segunda vuelta es por RODOLFO  en Antioquia con hashtag cualquiera menos petro,[0. 0. 0. 1.],1531056632548974594,"[    0    86   422 27065  1139   422 27065  3385  2639   341  3443   347
+   341   737  4113   334  2054  3678   347   383 27371  2423 15202   275
+   334   876  1854  5914   350 26990  4957  1111 44426     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98443514,0.0051811715,0.0040691644,0.006314544
+"hashtag colombia necesita saber que las paradojas son así, si se dice que un corrupto apoyala no corrupción, un guerrillero va a aplicar seriamente los acuerdos de paz firmados? No señores",[0. 0. 0. 1.],1532576034561966080,"[    0   126  6423  5374   841  7471  3652  2421   341   387 10512  1746
+   644   974    66   509   361  1960   341   355 28009  2843  1054   403
+  5439    66   355 25979 20884  1093   320  5942 24716   364  6243   313
+  5574 27194    85  1893 15961     2     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0]",0.005148389,0.009980592,0.020855853,0.96401525
+Si la gente no ha emigrado de aquí es porque no podían (pa eso se necesita plata)  ganas no faltaban ¿Qué les hace pensar que estamos viviendo en un paraíso?.  Se votó por la esperanza! hashtag petro es presidente,[1. 0. 0. 0.],1538829388711591937,"[    0   957   332  1711   403   380 23317  2216   313  1609   347   921
+   403 10180   473   438  1317   361  3652  2972    63   275  4797   403
+ 43809  1486  2555  1138   981  4140   341  2608 10012   334   355 17179
+  6697   275  1403 24521   383   332  6988    55 26990 44426   347  1362
+     2     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0]",0.59972125,0.038672153,0.03779755,0.32380906
+"@usuario  ¿cual es el miedo de ir a los debates ? Se le acabo el discurso ""anti corrupción"" o es por la escasez de propuestas  emoji cara con monóculo emoji  emoji cara pensativa emoji  hashtag el debate definitivo",[0. 0. 0. 1.],1528946633701998593,"[    0    86   422 27065   275  1486 24462   347   344  4710   313  1354
+   320   364 11039   275    85  1403   532 15174   344  5238   459 10220
+  5439    56   375   347   383   332 18684   313  4084   275  3377 20498
+  1611   350  1295   335  2595  3377 20498   275  3377 20498  1611   316
+  1399   762  3377     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.07393168,0.030688806,0.041371796,0.8540077
+"Otro poema en hashtag el debate definitivo  Va a invitar a Nicolás Maduro a la posesión si gana? Y contesta Petro: No... el que invita es Duque. Luego, restablecería relaciones diplomáticas y comerciales   Guauuu...!!!",[0. 0. 0. 1.],1528925095359655936,"[    0  6865 15758   334 26990   344  3314  9944   275  8585   320 15902
+   320 11525 13811   320   332  9778   509  6027    85  1126 23383 43183
+    80  1893   522   344   341 10835   347 17023    68   448  1972    66
+ 19178 16143  4237 38246   342  3980   275   275  1518  2877 12369   522
+  3818     2     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0]",0.0072803986,0.009904732,0.019977545,0.9628374
+hashtag registraduria responda cuando se va a pronunciar la registraduria. Se les destapó el mierdero.,[0. 0. 0. 1.],1538184219415007235,"[    0   126  6423  5374  1905   329 13213 30153   845   361  1093   320
+ 35579   332  1905   329 13213    68  1403  1138  2685  7479   344 11217
+ 13631    68     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0046806317,0.009919543,0.022455228,0.96294457
+"Hoy en Colombia ganó el cambio, ganó la lucha de muchos, ganaron las voces de los jóvenes que buscan un mejor futuro, ganaron también las voces que callaron.   Hoy Colombia supo elegir!   hashtag petro es presidente hashtag francia es vicepresidenta  hashtag colombia elige",[1. 0. 0. 0.],1538675471709360130,"[    0  3026   334  8389  7807   344  1777    66  7807   332  3644   313
+  1581    66 23316   387  9303   313   364  2634   341  7893   355   840
+  2159    66 23316   738   387  9303   341   883 24644    68   275   275
+  6826  8389 13896  4865    55   275   275 26990 44426   347  1362 26990
+ 24760   347 10589     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9871717,0.00509672,0.0040269536,0.003704675
+hashtag habla mal de colombia Tener un candidato que dice que el feminicidio es un invento. Se burla de las víctimas. hashtag feminicidio,[0. 0. 0. 1.],1535335709728559104,"[    0   126  6423  5374  4083  1437   313   841  7471 47803   355  4016
+   341  1960   341   344  6873 38305   347   355 21759    68  1403 35276
+   313   387  4080    68 26990  6873 38305     2     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0056619146,0.009610263,0.020628648,0.9640992
+"hashtag mi voto es antifraude anticorrupción, antirodolfo, antiuribista, antiparamilitar, antisemana y antigentuza""de bien""",[0. 0. 0. 1.],1538190553497620480,"[    0   126  6423  5374   737  4113   347  1600  7985  6088 45773    66
+  1600   365 13088    66  1600   445   446   634    66  1600   520  1164
+   767    66 17872   410   595   342  1600   844 48093    56   122   123
+   961    56     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.26843798,0.03319577,0.03238388,0.6659824
+Es hora de darle sepultura al petrismo hashtag la corrupcion petrista,[0. 0. 0. 1.],1533617735049125890,"[    0   539  1880   313  6522 20076   681   389   969   346   637 26990
+   332 11204   401   969   346   634     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0055366154,0.008888329,0.02044254,0.9651325
+@usuario leyendo No le da la corteza cerebral para decir las cosas? hashtag el debate decisivo,[0. 0. 0. 1.],1529800873089675265,"[    0    86   422 27065  8027  1893   532   838   332 30851 16817   394
+  1549   387  1692    85 26990   344  3314 17218     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0050874134,0.009350584,0.020839108,0.9647229
+"Entonces, ya no es ""amor eficaz"", sino ""amor político"". Bueno, al fin y al cabo amor es amor.  hashtag mi voto es petro yfrancia",[1. 0. 0. 0.],1528567752721674241,"[    0  8565    66   647   403   347   459  6488  7289   669  1520   459
+  6488  2988   671  8301    66   389   655   342   389  2594  2858   347
+  2858    68   275 26990   737  4113   347 44426   342  9641   429     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98661125,0.005202716,0.0041018575,0.004084175
+hashtag mi voto es petro yfrancia en primera vuelta vamos a ganar,[1. 0. 0. 0.],1528475813280096256,"[    0   126  6423  5374   737  4113   347 44426   342  9641   429   334
+  1154  3678  3259   320  3476     2     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98769987,0.0048950375,0.003908114,0.0034969726
+"La gente si es boba parce, eso es comer mucho cuento, es estar ciego y ser tonto, hashtag rhganador otro Duque, les quedo gustando comer mierd4",[0. 0. 1. 1.],1538151238650499074,"[    0   496  1711   509   347   397 13750   368   504    66  1317   347
+  1496  1204  8449    66   347  1088 24223   342   499 21247    66 26990
+   525   126   751   521  1216 17023    66  1138 12793  1396  1285  1496
+ 11217   122    74     2     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]",0.008613838,0.010216936,0.018629221,0.96254
+"Se llegó la tan anhelada fecha, mayo 29 de 2022. Por favor, votemos por el cambio, no es solo por usted o por mí, es por todos. Ya muchos años comiendo de la misma  emoji caca con ojos emoji .   hashtag el cambio en primera  hashtag petro presidente2022  hashtag petro presidente en primera",[1. 0. 0. 0.],1530776102997835776,"[    0   964  4067   332   719 39749   428  3035    66  2610  4449   313
+ 30957    68  2518  1576    66  1179 20198   383   344  1777    66   403
+   347  1214   383  3264   375   383  3011    66   347   383   784    68
+  9158  1581   673 25175   313   332  1806   275  3377 20498 40166   350
+  4612  3377 20498     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.98300064,0.0055643287,0.0043577435,0.0070773405
+hashtag todo vale para que nuestro Petrico gane. Se escandalisan con los ofrecimientos de Petro a los narcos presos pero yo prefiero un narco con perdón social que una mujer oprimida en la cocina!,[0. 0. 0. 1.],1535005907431612441,"[    0   126  6423  5374   665  7044   394   341  1180  2759 10854 20182
+    68  1403 26858   357   328   350   364  1352  4883   313 43183   320
+   364  7390  1368  9428   623  1501 20205   355 16182   350 12429  1258
+   341   405  1205 34774   537   334   332  3727    55     2     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0]",0.005552477,0.00950234,0.02082343,0.9641217
+"Toda esa apretada de culo, me va a tocar reforzarla, pero pa irme de aquí. hashtag elecciones colombia hashtag elecciones colombia2022 Te fallamos @usuario.",[0. 0. 1. 0.],1531050901435195392,"[    0  6444  1487  4868  1359   313 12995    66   503  1093   320  7895
+  9765   407    66   623   570 35510   313  1609    68 26990  2147   841
+  7471 26990  2147   841  7471  1269  5275  4742  1063  8255  1139   422
+ 27065    68     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.014349207,0.012634517,0.02278912,0.95022726
+"Es  grande lo que se aproxima, un pueblo dolido y maltratado por un gobierno corrupto, un pueblo que romperá las cadenas!!!  Si nos sacan armas, pues nosotros al machete!  No mas comunismo en el mundo  emoji marca de cruz emoji   hashtag abajo la dictadura  hashtag soscuba hashtag petro es presidente hashtag colombia",[0. 0. 0. 1.],1538750332137873411,"[    0   539   275  3838   442   341   361 37288    66   355  2650  4158
+   471   342 14839   574   383   355  1968 28009    66   355  2650   341
+  8501   352   387 11750  3818   275  5091   683 22546  6238    66  1039
+  2070   389   550  1191   343    55   275  1893  1361 23614   334   344
+  1077   275  3377     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.09458025,0.019961236,0.025238296,0.86022025
+"hashtag soy petro soy paz No tengo que convencerme más, Petro está rodeado de todas esas mayorías que siempre han sido excluidas: las víctimas, los indígenas, campesinos, los estudiantes. Por más que quieran tumbar a Petro más se destaca su honesto proceder.",[1. 0. 0. 0.],1536083771463802887,"[    0   126  6423  5374  3569 44426  3569  5574  1893  2715   341 11965
+  1060   467    66 43183   698 14588   313  1224  3319 23880   341  1190
+   633   973 47502    80   387  4080    66   364 20135    66 29634    66
+   364  4550    68  2518   467   341  8754 40896   320 43183   467   361
+  4966   373 31850     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.84748316,0.030914502,0.029352142,0.09225016
+"Dejen listo el esfero para mañana, porque recuerden, 'un esfero es más importante que un fusil'. hashtag hasta que la dignidad se haga costumbre hashtag petro presidente en primera",[1. 0. 0. 0.],1530739652088500224,"[    0  1107 23370 11294   344  2990   506   394  2138    66   921 49463
+    66   774   337  2990   506   347   467  1713   341   355 20871  3012
+ 26990   796   341   332  9605   361  4926 13218 26990 44426  1362   334
+  1154     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9804094,0.006100489,0.004802222,0.008687933
+hashtag colombia espera que ya se acabe está guerra entre los mismos que se roban al país.,[0. 0. 1. 1.],1534883200794865664,"[    0   126  6423  5374   841  7471  3105   341   647   361 14324   698
+  3290   619   364  3393   341   361 40036   389  1089    68     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0046117995,0.009861811,0.02258219,0.96294415
+Gracias @usuario fuiste una gran estratega oculta para el triunfo de hoy ! hashtag petro es presidente,[1. 0. 0. 0.],1538759612371030016,"[    0  3822  1139   422 27065   871   879   405   764  2647  7215 15632
+   394   344  7065   313  1290   275    55 26990 44426   347  1362     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98698515,0.0050163004,0.0039372547,0.004061218
+hashtag registraduria responda Registraduría será culpable de una guerra civil sin precedentes .  Prefiero morir luchando que quedarme callado como siempre lo hemos hecho. Ya basta !!  Guerra civil hijueputas,[0. 0. 0. 1.],1538171806733017090,"[    0   126  6423  5374  1905   329 13213 30153 29670   329 14891  1355
+ 15291   313   405  3290  3441   580 14311   275    68   275  2530   124
+  7762  9459 15259   341 21055 46000   466  1190   442  1780  1246    68
+  9158 11383   275  1240   275  5893  3441  1328   128   330   714   450
+     2     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0]",0.0045578214,0.00945457,0.02148321,0.9645045
+"hashtag no quiero Que el presidente sea un peligro para la democracia, que su principal razón para ser presidente sea llegar a la ""comisión de absoluciones"".",[0. 1. 0. 1.],1534489000886640649,"[    0   126  6423  5374   403  4222  7499   344  1362  1351   355  5957
+   394   332  4481    66   341   373  2655  3913   394   499  1362  1351
+  1764   320   332   459 42530   313  3471   456   671     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.46370423,0.029166235,0.028172508,0.47895706
+PORQUEVA CON MANO DURA ALOS CRIMINALES GUERRILLE ROS hashtag voy con federico,[1. 0. 0. 1.],1530586035385683971,"[    0  8508  8078  3518  2852   404 10746   461 13486  4003   877  9045
+  3800  1710  6381 25784   104  1956  3839 27697 26990  4228   350  7848
+   511     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.8594143,0.019200299,0.017184941,0.10420048
+"hashtag yo voto por RH + ya que Colombia merece un conductor sobrio y con experiencia, ni por el cara...le doy mi voto a un borracho y drogadicto que se disfraza de Drag Queen y permite hacer ""manage a Trois"" con su esposa...",[0. 0. 0. 1.],1537766690708127744,"[    0   126  6423  5374  1501  4113   383   465    94  2862   647   341
+  8389  7211   355  7370  4416  2640   342   350  2060    66   760   383
+   344  1611   522   371 13426   737  4113   320   355 43291   342  6167
+ 23553 13254   341   361 10874   603   313 26919 33360   342  2563   853
+   459  5090  1519     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.2660641,0.030998236,0.029692227,0.6732454
+"@usuario Colombia te dijo QUE NO! vaya a llorar y dejé la lamboneria a ver si le dan un cargo público.. en el futuro gobierno de los corruptos de Hernández, si llega... hashtag una pregunta para petro fm le daría algún cargo al patético este? "" Embajador en Cuba""",[0. 0. 0. 1.],1532440171693674497,"[    0    86   422 27065  8389   510  2739  3887  4502    55  5972   320
+ 16910   342 29367   332   332  4070   324  2669   320   664   509   532
+  3596   355  3049  1757   419   334   344  2159  1968   313   364 22489
+   313  7367    66   509  3298   522 26990   405  4147   394 44426   362
+   131   532 18719     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0056215064,0.009796403,0.01951912,0.965063
+"Ique no la caguen con su voto!  En estas elecciones era más alta la probabilidad de cagarla, es más, ya no hay manera de no cagarla!  hashtag vota hashtag elecciones colombia2022 hashtag ya que hpta",[0. 1. 0. 0.],1538554679352762370,"[    0    95   336   403   332   576  7203   350   373  4113    55   275
+  1267  1415  2147  1233   467  2776   332 16255   313   576   605   407
+    66   347   467    66   647   403   733  1565   313   403   576   605
+   407    55   275 26990 18461 26990  2147   841  7471  1269  5275 26990
+   647   341   353     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.70372,0.03846129,0.03704058,0.22077817
+"A esta hora hay mucha juventud que aún ha ido a votar. Las mesas de los jóvenes, las últimas, están solas. Vacías. Muy poca afluencia. Que pasa muchachos? Retwitéalo. hashtag petro presidente en primera hashtag el cambio en primera",[0. 1. 1. 0.],1530947059393695750,"[    0    87   514  1880   733  3160  9576   341  2095   380  4698   320
+  5699    68  2588 10672   313   364  2634    66   387  3567    66  1055
+ 20604    68 39540   694    68 19316  8063 18671    68  7499  2867 41487
+    85 24404   376  3071    68 26990 44426  1362   334  1154 26990   344
+  1777   334  1154     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9591772,0.008993938,0.0073070102,0.02452182
+Aparece una encuesta donde pierden y ya gritan fraude ??? y tan calladitos las elecciones pasadas cuando les apareció por arte de magia muchos votos. En fin la hipocresía. hashtag colombia el hashtag antipetrismo cada día más fuerte.,[0. 0. 0. 1.],1532055250097561603,"[    0 39270   405  8380   935 15371   342   647  3890   444  9831   275
+ 15764   342   719   883  3286  1590   387  2147 13476   845  1138 11318
+   383  3169   313 10897  1581  4024    68  1267   655   332 34017    68
+ 26990   841  7471   344 26990  1600   524   346   637   956   920   467
+  3589    68     2     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0]",0.0072378353,0.009697544,0.01831672,0.96474797
+Saluda  emoji mano saludando tono de piel claro emoji  al principió y da las gracias  emoji manos en oración tono de piel claro emoji  al final.  Dice que fue educado con valores y es coherente con ellos. Sus acciones acompañan su discurso y generan la confianza que necesitamos para unir a Colombia  emoji bandera colombia emoji  hashtag fico el ganador hashtag fico el presidente de la gente hashtag debate final,[1. 0. 0. 0.],1530378503077642245,"[    0  4398  1347   275  3377 20498  2266  2169   485  8694   313  3923
+  2296  3377 20498   275   389  1110  1070   342   838   387  1888   275
+  3377 20498  3330   334 18720  8694   313  3923  2296  3377 20498   275
+   389  1450    68   275   461  2013   341   847 37873   350  3998   342
+   347 18916   350     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.98707575,0.0050745364,0.0039879545,0.0038617759
+"hashtag el mejor candidato es el que piensa en los más de 50 millones de colombianos, especialmente los excluidos, marginados, que han tenido pocas oportunidades y que sus propuestas conviertan a Colombia en sostenible.",[1. 0. 0. 0.],1529795931389952000,"[    0   126  6423  5374   344   840  4016   347   344   341  8209   334
+   364   467   313  2720  1199   313 36053    66  3223   364 23748    66
+ 17646  7493    66   341   633  2586  6523  6186   342   341   529  4084
+ 34433   320  8389   334  6987    68     2     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0]",0.9689654,0.008665124,0.007148052,0.015221398
+hashtag debate final ¿sólo yo le veo la mirada de odio que pone @usuario cuando Petro lo interpela por sus sesgadas opiniones y sus tergiversaciones?,[0. 0. 0. 1.],1530370577592160257,"[    0   126  6423  5374  3314  1450  1486 18599  1501   532  6144   332
+  7532   313  9439   341  3493  1139   422 27065   845 43183   442   611
+ 29318   383   529  5457  7455  5965   342   529 44010  1017    85     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.005057664,0.009905688,0.021992832,0.96304375
+hashtag un tramposo es todos los que juntas en un Pacto para apoderarsen de un país próspero y que Lucha día a día por salir adelante hashtag petro nunca será presidente,[0. 0. 0. 1.],1528709193053749248,"[    0   126  6423  5374   355  3744 35525   347   784   364   341 14626
+   334   355 13894   394 19502   322  5762   313   355  1089 32933  4078
+   342   341 31873   920   320   920   383  3484  4490 26990 44426  2090
+  1355  1362     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.862378,0.03194526,0.030993247,0.074683465
+"Que les pasa a estos idiotas diciendo que hashtag caracol petrista porque chillan si siempre fue un noticiero vendido, sesgado, amarillista, entonces cual es su escándalo no nos crean estupidos.",[0. 0. 0. 1.],1537164221712154624,"[    0  1846  1138  2867   320  1157 48316  8561   341 26990 42760   969
+   346   634   921   998  8187   509  1190   847   355  1223   325   506
+ 13275    66  5457  1424    66 50131   634    66  2556   895   347   373
+ 13648   403   683 13417  8202   741    68     2     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0]",0.0058635036,0.010036377,0.020463599,0.9636365
+"Adivinen quien grabó los hashtag petrovideos. Si, el mismo que no sale en ellos, @usuario. No lo duden ni un segundo.",[0. 0. 0. 1.],1535711164335898629,"[    0  1395   455 46175  1325 26428   364 26990 44426 29450    68  5091
+    66   344  1066   341   403  5468   334  1430    66  1139   422 27065
+    68  1893   442  3373   318   760   355  2125    68     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.006185364,0.009630328,0.019680006,0.96450436
+"hashtag nuestra prioridad es trabajar todos los días, por construir una Colombia productiva.",[1. 0. 0. 0.],1539250707164954625,"[    0   126  6423  5374  1242 10329   347  3151   784   364  1243    66
+   383  5976   405  8389 23219    68     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98709923,0.005082295,0.004032364,0.0037860798
+También logré seducir dos votos más hashtag mi voto es petro yfrancia,[1. 0. 0. 0.],1528457486159724545,"[    0  1923 27623 34903   724  4024   467 26990   737  4113   347 44426
+   342  9641   429     2     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98785895,0.0048557874,0.003875043,0.0034101582
+hashtag nosfalta @usuario saber cuáles son las propuestas de Rodolfix aparte de quitarle las camionetas a los congresistas. Pd: No envíen el plan de gobierno.. lo importante es que él sepa cuál es @usuario,[0. 0. 0. 1.],1536297980453584896,"[    0   126  6423  5374   683 23701  1139   422 27065  2421 10558   644
+   387  4084   313  2597  9184 18493 10252   313 32858   387 30061  3990
+   320   364 32230   815    68   395   122    80  1893  3119 20339   344
+  1084   313  1968   419   442  1713   347   341  1650 12689  7961   347
+  1139   422 27065     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0048969258,0.009796485,0.021319605,0.963987
+hashtag una burla es la hoja de vida  solicitando trabajo por parte de Petro,[0. 0. 0. 1.],1534648881211969537,"[    0   126  6423  5374   405 35276   347   332  9623   313  1078   275
+ 25950  1123   383   786   313 43183     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0054375357,0.009481043,0.021034129,0.9640474
+"hashtag debate final Entonces Fico se enredo con la pregunta de Nestor no conoce ni a los Aguilar , Geneco  ni Char .",[0. 0. 0. 1.],1530372136111689728,"[    0   126  6423  5374  3314  1450  1267  2203   500   511   361   334
+ 11603   350   332  4147   313 42104   437   403  6242   760   320   364
+ 16172   275    66 11159  8033   275   760 15627   275    68     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0056974962,0.009732656,0.019882869,0.96468693
+"hashtag la corrupcion petrista El pacto histórico es tan podrido que con solo ver una foto de cualquiera de esa banda criminal ya siento mal olor, sobre todo Petro.",[0. 0. 0. 1.],1533650795039793152,"[    0   126  6423  5374   332 11204   401   969   346   634   951  5982
+  4979   347   719  1248   471   341   350  1214   664   405  1918   313
+  4957   313  1487  4115 12850   647  7875  1437 14037    66   588   665
+ 43183    68     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0061224136,0.010682162,0.020954603,0.96224076
+hashtag yo bloqueo asemana  Es lo más RUIN Y DEL BAJO MUNDO QUE Hay  DEL PERIODISMO EN COLOMBIA.  @usuario  EL MICROFONO DEL ESTABLECIMIENTO.,[0. 0. 0. 1.],1536763098132107267,"[    0   126  6423  5374  1501 12404 35893   595   275   547   442   467
+ 28448  1710  1126  3316 46310 15854  3887 15046   275  3316  7462  2928
+    90 13070  2076 14438  2303    88  2135    68   275  1139   422 27065
+   275  2306 47006  2034    92 26379  3316 13773 18320 32548    68     2
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0]",0.0072828685,0.010142524,0.018851118,0.96372354
+"@usuario Gracias por sus deseos, por eso el pueblo apoya a Petro hashtag el cambio en primera",[1. 0. 0. 0.],1530726720533409792,"[    0    86   422 27065 19669   383   529 11364    66   383  1317   344
+  2650 10724   320 43183 26990   344  1777   334  1154     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98743606,0.0049600713,0.0039525116,0.0036512963
+Ganó la democracia. Colombia quiere un cambio. hashtag petro es presidente  emoji manos aplaudiendo tono de piel medio emoji  emoji manos aplaudiendo tono de piel medio emoji  emoji manos aplaudiendo tono de piel medio emoji,[1. 0. 0. 0.],1538692946681376769,"[    0 15512   335   332  4481    68  8389  2227   355  1777    68 26990
+ 44426   347  1362   275  3377 20498  3330 15421   772  8694   313  3923
+  1377  3377 20498   275  3377 20498  3330 15421   772  8694   313  3923
+  1377  3377 20498   275  3377 20498  3330 15421   772  8694   313  3923
+  1377  3377 20498     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9873592,0.0050923773,0.00404963,0.0034987517
+"Ahora más que nunca estaremos unidos por una Colombia libre de corruptos, tramposos y de aquellos que piensan que el miedo nos acobarda. !! Ni un paso atrás!!! Seguimos en Dignidad!! hashtag yo contrato apetro hashtag petro presidente2022",[1. 0. 0. 0.],1535000723922030593,"[    0  2885   467   341  2090 15685 15215   383   405  8389  2711   313
+ 22489    66  3744   614   315   342   313  3073   341 12284   341   344
+  4710   683   447 20920   452    68   275  1240 11499   355  2104  5092
+  3818 12800  1521   334   461 35827  1240 26990  1501  4030  6968   488
+ 26990 44426  1362     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.21146668,0.026930507,0.027450915,0.7341519
+Juan Roberto Vargas es una persona decente. Néstor Morales es una porquería de persona. hashtag debate final,[1. 0. 0. 1.],1530378561776930817,"[    0  6954 10707 18313   347   405  1952 27344    68 47994 12692   347
+   405   383 13761   313  1952    68 26990  3314  1450     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.007141511,0.009575602,0.019035883,0.96424705
+No Fajardo usted no controla su sueño ahora si va controlar a un paro nacional  hashtag debate final,[0. 0. 0. 1.],1530365757070233602,"[    0   836   500   484  4756  3264   403 17740   373  6187  1207   509
+  1093  7312   320   355  5926  2112   275 26990  3314  1450     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.019013962,0.014379827,0.025633762,0.9409724
+@usuario Todos esos politiqueros como los que van a votar por ud? NO GRACIAS. Mi voto y el de toda mi familia y amigos es por hashtag petro presidente2022 hashtag petro presidente eso es lo que hashtag colombia necesita,[1. 0. 0. 1.],1532847767281774592,"[    0    86   422 27065  6955  2660  7253   339 12325   466   364   341
+  2122   320  5699   383 40669    85  4502 29611    68  5312  4113   342
+   344   313  1122   737  2192   342  3128   347   383 26990 44426  1362
+  1269  5275 26990 44426  1362  1317   347   442   341 26990   841  7471
+  3652     2     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0]",0.896446,0.012818879,0.010816766,0.07991839
+"Listo @usuario, yo ya hice lo mío, ahora es tu turno de sacar adelante tu magnífico programa de gobierno con un extraordinario equipo de colaboradores y un pueblo que te apoya y espera de ti lo mejor, uniendo nuestro esfuerzo al tuyo. hashtag petro presidente2022 hashtag colombia con petro",[1. 0. 0. 0.],1530993760108175361,"[    0    98 11087  1139   422 27065    66  1501   647 11484   442 13301
+    66  1207   347   583  8679   313  4566  4490   583 15457  1627   313
+  1968   350   355 10792  1357   313 11329   342   355  2650   341   510
+ 10724   342  3105   313   486   442   840    66 47813  1180  4616   389
+ 14999    68 26990     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9867931,0.005023984,0.0039345804,0.004248295
+hashtag mi voto es petro yfrancia estoy seguro que será el comienzo para escribir el futuro en una patria más justa y de oportunidades para todos.,[1. 0. 0. 0.],1528454091382333441,"[    0   126  6423  5374   737  4113   347 44426   342  9641   429  3395
+  3114   341  1355   344  6519   394  4889   344  2159   334   405 15778
+   467 13642   342   313  6186   394   784    68     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9874342,0.0049662082,0.003968655,0.003630898
+"@usuario Firme con @usuario  desde la alcaldía de Medellín, es la mejor opción para nuestro país  hashtag fico el ganador",[1. 0. 0. 0.],1530015260735840263,"[    0    86   422 27065 22105  1060   350  1139   422 27065   275   711
+   332 14453   313 40947    66   347   332   840  3544   394  1180  1089
+   275 26990   362   511   344  7724     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98733497,0.004985513,0.003925407,0.0037540786
+"con mi familia le apostamos a hashtag yo contrato apetro , y usted?",[1. 0. 0. 0.],1534678799815688192,"[    0   562   737  2192   532 33910   320 26990  1501  4030  6968   488
+   275    66   342  3264    85     2     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98697054,0.005075871,0.0040142974,0.003939294
+Grande @usuario agradeciendo  en su discurso antes que nadie  a su señora madre   emoji puño en alto emoji  emoji puño en alto emoji   hashtag petro es presidente hashtag petro es mi presidente,[1. 0. 0. 0.],1538687037573894145,"[    0 48186  1139   422 27065  3327 10021   275   334   373  5238  1292
+   341  2702   275   320   373 11966  3156   275   275  3377 20498 33373
+   334  3069  3377 20498   275  3377 20498 33373   334  3069  3377 20498
+   275   275 26990 44426   347  1362 26990 44426   347   737  1362     2
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0]",0.98794705,0.0048107128,0.0038412532,0.003400871
+"Entre más es escucho a Petro, más me convenzo de que Fico es la mejor opción para salvar a Colombia.   Este domingo vamos a votar por hashtag fico el ganador",[1. 0. 0. 0.],1530377249681248256,"[    0  2809   467   347 34019   320 43183    66   467   503  2176   857
+   313   341   500   511   347   332   840  3544   394  9069   320  8389
+    68   275   275  5329  2659  3259   320  5699   383 26990   362   511
+   344  7724     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98502237,0.0054413844,0.00425377,0.005282493
+"hashtag no me deja dormir Lo que puede pasar el próximo domingo electoral y que pasara con nuestra empresa Colombia a partir del 7 de agosto de 2.022, sólo un gerente veo bien calificado.",[0. 1. 0. 0.],1536698927906533376,"[    0   126  6423  5374   403   503  3579  9838  3385   341   835  2426
+   344  2022  2659  3617   342   341 28174   350  1242  1303  8389   320
+  1981   369  1299   313  3565   313   480    68    70  5275    66  1417
+   355 12166  6144   961 14270    68     2     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0]",0.0073130587,0.01112783,0.022970779,0.9585884
+"Entre el hashtag ex guerrillero oingeniero yo, Ali, me quedo con el ingeniero ¿y usted?   (Copia y pega con tu nombre)",[1. 0. 0. 0.],1538257342411821057,"[    0  2809   344 26990   453 25979 20884   375   340  4236   133  1501
+    66 29014    66   503 12793   350   344 16674  1486   143  3264    85
+   275   275   473 36030   342 15319   350   583  1969    63     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9860746,0.0052181473,0.0041526714,0.004554558
+"hashtag federico es colombia Patán ignorante, es el continuismo del narco uribismo, Duque 2.0,Uribe 3.0. Narcotra-FICO.",[0. 0. 0. 1.],1528673828582350850,"[    0   126  6423  5374  7848   511   347   841  7471  1379  1766 39121
+    66   347   344  1708   637   369 16182  1773   446   637    66 17023
+   480    68    70    66   107 31772   716    68    70    68 13615   468
+   476    67 40890    68     2     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0]",0.0051400876,0.010383089,0.022136115,0.96234065
+"hashtag lo peor de estas elecciones  el kakas como palo e gallinero asustado por q le suspendan al registrador comprado y la rancia asustada por los láser q ellos mismos usan en las protestas, todas las semanas se inventan un golpe de estado payasos saben q no van a ganar hashtag petro es un peligro",[0. 0. 0. 1.],1528395704334528512,"[    0   126  6423  5374   442  4317   313  1415  2147   275   344  1573
+ 15188   323   466 13293   312 19073 13363 14142   574   383  4357   532
+ 11246   328   389  1905   521 15375   342   332  6459   429 14142  1359
+   383   364 19375  4357  1430  3393 12244   334   387 10725    66  1224
+   387  3432   361     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.008129506,0.010290321,0.018213576,0.9633667
+Si le creo a Petro  emoji bandera colombia emoji  emoji bandera islas menores alejadas de ee. uu. emoji hashtag yo voto petro presidente,[1. 0. 0. 0.],1530566782846631937,"[    0   957   532  2768   320 43183   275  3377 20498  7760   841  7471
+  3377 20498   275  3377 20498  7760  9563  4032 41154   313   312   123
+    68  1032   139    68  3377 20498 26990  1501  4113 44426  1362     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98637635,0.005231518,0.004176496,0.0042156284
+@usuario hashtag mi candidato es el que está recogiendo millones de votos y no el que está mendigando cientos.,[1. 0. 0. 0.],1531616316226179073,"[    0    86   422 27065 26990   737  4016   347   344   341   698 27766
+  1199   313  4024   342   403   344   341   698 31530   420   485  7659
+    68     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.53120893,0.029575594,0.027079443,0.41213602
+hashtag me inquieta la polarización y la miseria profesional que demuestran muchos representantes  del cuarto poder..se perdió la imparcialidad..la objetividad..la dignidad y el respeto por dejar actuar a los que exponwn intereses personales por encima de la etica...,[0. 0. 1. 0.],1528718181308809216,"[    0   126  6423  5374   503 41821   332 43250   342   332 19561  2791
+   341 13866  1581  5011   275   369  4873  1226   419   483  9728   332
+ 36401   419   407 32708   419   407  9605   342   344  4793   383  2431
+  6828   320   364   341  8605  7169  4432  4279   383  3546   313   332
+   312   659   522     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.054875687,0.035882585,0.058244586,0.8509972
+"hashtag campana sucia es la forma como está acostumbrado Petro a hacer política: mintiendo, calumniando, engañando, manchando la honra del opositor, delinquiendo y amenazando.",[0. 0. 0. 1.],1535261881719562240,"[    0   126  6423  5374 24593 29700   347   332   892   466   698 23197
+ 43183   320   853  1622    80  1087  3165    66   883   549  5509   485
+    66 18200   485    66   590 17450   332 37410   369 25718    66   369
+   340   413   772   342 48878    68     2     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0]",0.0051965322,0.010556188,0.022345768,0.96190155
+3. Sería bueno que dejaran de llevarse por el miedo o rencor y más por el bien de la nación. hashtag rodolfo cobarde,[0. 0. 1. 0.],1537828867091705858,"[    0    73    68   415  1276  3383   341 42909   313 13569   383   344
+  4710   375 34914   342   467   383   344   961   313   332 10315    68
+ 26990  1029 13088 34402     2     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0072312807,0.009958584,0.021039477,0.96177065
+El uribismo hashtag es una bajeza y la cultura narco paramilitar que representa.,[0. 0. 0. 1.],1536357537175437312,"[    0   454  1773   446   637 26990   347   405  1148  1210   342   332
+  3146 16182 48872   341  4126    68     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0058182585,0.00951416,0.02039072,0.96427673
+"Lo mismo de siempre, cómo cuándo quedó Duque con Petro y los de Fajardo se le unieron. ¿Esta gente que tiene en su cabeza? hashtag elecciones colombia",[0. 0. 1. 1.],1531048182410616833,"[    0  1544  1066   313  1190    66  1610 11110  6166 17023   350 43183
+   342   364   313   500   484  4756   361   532 35934    68  1486  1541
+  1711   341   819   334   373  3031    85 26990  2147   841  7471     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.012797403,0.012221399,0.023452712,0.95152855
+"Petro critica que Ser Pilo Paga haya invertido 3 billones de pesos en universidades privadas (universidades que, recordemos, los mismos estudiantes eligieron).  Los populistas llevan el estatismo en las venas. hashtag el debate decisivo",[0. 0. 0. 1.],1529812845445140485,"[    0  6148   488 10651   341  4056 39362  1379   569  2178 16592   716
+ 27779   313 22001   334  8083  9497   473 25920   811   341    66 39320
+    66   364  3393  4550 38919   946   275  2379 31378  5413   344   514
+  5295   334   387 37227    68 26990   344  3314 17218     2     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0]",0.0061325175,0.009566025,0.019955618,0.9643458
+"Insultos, agravios, mentiras, lo mismo de siempre por parte de la izquierda, llevan toda su vida intentando destruir la democracia  11 mm dijimos NO el 29 y el 19 seremos más de 12 mm   hashtag rodolfo presidente2022",[0. 0. 0. 1.],1532367556081762305,"[    0  5567  5824    66 25938   492    66 14040    66   442  1066   313
+  1190   383   786   313   332  3426    66  5413  1122   373  1078 10351
+ 15664   332  4481   275  2092 12475 36133  4502   344  4449   342   344
+  1050 27180   467   313  1896 12475   275   275 26990  1029 13088  1362
+  1269  5275     2     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0]",0.3073149,0.033612955,0.03395859,0.6251136
+Rodolfo Hernández próximo presidente de Colombia con la ayuda de Dios hashtag rhganador,[1. 0. 0. 0.],1538219098127093761,"[    0 10264 13088  7367  2022  1362   313  8389   350   332  2645   313
+  3997 26990   525   126   751   521     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9861558,0.0051290765,0.004176632,0.0045384946
+"La maquinaria de las Farc que apoya al pacto y a Bendetti vienen por los 7 billones del ICBF, los Colombianos podemos evitarlo votando contra Gustavo este domingo.  hashtag petro respondale alos niños @usuario @usuario @usuario",[0. 1. 0. 1.],1536389456760020993,"[    0   496 12039   313   387 15005   121   341 10724   389  5982   342
+   320 41782 20092  7323   383   364  1299 27779   369   493 33585    92
+    66   364  2833  8191   937  2480 27861 29877   809 17672   533  2659
+    68   275 26990 44426  1230 39470   389   315  2063  1139   422 27065
+  1139   422 27065     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.26696467,0.034448486,0.03576887,0.66281796
+"hashtag el mejor candidato es Petro, conoce las necesidades de todos los colombianos, en especial de los más pobres, su programa integra soluciones en temas de trabajo, salud, acceso a la educación y lucha contra el cambio climático y contra la corrupción.",[1. 0. 0. 0.],1529828911038726146,"[    0   126  6423  5374   344   840  4016   347 43183    66  6242   387
+  3576   313   784   364 36053    66   334  1493   313   364   467  9859
+    66   373  1627 14768  5164   334  3178   313  1123    66  2169    66
+  2222   320   332  3425   342  3644   809   344  1777  7815   342   809
+   332  5439    68     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.98665154,0.0050990847,0.0039541214,0.00429528
+Las alianzas que hizo hashtag el pacto de corruptos demuestra q para ellos los ciudadanos valemos  emoji caca con ojos emoji  emoji caca con ojos emoji  emoji caca con ojos emoji . Han hecho un recorrido por todas las cárceles de Colombia y mientras más delincuente mejor para ellos.  Por esa razón.  hashtag fico el ganador  hashtag fico el presidente de la gente,[0. 0. 0. 1.],1530231996479324161,"[    0  1014 19799   341  2570 26990   344  5982   313 22489  7830  4357
+   394  1430   364  2840  1011   573   275  3377 20498 40166   350  4612
+  3377 20498   275  3377 20498 40166   350  4612  3377 20498   275  3377
+ 20498 40166   350  4612  3377 20498   275    68 15029  1246   355  5052
+   383  1224   387     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9742168,0.0073991055,0.005961427,0.012422573
+"hashtag es el momento de Escuchar que cuando entrevistan a Petro ,se aprende de Historia,de Macroeconomía,de Políticas Verdes y cuando entrevistan a Fico ,estoy revisando si me robaron el celular,la billetera ,da susto el tipo...",[1. 0. 0. 1.],1530193874714517505,"[    0   126  6423  5374   347   344  1245   313 16533  2390   341   845
+ 11017   444   320 43183   275    66   483 20096   313  6040    66   122
+   123 48587 28317    66   122   123 15004 23334   342   845 11017   444
+   320   500   511   275    66 31576 48105   509   503 49953   344 20179
+    66   407  9360     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.009468787,0.011267629,0.022548888,0.95671463
+hashtag yo bloqueo asemana porque es un medio de propaganda política y no uno informativo.,[0. 0. 0. 1.],1536898420002238464,"[    0   126  6423  5374  1501 12404 35893   595   921   347   355  1377
+   313 12928  1622   342   403   993 11297    68     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0062108818,0.010798181,0.021442495,0.9615484
+"Ni en sus propios términos  y con juezas a su favor asistió, todo lo que medio dice coherente se lo leen, aún peor que Duque es   hashtag rodolfo cobarde",[0. 0. 0. 1.],1537636056979357698,"[    0  6255   334   529  4540  4852   275   342   350  1324  1409   320
+   373  1576 24304    66   665   442   341  1377  1960 18916   361   442
+ 28622    66  2095  4317   341 17023   347   275   275 26990  1029 13088
+ 34402     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.014638189,0.011142905,0.019870609,0.9543483
+"hashtag colombia con petro Colombia entera Hoy se va a liberar de la narcohegemonia Colombia ya no se conocerá como el país de Pablo Escobar como el mayor productor de cocaína del mundo se conocerá como la mayor productora de Amor,Paz y vida de América Latina y del MUNDO hashtag colombia con petro",[1. 0. 0. 0.],1530903606307835904,"[    0   126  6423  5374   841  7471   350 44426  8389 14264  6826   361
+  1093   320 20610   313   332 16182   126 19358  4426  8389   647   403
+   361 29399   466   344  1089   313  3153 29102   466   344  1021 12607
+   313 16559   369  1077   361 29399   466   332  1021 17254   313 15787
+    66 40590   342     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.5526341,0.026421005,0.025549965,0.39539492
+"hashtag me decepciona que algunos periodistas por acomodarse con el mandatario de turno, le ocultan todo al colectivo ciudadano.",[0. 0. 1. 0.],1537401753678843904,"[    0   126  6423  5374   503 15465  3517   341  1660  6397   383 21654
+   985   350   344 19186   313  8679    66   532 42711   665   389  5009
+  7572    68     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0049607134,0.0098169865,0.021019109,0.9642032
+@usuario @usuario Salieron las bodegas del Señor de las Bolsas a atacar. Instrucciones del cerebro la Rata de la Salud? hashtag petrismo sucio,[0. 0. 0. 1.],1535624780187058176,"[    0    86   422 27065  1139   422 27065  1739  1289   387 17083   369
+  9499   313   387 39841   320 13701    68  2042 21090   369  8411   332
+  2413   345   313   332  4480    85 26990   969   346   637 28497     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0050026397,0.010101761,0.021385547,0.9635101
+Hoy no es un hashtag feliz martes Hoy es el dia del golpe de estado que anunció Gustavo Petro hace unos días. Que nervios!  emoji cara haciendo una mueca emoji  hashtag acolombia le preocupa,[0. 1. 0. 0.],1529105618988056577,"[    0  3026   403   347   355 26990  6482  3242  6826   347   344  3871
+   369  4796   313  1499   341  7337 17672 43183   981  1279  1243    68
+  7499 13158    55   275  3377 20498  1611  3056   405   333 31493  3377
+ 20498   275 26990 32996  7471   532  8732     2     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0]",0.15579608,0.026819747,0.030183824,0.78720033
+"Con Petro ganamos todos, la niñez y un presente -futuro de prosperidad que necesita ser construido desde ya hashtag con petro ganas tú",[1. 0. 0. 0.],1534564264563859457,"[    0   885 43183 32203   784    66   332 35647   342   355  2842   710
+ 45405   313 25009   341  3652   499 11250   711   647 26990   350 44426
+  4797  4348     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98722816,0.005080332,0.003996192,0.0036953504
+"Qué un candidato se dedique a desmentir a otro y agote su tiempo  en ello, en pleno debate, en vivo, lo único que quiere decir es que Petro impuso agenda y que el establecimiento en pleno está más preocupado por desmentir que por proponer. A eso llegaron. hashtag debate final",[0. 0. 1. 1.],1530362003209994242,"[    0  2555   355  4016   361 36917   320 41086   320  1216   342  8061
+   343   373  1030   275   334  1577    66   334  4119  3314    66   334
+  5628    66   442  2639   341  2227  1549   347   341 43183 13519  8085
+   342   341   344  7112   334  4119   698   467 20160   383 41086   341
+   383 13364    68     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.09659676,0.024178505,0.033306833,0.8459179
+"hashtag no me deja dormir el invierno en el sur del tolima que ya causado estragos y las entidades de gobierno nada.ha pero para hacer política si. En fin, la hipocresía",[0. 0. 1. 0.],1536716655824347137,"[    0   126  6423  5374   403   503  3579  9838   344  7040   334   344
+  2473   369 18224  1857   341   647 14219 37512   342   387  3806   313
+  1968  1488    68  1422   623   394   853  1622   509    68  1267   655
+    66   332 34017     2     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]",0.0046352246,0.009661595,0.02148764,0.9642156
+"@usuario Propuestas viables y que favorecen la economía de todos los colombianos, este 29 de mayo yo me sumo y me identiFICO emoji bandera colombia emoji  hashtag fico el ganador",[1. 0. 0. 0.],1529824506637713410,"[    0    86   422 27065  1338  2607 43550   342   341 28870   332  3630
+   313   784   364 36053    66   533  4449   313  2610  1501   503 32014
+   342   503  2406 40890  3377 20498  7760   841  7471  3377 20498   275
+ 26990   362   511   344  7724     2     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0]",0.98731494,0.0050893235,0.0039849263,0.0036107881
+"hashtag colombia necesita librar de asesores, estudios de los estudios, componendas, otros sí del contrato, sobre costos, maestros que no saben ni multiplicar, y dejar de pensar que el estado es el papa!",[0. 0. 0. 1.],1532341971901206528,"[    0   126  6423  5374   841  7471  3652 37921   313 18057    66  3431
+   313   364  3431    66  5033  3520    66  1071  1507   369  4030    66
+   588 21777    66 13396   341   403  6310   760 31013    66   342  2431
+   313  4140   341   344  1499   347   344 17945    55     2     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0]",0.008147475,0.010037186,0.018416438,0.9633989
+"@usuario Qué no se note el sesgo de @usuario,no sorprende en un ""periodista"" pro Duque-Fico. hashtag debate final",[0. 0. 0. 1.],1530358933705179137,"[    0    86   422 27065 19685   403   361 39429   344 39629   313  1139
+   422 27065    66   552 13163   334   355   459 21212   634    56   411
+ 17023    67    92   511    68 26990  3314  1450     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0061998325,0.009420155,0.01962414,0.96475583
+"@usuario No es veraz. La verdad no les importa, sus intereses son otros. Replantear nuestros sistemas de información, es un deber colectivo. La dignidad también se recupera dejando de consumir medios basura y periodistas obsoletos. hashtag yo bloqueo asemana",[0. 0. 0. 1.],1536691252279840768,"[    0    86   422 27065  1893   347 34134    68   859  1765   403  1138
+  7814    66   529  4432   644  1071    68   832 19185   322  1721  3889
+   313  1161    66   347   355  2037  5009    68   859  9605   738   361
+ 12250  7184   313 15286  2177 10299   342  6397 23976 14366    68 26990
+  1501 12404 35893     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.28666535,0.072607666,0.08930518,0.5514218
+"Petro en hashtag el debate definitivo estuvo sencillo y claro. Y decirlo con esa palabrita que le encanta al gobierno uribista de @usuario: CONTUNDENTE.   Su síntesis:   Colombianos, hay tres posturas: i) La del gobierno uribista, defendida acá; más de lo mismo; más uribismo.",[1. 0. 0. 0.],1529169653620162562,"[    0  6148   488   334 26990   344  3314  9944  5083  6509   342  2296
+    68  1126 16708   350  1487  2094 14855   341   532  5905   389  1968
+  1773   446   634   313  1139   422 27065    80  2852   106 40475  7072
+    68   275   275  1787 21892    80   275   275  2833  8191   937    66
+   733  1113 18694     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.035337165,0.016710985,0.023072902,0.924879
+@usuario @usuario Por eso a estado casado 3 veces y después chao   el borracho de petro es machista y mujeriego  hashtag rodolfo presidente2022,[0. 0. 0. 1.],1532534057166327808,"[    0    86   422 27065  1139   422 27065  2518  1317   320  1499 23039
+   716  1979   342  1278  9202   133   275   275   344 43291   313 44426
+   347 10896   342  1205  3953   275 26990  1029 13088  1362  1269  5275
+     2     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.049624845,0.018361438,0.023122912,0.90889084
+"hashtag el mejor candidato es quien sea independiente para gobernar y quite la parranda de corruptos ""cuello blanco"" amarrados a estructuras colonialistas que oprimen a todo un país. emoji flecha hacia la derecha emoji  Neoliberalistas que sobre-endeudaron al país enriqueciendo a un sector minoritario q' desplaza a la masa.",[0. 0. 0. 1.],1530318206262464512,"[    0   126  6423  5374   344   840  4016   347  1325  1351  5243   394
+  9401   342 38627   332   368   508   452   313 22489   459 31450   418
+  4383    56  4690  9552   320  9727 24547   815   341 34774   318   320
+   665   355  1089    68  3377 20498 29164  1929   332  3323  3377 20498
+   275  3427 14630     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.3208307,0.031023651,0.029099163,0.6190465
+"Los petristas son camaleónicos, cambian de parecer de acuerdo a su conveniencia, un día es negro y al otro es blanco, una falta de coherencia total, para la muestra Roy, Benedetti, Teodora, Bolívar y el mismo Petro hashtag la maldad petrista",[0. 0. 0. 1.],1535955015294124032,"[    0   713   969   346   815   644   622  2232 16159    66 16992   313
+  6368   313  1658   320   373 23225    66   355   920   347  4811   342
+   389  1216   347  4383    66   405  1877   313 18844  1405    66   394
+   332  2907 14734    66 47828 20092    66  4742   474   609    66 46614
+   342   344  1066     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.16267,0.02392826,0.026431222,0.7869705
+Apenas un 52 % de participación en las hashtag elecciones colombia,[0. 0. 1. 0.],1531043416435466243,"[    0 23408   355 11381  5870   313  2883   334   387 26990  2147   841
+  7471     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.8513525,0.0207715,0.01978598,0.10809002
+La robada de la presidencia de John Milton Rodríguez será monumental  emoji cara llorando de risa emoji  hashtag elecciones2022,[0. 0. 0. 1.],1531025038190776321,"[    0   496 10803   428   313   332  8621   313  6595  6395   874  4154
+  1355 16801   275  3377 20498  1611 30447   313 16134  3377 20498   275
+ 26990  2147  1269  5275     2     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.1663823,0.057235446,0.065453224,0.7109291
+"hashtag estallido social es  ver a un candidato haciendo campaña en medios de comunicación, pueblos empresas quitándoles el miedo.y otro cagado en Miami disque por qué lo van a cuchillar",[0. 0. 0. 1.],1536734614592573440,"[    0   126  6423  5374 28836  1258   347   275   664   320   355  4016
+  3056  2389   334  2177   313  2215    66  5467  1455 41704 17115   344
+  4710    68   143  1216   576  1424   334 17477   530   336   383  1350
+   442  2122   320 11438  9643     2     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0]",0.0049800486,0.009714454,0.02116101,0.9641444
+hashtag el domingo voy a el domingo estaré temprano para ejercer como jurado  Y votar como todo ciudadano  También los invito a votar por quien quiera  No se deje presionar Por quien le diga su conciencia,[1. 0. 0. 0.],1530196500059496449,"[    0   126  6423  5374   344  2659  4228   320   344  2659 25409 16389
+   394  7566   466  8373   275  1126  5699   466   665  7572   275 24393
+   364 22785   320  5699   383  1325  7207   275  1893   361 10251 23768
+  2518  1325   532 10373   373  7480     2     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0]",0.97592723,0.006275198,0.0049559707,0.012841572
+hashtag mi voto es petro yfrancia porque son los únicos que encarnan el verdadero cambio que necesitamos la mayoría de los colombianos.,[1. 0. 0. 0.],1528763021769703424,"[    0   126  6423  5374   737  4113   347 44426   342  9641   429   921
+   644   364 10605   341  2483 16091   344  7758  1777   341  9712   332
+  2134   313   364 36053    68     2     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.987379,0.0049713203,0.0039483574,0.0037012587
+"hashtag mesumoa votar por Petro , la señora Angelica con lo que hace, ha aprendido las mañas de chantajeo para tener contenta a su mujer, que horror",[0. 0. 0. 1.],1532407230569582594,"[    0   126  6423  5374   953  2784   119  5699   383 43183   275    66
+   332 11966 10685   470   350   442   341   981    66   380 13632   387
+   550  1822   313 26254   133   394  1301 24907   320   373  1205    66
+   341 17457     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.022734553,0.013927212,0.022761714,0.94057655
+"Exguerrillero estudiado,mejor y no ingeniero ladrón y corrupto hashtag exguerrillero oingeniero",[1. 0. 0. 1.],1538204961338695683,"[    0  3101 12173   136 20884 18442    66 11620   342   403 16674 28981
+   342 28009 26990   453 12173   136 20884   375   340  4236   133     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0155940745,0.011481836,0.019990077,0.9529341
+Tanta bulla... No era en primera???hashtag petro presidente ensegunda,[0. 0. 0. 1.],1537843246684053504,"[    0   106  7175   397 16012   522  1893  1233   334  1154 15764   126
+  6423  5374 44426  1362  3154  6417     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.47282192,0.037707616,0.03586097,0.4536095
+@usuario Sólo hay algo grandioso que está por llegar hashtag fico el ganador,[1. 0. 0. 0.],1530304223174344706,"[    0    86   422 27065 44665   733  1356  3400  3964   341   698   383
+  1764 26990   362   511   344  7724     2     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98637784,0.004950104,0.0039532417,0.004718789
+Pobres colombianos si viendo lo que está pasando en los países con gentuza comunistas como estos no entiende !!! Esta película ya está muy gastada  pero los tontos no ven . Ojalá y Colombia se deshaga del comunismos con el perverso de petro  hashtag elecciones colombia2022,[0. 1. 0. 1.],1538615709554589698,"[    0   102   462   381 36053   509  7185   442   341   698  5845   334
+   364  2143   350  2341 48093 20513   466  1157   403  7964   275  3818
+  4472  3021   647   698   727  1616  1359   275   623   364 24579   403
+  1360   275    68   608 13431   342  8389   361   430  1422   569   369
+   960  4205   350     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0073632402,0.009585551,0.019170461,0.96388066
+"hashtag votar en blanco es darle el voto al señor de las bolsas, ojo a pensar bien en qué país queremos.  emoji ojos emoji",[0. 1. 0. 0.],1533777930102480896,"[    0   126  6423  5374  5699   334  4383   347  6522   344  4113   389
+  5560   313   387 11539    66  9587   320  4140   961   334  1350  1089
+  4185    68   275  3377 20498  4612  3377 20498     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9842667,0.0052992785,0.004171391,0.0062626293
+Ojo que Petro está apoyado por farc eln bandas criminales y maduro de venezuela ojoo los invito a que votemos por RODOLFO votar en blanco es apoyar también a los guerrilleros mi voto este 19 junio es:hashtag rodolfo presidente2022,[0. 1. 0. 1.],1532917229712449536,"[    0 32416   341 43183   698 14532   383 11903   121   344   132 10146
+ 21815   342 35584   313  1360  6328  9587   133   364 22785   320   341
+  1179 20198   383 27371  2423 15202  5699   334  4383   347  7067   738
+   320   364 49869   737  4113   533  1050  2619   347    80   126  6423
+  5374  1029 13088     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.4574388,0.02862929,0.025927333,0.4880045
+"Y Rodolfo? En casa, no tiene con qué debatir. Pa' el todas las respuestas es combatir la corrupción a punta de madrazos.  hashtag el debate definitivo",[0. 0. 0. 1.],1528929897175035905,"[    0   111 39219    85  1267  1530    66   403   819   350  1350 10621
+    68  1379    61   344  1224   387  7840   347  9461   332  5439   320
+ 10441   313  1506   388  2123    68   275 26990   344  3314  9944     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.009588909,0.010777189,0.019816538,0.95981723
+hashtag petrismo sucio... sucias son todas las campañas. ¿Cuál se salva? ¿Ya olvidaron 2014? ¿2018? O ¿es que la memoria es selectiva? Es política de la más baja calidad.  ¡Qué desesperanza Colombia con esos dos políticos que están en carrera presidencial y con los que quedaron atrás!  emoji cara de náuseas emoji,[0. 0. 1. 1.],1534933165873168385,"[    0   126  6423  5374   969   346   637 28497   522   373   607   644
+  1224   387  8531    68  1486 12013   361 13712    85  1486  2793  6919
+   971  4878    85  1486  7797    85   608  1486   321   341   332  4721
+   347 32652    85   547  1622   313   332   467  3637  1762    68   275
+  2894  2555 13370     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0053417743,0.009572758,0.020426681,0.96465874
+"hashtag irrespetuoso es creer que si yo voy ganando las elecciones, me voy arriesgar en un debate. LÓGICO!! El que va mal en las encuestas siempre quiere debatir hasta el ultimo momento. No olvidemos que el camarada es experto en dialéctica, es lo primero que se enseña a un narcomunista.",[0. 0. 0. 1.],1537521434146263040,"[    0   126  6423  5374 26280   524 13892   347  8253   341   509  1501
+  4228 13563   387  2147    66   503  4228 32333   334   355  3314    68
+   448 41264  5712  1240   951   341  1093  1437   334   387  8778  1190
+  2227 10621   796   344 21162  1245    68  1893 25208   341   344 12919
+   428   347  8704     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.011425402,0.01233087,0.02317384,0.9530698
+"hashtag rhganador  No hay fuerza humana q pueda derrocar a quien se fundamente en lo bueno, en el amor, en el respeto, en la construcción y no en la destrucción. hashtag rhganador",[1. 0. 0. 0.],1538008081702875136,"[    0   126  6423  5374   525   126   751   521   275  1893   733  3450
+  6555  4357  2773  4513   756   320  1325   361  1921   638   334   442
+  3383    66   334   344  2858    66   334   344  4793    66   334   332
+  3548   342   403   334   332 12281    68 26990   525   126   751   521
+     2     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0]",0.95894825,0.010548426,0.009068937,0.021434342
+El único que puede salvar la patria  hashtag voy con federico,[1. 0. 0. 0.],1530648135176962054,"[    0   454  2639   341   835  9069   332 15778   275 26990  4228   350
+  7848   511     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9864622,0.00525362,0.0041885315,0.004095666
+"@usuario No les alcanzó para el fraude... estuvo muy difícil. Ganó el pueblo,perdieron ustedes: la godarria recalcitrante, los que creyeron que siempre iban a estar en el poder. Ho es un hecho hashtag petro es presidente",[1. 0. 0. 1.],1538967910969901059,"[    0    86   422 27065  1893  1138 12843   394   344  9831   522  5083
+   727  3334    68 10333   335   344  2650    66 49240  1289  9271    80
+   332   393   474 27420  8242   325   346   557    66   364   341 14719
+  2363   341  1190  9155   320  1088   334   344  1226    68  3412   347
+   355  1246 26990     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.013068523,0.01286989,0.023537962,0.9505237
+@usuario Y por las jugaditas logisticas politicas; despertaron a nuestros compatriotas hashtag fico el ganador,[1. 0. 0. 0.],1529834290636267521,"[    0    86   422 27065  1126   383   387  1626  1775   450  8088 29095
+  7253  1048    81  6430  3075   320  1721 34305 26990   362   511   344
+  7724     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.42191446,0.028592648,0.027687816,0.5218051
+@usuario hashtag nuestra prioridad es que el periodismo sea imparcial ejemplo cómo acabó de hablar julio ya no se debe decir petro sino el señor presidente petro felicito a la w por su imparcialidad un abrazo para todos los de la mesa,[1. 0. 0. 0.],1539221615304744960,"[    0    86   422 27065 26990  1242 10329   347   341   344  6804  1351
+ 43554  1915  1610  7728   313  2855  2839   647   403   361  1724  1549
+ 44426  1520   344  5560  1362 44426 35424   320   332   909   383   373
+ 36401   355  9583   394   784   364   313   332  4160     2     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0]",0.97479236,0.006757007,0.0054123425,0.013038199
+@usuario Al contrario... Siempre se dejan engañar de la derecha por temerle al cambio pero los jóvenes ya despertamos y hoy dimos el primer paso para mejorar nuestra bella Colombia hashtag petro es presidente  emoji bandera colombia emoji,[1. 0. 0. 0.],1538782626399780864,"[    0    86   422 27065   771  3908   522 38990   361  7799 20511   313
+   332  3323   383 20653   371   389  1777   623   364  2634   647  6430
+  1227   342  1290 28892   344  1166  2104   394  3010  1242 14962  8389
+ 26990 44426   347  1362   275  3377 20498  7760   841  7471  3377 20498
+     2     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0]",0.9865524,0.0049076583,0.0038648357,0.004675004
+"Quería irme de mi país, en serio, pero ahora me quedo con toda la fe y las ganas de seguir realizando mi tarea en este país, seguiré ayudando a los que pueda a tener la mejor salud. hashtag petro es presidente",[1. 0. 0. 0.],1538709804683763713,"[    0 29871 35510   313   737  1089    66   334  7666    66   623  1207
+   503 12793   350  1122   332  2456   342   387  4797   313  1725  8408
+   737  7341   334   533  1089    66 34504 21102   320   364   341  2773
+   320  1301   332   840  2169    68 26990 44426   347  1362     2     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0]",0.98712116,0.005125827,0.0040175165,0.0037354613
+@usuario Nos amenaza su hija de un hashtag estallido social es ¿y ahora es la víctima? No jodas Petrochenko.,[0. 0. 0. 1.],1536668344035704834,"[    0    86   422 27065 15668  6933   373  5229   313   355 26990 28836
+  1258   347  1486   143  1207   347   332  6019    85  1893   487  4230
+ 43183 12969  3763    68     2     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0055491882,0.009268659,0.01959589,0.96558625
+"Colombia no volverá a tener un candidato como Gustavo Petro, y sí hoy no gana los únicos que habremos perdido somos los Colombianos. hashtag petro presidente hashtag elecciones colombia2022",[1. 1. 0. 0.],1538528485647470594,"[    0 32099   403 10112   320  1301   355  4016   466 17672 43183    66
+   342  1507  1290   403  6027   364 10605   341 42586  5111  3560   364
+  2833  8191   937    68 26990 44426  1362 26990  2147   841  7471  1269
+  5275     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9313316,0.014200089,0.0124722,0.041996133
+@usuario Obvio no ve que esas 50 camionetas las pagamos nosotros hashtag petrismo sucio. No engañan al pueblo la gente está cansada de su bazofia!,[0. 0. 0. 1.],1535048051181617158,"[    0    86   422 27065  4983  8421   403  1118   341  3319  2720 30061
+  3990   387 28592  2070 26990   969   346   637 28497    68  1893  6973
+ 12883   389  2650   332  1711   698 37870   313   373  1467   857 21756
+    55     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.0050633783,0.009638256,0.020875046,0.9644233
+"hashtag petro presidente en primera  porque ya es hora de reconciliar, producir, y crecer, Latinoamérica potencia mundial, creceremos con el apoyo adecuado",[1. 0. 0. 0.],1530860123043799040,"[    0   126  6423  5374 44426  1362   334  1154   275   921   647   347
+  1880   313 20523  1845    66  6353    66   342  8276    66 17384  6991
+  3801    66  8276   573   350   344  2239  7432     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.987558,0.004910937,0.0039360337,0.0035950686
+"Sergio fajardo demostró en un debate con cifras que el programa de gobierno de Gustavo Petro es un FRUADE, no se podrá cumplir, el título de ""economista"" de Petro debe generar vergüenza en su universidad,  Derrotemos a los corruptos  hashtag voto por rodolfo   hashtag exguerrillero oingeniero",[0. 0. 0. 1.],1538188595453906945,"[    0 19765   362   484  4756 16886   334   355  3314   350  6622   341
+   344  1627   313  1968   313 17672 43183   347   355 20724   107 20820
+    66   403   361  2880  4508    66   344  3361   313   459  7751 25746
+    56   313 43183  1724  6879 11546   334   373  7057    66   275  3704
+   365 20198   320     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.02271277,0.012876474,0.02018402,0.9442267
+"Tengo severa tusa electoral, vamos a vivir la peor segunda vuelta en mucho años. Dos candidatos que no convencen. hashtag elecciones colombia",[0. 0. 1. 0.],1531043719193010177,"[    0  8790 30729   583  1293  3617    66  3259   320  3861   332  4317
+  2054  3678   334  1204   673    68 11195  6326   341   403  2176  1200
+    68 26990  2147   841  7471     2     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.6324171,0.027812537,0.026316073,0.3134542
+"hashtag los petro videos son espionaje rastrero a una sede de un partido político. Independientemente de lo que estén hablando o planeando, el delito está en la infiltración de una sede política privada.",[0. 0. 0. 1.],1534962058000748556,"[    0   126  6423  5374   364 44426  8379   644 26746  5710   346   506
+   320   405  3911   313   355  1346  2988    68 22064   641   313   442
+   341  6058  6025   375 12266   485    66   344  4971   698   334   332
+ 25029 11919   313   405  3911  1622  6588    68     2     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0]",0.0050354255,0.009996305,0.02138135,0.9635869
+hashtag yo voto petro presidente El mejor de los candidatos sin duda,[1. 0. 0. 0.],1530338460183285760,"[    0   126  6423  5374  1501  4113 44426  1362   951   840   313   364
+  6326   580  3089     2     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98760927,0.004901924,0.0038914783,0.0035973252
+"Santandereanos Siempre adelante ni un paso atras, pero votar por Rodolfo Hernández JAMAS!! hashtag elecciones colombia2022",[1. 0. 0. 0.],1538563780761817089,"[    0 17869   123   937 38990  4490   760   355  2104 22341    66   623
+  5699   383 39219  7367   526  2963  1024  1240 26990  2147   841  7471
+  1269  5275     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.011510673,0.01083389,0.019063625,0.9585918
+"Soy el único que está llorando de felicidad, al escuchar a @usuario y a @usuario ? Que felicidad! Si se pudo! hashtag petro es presidente",[1. 0. 0. 0.],1538684161476657153,"[    0  8100   344  2639   341   698 30447   313  8562    66   389  5520
+   320  1139   422 27065   342   320  1139   422 27065   275    85  7499
+  8562    55  5091   361  5294    55 26990 44426   347  1362     2     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98620266,0.0054634325,0.0042358562,0.0040979986
+"@usuario @usuario A si, cambio de opinión - respetable, de igual forma el RH asistia a su debate no iba Petro ..  pero ahora que le urge mostrase como el gran orador que es !! Ahora si necesita hashtag debate",[0. 0. 0. 1.],1537579222063108097,"[    0    86   422 27065  1139   422 27065   400   509    66  1777   313
+  3357   710 37390    66   313  1808   892   344   465    94  7908  2437
+   320   373  3314   403  4175 43183   275   419   275   623  1207   341
+   532 29534  1973 33736   466   344   764   651   521   341   347   275
+  1240 14842   509     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.020994281,0.012476183,0.018160755,0.94836885
+"No se necesita ser economista, ni experto en seguridad, ni en transporte para saber que hashtag petroeselcambio. Gente es solo escuchar y ponerle SENTIDO COMÚN!! @usuario  hashtag el debate decisivo",[1. 0. 0. 0.],1529810138990788608,"[    0   836   361  3652   499 21700    66   760  8704   334  1914    66
+   760   334  4304   394  2421   341 26990 44426 30090  7392    68 35817
+   347  1214  5520   342 21920   415  5067  9366  4704 29520  1240  1139
+   422 27065   275 26990   344  3314 17218     2     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0]",0.96471834,0.009306755,0.00718555,0.018789297
+Fajardo quedo tan peinado que ya se quiere ir hashtag el debate definitivo,[0. 0. 1. 1.],1528935706625773568,"[    0    92   484  4756 12793   719 33594   341   647   361  2227  1354
+ 26990   344  3314  9944     2     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.007889517,0.010214099,0.021374432,0.96052194
+"hashtag estallido social es el arma de petro, para infundir miedo y no salgamos a votar...jamás petro será presidente si hace estos mecanismos",[0. 1. 0. 1.],1536672756409966592,"[    0   126  6423  5374 28836  1258   347   344  9939   313 44426    66
+   394 38527   421  4710   342   403   677  6335   320  5699   522 13844
+   424 44426  1355  1362   509   981  1157  9962     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.8162365,0.039161354,0.038609084,0.10599303
+Por igualdad de condiciones Petro presidente hashtag soy petro soy paz,[1. 0. 0. 0.],1535969744901251075,"[    0   787  4954   313  2202 43183  1362 26990  3569 44426  3569  5574
+     2     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9873295,0.005036696,0.0039870283,0.0036467595
+"hashtag votar en blanco es. Darle a los guerristas ( Petro, y su famoso Pacto Histórico ),  la oportunidad de salirse con las suyas, y dejar en manos del padre del terrorismo este país. No permitamos la noche oscura del comunismo en Colombia. hashtag petro nunca sera presidente",[0. 1. 0. 1.],1534225507079823360,"[    0   126  6423  5374  5699   334  4383   347    68   461  8780   320
+   364 25979   815   473 43183    66   342   373  8232 13894 16573 27916
+   275   332  3530   313 31202   350   387 22321    66   342  2431   334
+  3330   369  3534   369  7740   533  1089    68  1893  1318  1227   332
+  2382 17911   369     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.009382759,0.010565908,0.018230958,0.9618204
+"Ya ejercí mi derecho al voto y puede que me equivoque, como puede que no (espero que no) Pero hoy voté porque no quiero nada regalado. Solo quiero que todo lo que trabaje y todo el esfuerzo que haga sea suficiente para vivir sabroso en mi país.  emoji bandera colombia emoji  emoji bíceps flexionado emoji  hashtag el cambio en primera",[1. 0. 0. 0.],1530969311480795138,"[    0  2793  2018 17790   737  2040   389  4113   342   835   341   503
+ 19516   336    66   466   835   341   403   473 37904   341   403    63
+ 16260  1290  1179  2763   921   403  4222  1488 30481    68 26119  4222
+   341   665   442   341 32061   342   665   344  4616   341  4926  1351
+  4994   394  3861     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.98475325,0.0054199593,0.0042068497,0.005619909
+"Vamos por el cambio en primera,votemos por un mejor pais hashtag petro presidente en primera",[1. 0. 0. 0.],1530895362671710209,"[    0  7613   383   344  1777   334  1154    66   852 20198   383   355
+   840  4619 26990 44426  1362   334  1154     2     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9876115,0.0049567837,0.003943868,0.0034878275
+Hasta clase de matemáticas le terminó dando Petro a Fajardo jaja mk ese fajardo está que llora muero  hashtag el debate definitivo,[0. 0. 0. 1.],1528930507752448000,"[    0  4937  3884   313 11454   532 10585  5063 43183   320   500   484
+  4756 22053   333   129  1305   362   484  4756   698   341 35110 47158
+   275 26990   344  3314  9944     2     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.6207344,0.029839253,0.029512048,0.3199143
+"Les apuesto 10 a 1 que Mabel Lara va a salir a decir que las palabras de Verónica Alcocer fueron sacadas de contexto, que el hashtag petrismo sucio es puro amor y que hashtag lo correcto es que va a poner el otro cachete para que le den. hashtag caracol petrista",[0. 0. 0. 1.],1537210847520604163,"[    0  9943  3489   349  1472   320   481   341   404  4807 13510  1093
+   320  3484   320  1549   341   387  2942   313 29769 15814   565  2181
+  2380   577   313  6415    66   341   344 26990   969   346   637 28497
+   347 10459  2858   342   341 26990   442  9084   347   341  1093   320
+  1978   344  1216     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0065085585,0.009482608,0.01948954,0.9645193
+"hashtag elecciones colombia hashtag elcambioesenprimera voto por el cambio para acabar el capitalismo de finca, que lleva décadas en el poder y hace que tantas personas pasen hambre y tengan que dejar el país.",[1. 0. 0. 0.],1531013600839622658,"[    0   126  6423  5374  2147   841  7471 26990   344  7392 15797 30786
+  4113   383   344  1777   394  5289   344 13558   313 12012    66   341
+  2690  6256   334   344  1226   342   981   341  7557   959 19468 10010
+   342  5162   341  2431   344  1089    68     2     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0]",0.8399745,0.024850931,0.02335235,0.111822166
+"Vicky hizo esa pregunta a Rodolfo solo porque sabe que le está respirando en la nuca a alias ""Fico"" hashtag eldebate definitivo",[0. 0. 0. 1.],1528920296773804032,"[    0   108 20911  2570  1487  4147   320 39219  1214   921  3477   341
+   532   698 15967   485   334   332 42939   320 34276   459    92   511
+    56 26990   344 45447  9944     2     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.005596786,0.009406416,0.020417502,0.9645792
+"Cómo unir al país y la única mujer periodista entre los invitados, no la dejaron hablar hashtag debate final",[0. 0. 0. 1.],1530353057019613184,"[    0  4195 11575   389  1089   342   332  3190  1205  5308   619   364
+  9105    66   403   332 12217  2855 26990  3314  1450     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98599005,0.005335742,0.0041009714,0.0045732544
+"@usuario Este fin de semana no nos dejemos provocar, no le creamos al hubo fraude, para eso están los testigos electorales, la oposición quiere provocar por eso debemos estar calmados y no dejarnos creer de nada, eso es lo que quieren, hacernos quedar mal. hashtag petro presidente ensegunda",[1. 0. 0. 0.],1537794621673295872,"[    0    86   422 27065  5329   655   313  1461   403   683 36933 10735
+    66   403   532 31735   389  5486  9831    66   394  1317  1055   364
+ 12155  7810    66   332  3387  2227 10735   383  1317  5652  1088   883
+ 29235   342   403 29433  8253   313  1488    66  1317   347   442   341
+  3906    66 15569     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.012579431,0.011547829,0.02037299,0.9554998
+"@usuario @usuario No luchan por ganar sino más bien para que no gané hashtag petro presidente en primera .,... Pero no van a poder, los que queremos un cambio real somos más",[1. 0. 0. 1.],1530895917607436288,"[    0    86   422 27065  1139   422 27065  1893 20681   383  3476  1520
+   467   961   394   341   403  1235   376 26990 44426  1362   334  1154
+   275  3790   522 16260   403  2122   320  1226    66   364   341  4185
+   355  1777  2442  3560   467     2     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0]",0.97974074,0.0064380853,0.005073121,0.0087480415
+Parece que no hemos entendido que necesita mantenerse vigente a base de mentiras hashtag federico es colombia,[0. 0. 0. 1.],1528354852681699328,"[    0  8522   341   403  1780 14969   341  3652 14499  7711   320  2644
+   313 14040 26990  7848   511   347   841  7471     2     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.57940614,0.037422203,0.042048763,0.34112293
+"hashtag mi voto es petro yfrancia mi voto es por la vida, por la libertad,por la paz emoji paloma emoji  Mi voto es por el cambio.Dios permita llegue @usuario y @usuario a la presidencia y vicepresidencia.Ansiosa de que llegue 29 de mayo para salir a votar hashtag elcambioesenprimera hashtag petro presidente",[1. 0. 0. 0.],1528736735999451137,"[    0   126  6423  5374   737  4113   347 44426   342  9641   429   737
+  4113   347   383   332  1078    66   383   332  2876    66   523   332
+  5574  3377 20498 46333  3377 20498   275  5312  4113   347   383   344
+  1777    68 19652  8288  8529  1139   422 27065   342  1139   422 27065
+   320   332  8621     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9875894,0.004933139,0.003946315,0.0035311913
+"hashtag petrismo acosa ala prensa si hoy que aun no están en el poder, atacan y  censuran a la prensa que no se les arrodilla, que nos espera si  Petro y su grupo de bandidos llegan al pode? aun podemos salvar a Colombia de una dictadura hashtag la maldad petrista hashtag petrismo sucio",[0. 1. 0. 1.],1536844946564689929,"[    0   126  6423  5374   969   346   637   447  2482 18217  2553   509
+  1290   341  6077   403  1055   334   344  1226    66 25707   342   275
+  6781 22611   320   332  2553   341   403   361  1138 46562  1038    66
+   341   683  3105   509   275 43183   342   373  1432   313  5872   741
+  6421   389   617     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0057060993,0.009731702,0.019869631,0.9646926
+"La única explicación que hay es que la diferencia fue tan enorme en el fraude que por más votos que le robaran, no les darían las cuentas y les tocó aceptar la derrota. hashtag petro es presidente hashtag espero un verdadero cambio hashtag petro presidente2022 hashtag francia es vicepresidente",[1. 0. 0. 0.],1538891782389473280,"[    0   496  3190 11455   341   733   347   341   332  4259   847   719
+  5561   334   344  9831   341   383   467  4024   341   532 13883   328
+    66   403  1138 46972   387  4188   342  1138 20140  7757   332  7588
+    68 26990 44426   347  1362 26990  6824   355  7758  1777 26990 44426
+  1362  1269  5275     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.6721959,0.05008019,0.04943327,0.22829063
+"Nunca ví a una persona soportar tanto, y mantener la calma, como @usuario  hashtag rumbo ala victoria",[1. 0. 0. 0.],1535003277129138178,"[    0  8952 27993   320   405  1952 16196  1109    66   342  3016   332
+ 14493    66   466  1139   422 27065   275 26990 11631 18217  3901     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.96641994,0.009321539,0.007108635,0.017149938
+hashtag vanessa pregúntele afico Voté por este sujeto en Medellín porque la otra opción era @usuario  Escoger entre gonorrea y sífilis,[0. 0. 0. 1.],1529494967965536256,"[    0   126  6423  5374  2122   321  1293   519   890 14123  1116   511
+  8036  2763   383   533 11774   334 40947   921   332  1388  3544  1233
+  1139   422 27065   275 17189  2268   619   393 10634  1744   342  1507
+  2834   357     2     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.031201733,0.016447874,0.025089456,0.9272608
+"hashtag petro el cambio seguro y quienes se unen lo demuestran, no es porque Mockus o Alejandro Gaviria piensen como él y Francia, es porque saben que pueden pensar diferente y no serán perseguidos por eso.",[1. 0. 0. 0.],1533118874333364224,"[    0   126  6423  5374 44426   344  1777  3114   342  2920   361 13993
+   442 13866    66   403   347   921   404 15151   422   375  8943 25737
+ 30528 33620   466  1650   342  3874    66   347   921  6310   341  1387
+  4140  4832   342   403  3022 38520   383  1317    68     2     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0]",0.9675836,0.0075980043,0.00628652,0.018531948
+"hashtag yo voto por alguien decente que no siga con la cultura narcotraficante, ni se pavonee en yates en Miami, alguien que sea capaz de exponer sus ideas, que respete a las mujeres y las creencias de los demás. Jamás votaría por el ingeniebrio",[1. 0. 0. 1.],1537932880357183494,"[    0   126  6423  5374  1501  4113   383  3322 27344   341   403  9080
+   350   332  3146 35927  3523    66   760   361 14183  3304   123   334
+   647   435   334 17477    66  3322   341  1351  4555   313 15521   529
+  4093    66   341 29064   320   387  1821   342   387 17040   313   364
+  3295    68 21435     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0918497,0.025631221,0.029937718,0.8525814
+"hashtag irrespetuoso es ATENCIÓN Luego de que Petro aceptara las condiciones de Rodolfo para el hashtag debate, se acaba de filtrar que Rodolfo incluiría dos nuevas condiciones: -La llamada a un amigo -El 50/50 hashtag irrespetuoso es No Tener Huevos para ir a un debate común y que el pueblo le pregunt",[0. 0. 0. 1.],1537500265858969600,"[    0   126  6423  5374 26280   524 13892   347 41963  3251   448  1972
+   313   341 43183  1974  7021   387  2202   313 39219   394   344 26990
+  3314    66   361  4692   313 38371   341 39219  7447   399   724  2023
+  2202    80   710   496  4047   320   355  4545   710   454  2720    69
+  3260 26990 26280     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0052853357,0.009531617,0.020387864,0.96479523
+Solo faltan unas horas para ir a votar por @usuario  SE VIENE EL CAMBIOSKY. hashtag petro presidente en primera  hashtag petro es el cambio,[1. 0. 0. 0.],1530770445821218816,"[    0  6254 14363  1763  1335   394  1354   320  5699   383  1139   422
+ 27065   275  3665   516  3894    91  2306  9704    88  6911 40550    68
+ 26990 44426  1362   334  1154   275 26990 44426   347   344  1777     2
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.98593485,0.0051426417,0.004005269,0.00491725
+Estoy putamente feliz! Lo que digan los demás me vale huevo! hashtag petro es presidente hashtag hasta que la dignidad se haga costumbre,[1. 0. 0. 0.],1538650911463165954,"[    0  7308   887  1153  6482    55  3385   341 16064   364  3295   503
+  7044 15055    55 26990 44426   347  1362 26990   796   341   332  9605
+   361  4926 13218     2     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9753424,0.006865146,0.0056792283,0.012113169
+"Darle mi voto a alguien que no tiene una propuesta decente de gobierno, pero hashtag cualquier cosa es mejor que petro hashtag cualquiera menos petro",[0. 1. 0. 1.],1531049718398197761,"[    0    90  8780   737  4113   320  3322   341   403   819   405  3234
+ 27344   313  1968    66   623 26990  1136  3062   347   840   341 44426
+ 26990  4957  1111 44426     2     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9760911,0.006661522,0.0051384,0.01210889
+"No bebés, el uribismo no ha muerto, se está renovando. hashtag elecciones colombia",[0. 1. 0. 1.],1531037702497386498,"[    0   836 13080    66   344  1773   446   637   403   380  6819    66
+   361   698  4123   485    68 26990  2147   841  7471     2     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.019010605,0.012553775,0.021274196,0.94716144
+@usuario @usuario Revictimiza do al opositor? Su papá toda la vida se queja de q fue victima. Es q para uds las victimas q importan son las de la derecha las más de 200 mil victimas de la izq son solo una cifra más hashtag la maldad petrista,[0. 0. 0. 1.],1536008110938243073,"[    0    86   422 27065  1139   422 27065   832  9372  1771  2166  2738
+   389 25718    85  1787 27721  1122   332  1078   361 15152   313  4357
+   847  2850  5022    68   547  4357   394 40669   137   387 40872  4357
+ 17292   644   387   313   332  3323   387   467   313  1264  1480 40872
+   313   332 44857     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.0059274193,0.009432326,0.01915099,0.9654894
+hashtag votar en blanco es la elección de quienes ignoran la enorme responsabilidad que tiene un voto por un candidato que no ponga en peligro la estabilidad de millones de colombianos en estos momentos.,[0. 1. 0. 0.],1533784716343754753,"[    0   126  6423  5374  5699   334  4383   347   332  6598   313  2920
+ 10171   328   332  5561  3680   341   819   355  4113   383   355  4016
+   341   403 10870   334  5957   332  7871   313  1199   313 36053   334
+  1157  3577    68     2     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]",0.7266401,0.050820526,0.05282001,0.16971935
+"hashtag mi voto es anti fraude Mis paisanos si son muy bruticos, qué joda tan arrecha mano. Que van a votar por Godolfo para tener por primera vez un presidente santandereano...  emoji cara pensativa emoji  Y Aquileo Parra de Barichara presidente entre 1876-1878...",[0. 0. 1. 0.],1538264126962769923,"[    0   126  6423  5374   737  4113   347  1600  9831 10470 48686   509
+   644   727  6404  1147    66  1350 16052   452   719  7639   851  2266
+    68  7499  2122   320  5699   383  2629 13088   394  1301   383  1154
+   939   355  1362 32210   123   686   522   275  3377 20498  1611   316
+  1399   762  3377     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.21875611,0.035869084,0.03792568,0.70744914
+"¿No sintieron esa satisfacción de  emoción porque gracias a su voto puede cambiar el futuro país? Pues si no lo ha sentido, ¡vaya y vote!  emoji cañón de confeti emoji  hashtag el cambio en primera hashtag si votamos ganamos hashtag elecciones2022",[1. 0. 0. 0.],1530951969178804224,"[    0   729   836   580  6073  1487  9178   313   275 11505   921  1888
+   320   373  4113   835  3340   344  2159  1089    85 21996   509   403
+   442   380  2163    66  2894 38502   342 32682    55   275  3377 20498
+ 28983   313   898   123   339  3377 20498   275 26990   344  1777   334
+  1154 26990   509     2]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]",0.9870658,0.005023532,0.004035353,0.0038752712
+"A los indecisos les digo,  hashtag petro es el cambio",[1. 0. 0. 0.],1529857021675282436,"[    0    87   364 42931  1138  5951    66   275 26990 44426   347   344
+  1777     2     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.9832634,0.005814713,0.004475979,0.0064459695
+hashtag rodolfo presidente2022 es increíble que los colombianos piensen que un ratón les va a cuidar el queso que bobos,[0. 0. 1. 1.],1532531288736931855,"[    0   126  6423  5374  1029 13088  1362  1269  5275   347  9848   341
+   364 36053 33620   341   355 20351  1138  1093   320 10646   344 10388
+   341   397 13308     2     1     1     1     1     1     1     1     1
+     1     1     1     1     1     1     1     1     1     1     1     1
+     1     1     1     1]","[1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]",0.005543623,0.009502024,0.019525053,0.96542925

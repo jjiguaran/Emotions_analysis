@@ -20,6 +20,13 @@ Aman, S. and Szpakowicz, S. (2007).
 \newblock In {\em International Conference on Text, Speech and Dialogue}, pages
   196--205. Springer.
 
+\bibitem[Barbieri et~al., 2022]{barbieri2022xlm}
+Barbieri, F., Anke, L.~E., and Camacho-Collados, J. (2022).
+\newblock Xlm-t: Multilingual language models in twitter for sentiment analysis
+  and beyond.
+\newblock In {\em Proceedings of the Thirteenth Language Resources and
+  Evaluation Conference}, pages 258--266.
+
 \bibitem[Bollen et~al., 2011]{bollen2011modeling}
 Bollen, J., Mao, H., and Pepe, A. (2011).
 \newblock Modeling public mood and emotion: Twitter sentiment and
@@ -32,6 +39,12 @@ Canete, J., Chaperon, G., Fuentes, R., Ho, J.-H., Kang, H., and P{\'e}rez, J.
   (2020).
 \newblock Spanish pre-trained bert model and evaluation data.
 \newblock {\em Pml4dc at iclr}, 2020:1--10.
+
+\bibitem[Cañete et~al., 2020]{CaneteCFP2020}
+Cañete, J., Chaperon, G., Fuentes, R., Ho, J.-H., Kang, H., and Pérez, J.
+  (2020).
+\newblock Spanish pre-trained bert model and evaluation data.
+\newblock In {\em PML4DC at ICLR 2020}.
 
 \bibitem[Cer{\'o}n-Guzm{\'a}n and Le{\'o}n-Guzm{\'a}n,
   2016]{ceron2016sentiment}
@@ -64,6 +77,20 @@ Devlin, J., Chang, M.-W., Lee, K., and Toutanova, K. (2018).
 Ekman, P. (1993).
 \newblock Facial expression and emotion.
 \newblock {\em American psychologist}, 48(4):384.
+
+\bibitem[Fandiño et~al., 2022a]{ROBERTA}
+Fandiño, A.~G., Estapé, J.~A., Pàmies, M., Palao, J.~L., Ocampo, J.~S.,
+  Carrino, C.~P., Oller, C.~A., Penagos, C.~R., Agirre, A.~G., and Villegas, M.
+  (2022a).
+\newblock Maria: Spanish language models.
+\newblock {\em Procesamiento del Lenguaje Natural}, 68.
+
+\bibitem[Fandiño et~al., 2022b]{}
+Fandiño, A.~G., Estapé, J.~A., Pàmies, M., Palao, J.~L., Ocampo, J.~S.,
+  Carrino, C.~P., Oller, C.~A., Penagos, C.~R., Agirre, A.~G., and Villegas, M.
+  (2022b).
+\newblock Maria: Spanish language models.
+\newblock {\em Procesamiento del Lenguaje Natural}, 68.
 
 \bibitem[Gil et~al., 2013]{gil2013combining}
 Gil, G.~B., Jes{\'u}s, A. B.~d., and Lop{\'e}z, J. M.~M. (2013).
@@ -101,6 +128,13 @@ Kouloumpis, E., Wilson, T., and Moore, J. (2011).
 \newblock In {\em Proceedings of the international AAAI conference on web and
   social media}, volume~5, pages 538--541.
 
+\bibitem[la~Rosa et~al., 2022]{BERTIN}
+la~Rosa, J.~D., Ponferrada, E.~G., Romero, M., Villegas, P., de~Prado~Salas,
+  P.~G., and Grandury, M. (2022).
+\newblock Bertin: Efficient pre-training of a spanish language model using
+  perplexity sampling.
+\newblock {\em Procesamiento del Lenguaje Natural}, 68(0):13--23.
+
 \bibitem[Miller, 1995]{miller1995wordnet}
 Miller, G.~A. (1995).
 \newblock Wordnet: a lexical database for english.
@@ -119,6 +153,11 @@ Mohammad, S., Bravo-Marquez, F., Salameh, M., and Kiritchenko, S. (2018).
 \newblock Semeval-2018 task 1: Affect in tweets.
 \newblock In {\em Proceedings of the 12th international workshop on semantic
   evaluation}, pages 1--17.
+
+\bibitem[Mohammad et~al., 2015]{mohammad2015sentiment}
+Mohammad, S.~M., Zhu, X., Kiritchenko, S., and Martin, J. (2015).
+\newblock Sentiment, emotion, purpose, and style in electoral tweets.
+\newblock {\em Information Processing \& Management}, 51(4):480--499.
 
 \bibitem[O'Connor et~al., 2010]{o2010tweets}
 O'Connor, B., Balasubramanyan, R., Routledge, B.~R., and Smith, N.~A. (2010).
@@ -149,6 +188,14 @@ Pang, B., Lee, L., and Vaithyanathan, S. (2002).
 \newblock Thumbs up? sentiment classification using machine learning
   techniques.
 \newblock {\em arXiv preprint cs/0205070}.
+
+\bibitem[P{\'e}rez et~al., 2022]{perez-etal-2022-robertuito}
+P{\'e}rez, J.~M., Furman, D.~A., Alonso~Alemany, L., and Luque, F.~M. (2022).
+\newblock {R}o{BERT}uito: a pre-trained language model for social media text in
+  {S}panish.
+\newblock In {\em Proceedings of the Thirteenth Language Resources and
+  Evaluation Conference}, pages 7235--7243, Marseille, France. European
+  Language Resources Association.
 
 \bibitem[Picard, 2000]{picard2000affective}
 Picard, R.~W. (2000).
@@ -181,6 +228,12 @@ Roberts, K., Roach, M.~A., Johnson, J., Guthrie, J., and Harabagiu, S. (2012).
 \newblock Empatweet: Annotating and detecting emotions on twitter.
 \newblock In {\em Proceedings of the Eighth International Conference on
   Language Resources and Evaluation (LREC'12)}, pages 3806--3813.
+
+\bibitem[Romero, 2020]{mromero2020electricidad-base-discriminator}
+Romero, M. (2020).
+\newblock Spanish electra by manuel romero.
+\newblock
+  \url{https://huggingface.co/mrm8488/electricidad-base-discriminator/}.
 
 \bibitem[Sidorov et~al., 2016]{sidorov2016construccion}
 Sidorov, G., Haro, S. N.~G., and V{\'a}zquez, V. A.~C. (2016).
