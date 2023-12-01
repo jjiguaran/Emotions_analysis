@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  8 JUL 2023 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  29 NOV 2023 21:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -43,6 +43,24 @@ Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count197
+\bibleftmargin=\skip49
+\bibindent=\skip50
+\bibparsep=\skip51
+\bibitemsep=\skip52
+\biblabelsep=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip54
+\bibsep=\skip55
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count198
+)
+LaTeX Info: Redefining \BBA on input line 26.
+
 (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks17
@@ -50,9 +68,9 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headfont=\toks19
 \thm@notefont=\toks20
 \thm@headpunct=\toks21
-\thm@preskip=\skip49
-\thm@postskip=\skip50
-\thm@headsep=\skip51
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
 \dth@everypar=\toks22
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
@@ -113,21 +131,21 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 \XKV@tempa@toks=\toks25
 
 (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count197
+\XKV@depth=\count199
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.06, 2020/11/20 (hv)
-\pstFP@xs=\count198
-\pstFP@xia=\count199
-\pstFP@xib=\count266
-\pstFP@xfa=\count267
-\pstFP@xfb=\count268
-\pstFP@rega=\count269
-\pstFP@regb=\count270
-\pstFP@regs=\count271
-\pstFP@times=\count272
+\pstFP@xs=\count266
+\pstFP@xia=\count267
+\pstFP@xib=\count268
+\pstFP@xfa=\count269
+\pstFP@xfb=\count270
+\pstFP@rega=\count271
+\pstFP@regb=\count272
+\pstFP@regs=\count273
+\pstFP@times=\count274
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks26
@@ -155,16 +173,16 @@ Loading pgffor.code.tex
 \pgf@ya=\dimen147
 \pgf@yb=\dimen148
 \pgf@yc=\dimen149
-\c@pgf@counta=\count273
-\c@pgf@countb=\count274
-\c@pgf@countc=\count275
-\c@pgf@countd=\count276
-\pgfutil@tempcnta=\count277
-\pgfutil@tempcntb=\count278
+\c@pgf@counta=\count275
+\c@pgf@countb=\count276
+\c@pgf@countc=\count277
+\c@pgf@countd=\count278
+\pgfutil@tempcnta=\count279
+\pgfutil@tempcntb=\count280
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen150
-\pgfmath@count=\count279
+\pgfmath@count=\count281
 \pgfmath@box=\box50
 \pgfmath@toks=\toks30
 \pgfmath@stack@operand=\toks31
@@ -188,14 +206,14 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count280
+\c@pgfmathroundto@lastzeros=\count282
 ))
 \pgffor@iter=\dimen151
 \pgffor@skip=\dimen152
 \pgffor@stack=\toks33
 \pgffor@toks=\toks34
 )
-\psLoopIndex=\count281
+\psLoopIndex=\count283
 
 `PSTricks' v3.13  <2022/01/09> (tvz,hv)
 \pst@dima=\dimen153
@@ -211,17 +229,17 @@ thmetics.code.tex)))
 \pst@hbox=\box51
 \pst@ibox=\box52
 \pst@boxg=\box53
-\pst@cnta=\count282
-\pst@cntb=\count283
-\pst@cntc=\count284
-\pst@cntd=\count285
-\pst@cntg=\count286
-\pst@cnth=\count287
-\pst@cntm=\count288
-\pst@cntn=\count289
-\pst@cnto=\count290
-\pst@cntp=\count291
-\@zero=\count292
+\pst@cnta=\count284
+\pst@cntb=\count285
+\pst@cntc=\count286
+\pst@cntd=\count287
+\pst@cntg=\count288
+\pst@cnth=\count289
+\pst@cntm=\count290
+\pst@cntn=\count291
+\pst@cnto=\count292
+\pst@cntp=\count293
+\@zero=\count294
 \pst@toks=\toks35
 --- We are running latex or xelatex ---
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con)
@@ -229,7 +247,7 @@ thmetics.code.tex)))
 \psunit=\dimen163
 \psxunit=\dimen164
 \psyunit=\dimen165
-\pst@C@@rType=\count293
+\pst@C@@rType=\count295
 \pslinewidth=\dimen166
 \psk@startLW=\dimen167
 \psk@endLW=\dimen168
@@ -251,7 +269,7 @@ thmetics.code.tex)))
 \sh@wgridXunit=\dimen177
 \sh@wgridYunit=\dimen178
 \pst@shift=\dimen179
-\ps@imagectr=\count294
+\ps@imagectr=\count296
 
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.con))
 File: pstricks.tex 2022/01/09 v3.13 `PSTricks' (tvz,hv)
@@ -272,12 +290,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen187
 \cmidrulekern=\dimen188
 \defaultaddspace=\dimen189
-\@cmidla=\count295
-\@cmidlb=\count296
+\@cmidla=\count297
+\@cmidlb=\count298
 \@aboverulesep=\dimen190
 \@belowrulesep=\dimen191
-\@thisruleclass=\count297
-\@lastruleclass=\count298
+\@thisruleclass=\count299
+\@lastruleclass=\count300
 \@thisrulewidth=\dimen192
 )
 (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
@@ -285,23 +303,23 @@ Package: mathtools 2021/02/02 v1.28 mathematical typesetting tools
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count299
-\calc@Bcount=\count300
+\calc@Acount=\count301
+\calc@Bcount=\count302
 \calc@Adimen=\dimen193
 \calc@Bdimen=\dimen194
-\calc@Askip=\skip52
-\calc@Bskip=\skip53
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count301
-\calc@Cskip=\skip54
+\calc@Ccount=\count303
+\calc@Cskip=\skip61
 )
 (/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
-\@mathmargin=\skip55
+\@mathmargin=\skip62
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -319,13 +337,13 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count302
+\inf@bad=\count304
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count303
-\leftroot@=\count304
+\uproot@=\count305
+\leftroot@=\count306
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count305
-\DOTSCASE@=\count306
+\classnum@=\count307
+\DOTSCASE@=\count308
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -334,15 +352,15 @@ LaTeX Info: Redefining \cdots on input line 620.
 \big@size=\dimen197
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count307
-\c@MaxMatrixCols=\count308
+\macc@depth=\count309
+\c@MaxMatrixCols=\count310
 \dotsspace@=\muskip16
-\c@parentequation=\count309
-\dspbrk@lvl=\count310
+\c@parentequation=\count311
+\dspbrk@lvl=\count312
 \tag@help=\toks39
-\row@=\count311
-\column@=\count312
-\maxfields@=\count313
+\row@=\count313
+\column@=\count314
+\maxfields@=\count315
 \andhelp@=\toks40
 \eqnshift@=\dimen198
 \alignsep@=\dimen199
@@ -351,15 +369,15 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \totwidth@=\dimen258
 \lineht@=\dimen259
 \@envbody=\toks41
-\multlinegap=\skip56
-\multlinetaggap=\skip57
+\multlinegap=\skip63
+\multlinetaggap=\skip64
 \mathdisplay@stack=\toks42
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 )
-\g_MT_multlinerow_int=\count314
+\g_MT_multlinerow_int=\count316
 \l_MT_multwidth_dim=\dimen260
-\origjot=\skip58
+\origjot=\skip65
 \l_MT_shortvdotswithinadjustabove_dim=\dimen261
 \l_MT_shortvdotswithinadjustbelow_dim=\dimen262
 \l_MT_above_intertext_sep=\dimen263
@@ -375,9 +393,9 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count315
-\Gm@cntv=\count316
-\c@Gm@tempcnt=\count317
+\Gm@cnth=\count317
+\Gm@cntv=\count318
+\c@Gm@tempcnt=\count319
 \Gm@bindingoffset=\dimen268
 \Gm@wd@mp=\dimen269
 \Gm@odd@mp=\dimen270
@@ -391,11 +409,6 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/play/play.sty
-Package: play 1999/03/26 A LaTeX package for typesetting plays
-\c@line=\count318
-\c@linemodulo=\count319
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
@@ -420,71 +433,180 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \epsfxsize=\dimen278
 \epsfysize=\dimen279
 )
-(/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
-Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2020/10/26 v3.5g Customizing captions (AR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen280
-\captionmargin@=\dimen281
-\captionwidth=\dimen282
-\caption@tempdima=\dimen283
-\caption@indent=\dimen284
-\caption@parindent=\dimen285
-\caption@hangindent=\dimen286
-Package caption Info: Standard document class detected.
-)
-\c@caption@flags=\count320
-\c@continuedfloat=\count321
-)
-\c@KVtest=\count322
-\sf@farskip=\skip59
-\sf@captopadj=\dimen287
-\sf@capskip=\skip60
-\sf@nearskip=\skip61
-\c@subfigure=\count323
-\c@subfigure@save=\count324
-\c@lofdepth=\count325
-\c@subtable=\count326
-\c@subtable@save=\count327
-\c@lotdepth=\count328
-\sf@top=\skip62
-\sf@bottom=\skip63
-)
 (/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2020/02/08 v1.2c extra appendix facilities
-\c@@pps=\count329
-\c@@ppsavesec=\count330
-\c@@ppsaveapp=\count331
+\c@@pps=\count320
+\c@@ppsavesec=\count321
+\c@@ppsaveapp=\count322
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip64
-\LTright=\skip65
-\LTpre=\skip66
-\LTpost=\skip67
-\LTchunksize=\count332
-\LTcapwidth=\dimen288
+\LTleft=\skip66
+\LTright=\skip67
+\LTpre=\skip68
+\LTpost=\skip69
+\LTchunksize=\count323
+\LTcapwidth=\dimen280
 \LT@head=\box57
 \LT@firsthead=\box58
 \LT@foot=\box59
 \LT@lastfoot=\box60
 \LT@gbox=\box61
-\LT@cols=\count333
-\LT@rows=\count334
-\c@LT@tables=\count335
-\c@LT@chunks=\count336
+\LT@cols=\count324
+\LT@rows=\count325
+\c@LT@tables=\count326
+\c@LT@chunks=\count327
 \LT@p@ftn=\toks44
 )
-(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip68
-\bibsep=\skip69
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count337
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen281
+\captionmargin@=\dimen282
+\captionwidth=\dimen283
+\caption@tempdima=\dimen284
+\caption@indent=\dimen285
+\caption@parindent=\dimen286
+\caption@hangindent=\dimen287
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count328
+\c@continuedfloat=\count329
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count330
+\c@subtable=\count331
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count332
+\float@exts=\toks45
+\float@box=\box62
+\@float@everytoks=\toks46
+\@floatcapt=\box63
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count333
+\mult@box=\box64
+\multicol@leftmargin=\dimen288
+\c@unbalance=\count334
+\c@collectmore=\count335
+\doublecol@number=\count336
+\multicoltolerance=\count337
+\multicolpretolerance=\count338
+\full@width=\dimen289
+\page@free=\dimen290
+\premulticols=\dimen291
+\postmulticols=\dimen292
+\multicolsep=\skip70
+\multicolbaselineskip=\skip71
+\partial@page=\box65
+\last@line=\box66
+\maxbalancingoverflow=\dimen293
+\mult@rightbox=\box67
+\mult@grightbox=\box68
+\mult@firstbox=\box69
+\mult@gfirstbox=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\c@minrows=\count339
+\c@columnbadness=\count340
+\c@finalcolumnbadness=\count341
+\last@try=\dimen294
+\multicolovershoot=\dimen295
+\multicolundershoot=\dimen296
+\mult@nat@firstbox=\box107
+\colbreak@box=\box108
+\mc@col@check@num=\count342
+)
+(/usr/share/texlive/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count343
+\ST@wd=\dimen297
+\ST@rightskip=\skip72
+\ST@leftskip=\skip73
+\ST@parfillskip=\skip74
+\ST@pageleft=\dimen298
+\ST@headht=\dimen299
+\ST@tailht=\dimen300
+\ST@pagesofar=\dimen301
+\ST@pboxht=\dimen302
+\ST@lineht=\dimen303
+\ST@prevht=\dimen304
+\ST@toadd=\dimen305
+\ST@dimen=\dimen306
+\ST@pbox=\box109
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count344
+\l__pdf_internal_box=\box110
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count345
+\l__lipsum_a_int=\count346
+\l__lipsum_b_int=\count347
+
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/epigraph/epigraph.sty
+Package: epigraph 2020/01/02 v1.5e typesetting epigraphs
+
+(/usr/share/texlive/texmf-dist/tex/latex/nextpage/nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+)
+\beforeepigraphskip=\skip75
+\afterepigraphskip=\skip76
+\epigraphwidth=\skip77
+\epigraphrule=\skip78
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -494,52 +616,53 @@ Package tocbibind Info: The document has chapter divisions on input line 50.
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
 )
-\c@theorem=\count338
- (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count339
-\l__pdf_internal_box=\box62
-)
+\c@theorem=\count348
+
 
 LaTeX Warning: Unused global option(s):
     [a4wide].
 
 (./report.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
-
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 108.
+LaTeX Font Info:    ... okay on input line 108.
+LaTeX Info: Redefining \. on input line 108.
+LaTeX Info: Redefining \% on input line 108.
+\c@maskedRefs=\count349
+ (/usr/share/texlive/texmf-dist/tex/latex/apacite/spanish.apc
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count340
-\scratchdimen=\dimen289
-\scratchbox=\box63
-\nofMPsegments=\count341
-\nofMParguments=\count342
-\everyMPshowfont=\toks45
-\MPscratchCnt=\count343
-\MPscratchDim=\dimen290
-\MPnumerator=\count344
-\makeMPintoPDFobject=\count345
-\everyMPtoPDFconversion=\toks46
+\scratchcounter=\count350
+\scratchdimen=\dimen307
+\scratchbox=\box111
+\nofMPsegments=\count351
+\nofMParguments=\count352
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count353
+\MPscratchDim=\dimen308
+\MPnumerator=\count354
+\makeMPintoPDFobject=\count355
+\everyMPtoPDFconversion=\toks48
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -614,25 +737,16 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: longtable package is loaded.
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
-)
+Package caption Info: float package is loaded.
+Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
 (./00_Intro Pages/01_Title.tex
-<Images & Logos/data_mining.png, id=1, 155.58125pt x 155.58125pt>
-File: Images & Logos/data_mining.png Graphic file (type png)
-<use Images & Logos/data_mining.png>
-Package pdftex.def Info: Images & Logos/data_mining.png  used on input line 31.
-
-(pdftex.def)             Requested size: 85.56993pt x 85.56993pt.
-<Images & Logos/uba.png, id=2, 481.8pt x 482.80376pt>
-File: Images & Logos/uba.png Graphic file (type png)
-<use Images & Logos/uba.png>
-Package pdftex.def Info: Images & Logos/uba.png  used on input line 33.
-(pdftex.def)             Requested size: 86.72025pt x 86.90092pt.
+<Images & Logos/596px-Logo-fcenuba.png, id=1, 88.44542pt x 88.89061pt>
+File: Images & Logos/596px-Logo-fcenuba.png Graphic file (type png)
+<use Images & Logos/596px-Logo-fcenuba.png>
+Package pdftex.def Info: Images & Logos/596px-Logo-fcenuba.png  used on input l
+ine 12.
+(pdftex.def)             Requested size: 106.13396pt x 106.66818pt.
  [1
 Non-PDF special ignored!
 <special> header=pstricks.pro
@@ -651,358 +765,510 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
 Non-PDF special ignored!
 <special> ps:0.8 setlinewidth 0 setgray
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images & Logos/data_mini
-ng.png> <./Images & Logos/uba.png>]) (./00_Intro Pages/04_Acknowledgements.tex
-[1
-
-]) (./00_Intro Pages/05_Abstract.tex [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Images & Logos/596px-Log
+o-fcenuba.png>]) (./00_Intro Pages/04_Acknowledgements.tex [1
 
 ])
-(./00_Intro Pages/06_ToC,LoF,LoT.tex (./report.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+(./00_Intro Pages/04.5_epigraph.tex
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
+(Font)              using `OT1/cmr/m/it' instead on input line 15.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 6.
-
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 15
+.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) [3
-
+) [2
 
 ])
-\tf@toc=\write3
-\openout3 = `report.toc'.
+(./00_Intro Pages/05_Abstract.tex [3
 
- [4]
-(./report.lof
+] [4]) (./00_Intro Pages/06_ToC,LoF,LoT.tex (./report.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [5
 
 
 ])
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [6] (./report.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [7
+
+
+])
 \tf@lof=\write4
 \openout4 = `report.lof'.
 
- [6] (./report.lot
+ [8] (./report.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lot=\write5
 \openout5 = `report.lot'.
 
- [7
+ [9
 
-]) (./Chapters/chapter0.tex
+])
+(./Chapters/chapter0.tex
 Cap\'{\i }tulo 1.
 [1
 
-] [2]) (./Chapters/chapter1.tex [3]
+] [2] [3] [4]) (./Chapters/chapter1.tex [5]
 Cap\'{\i }tulo 2.
-[4
+[6
 
-] [5] [6]
-<Images & Logos/Transformers.png, id=53, 1525.7pt x 2247.39626pt>
+] [7] [8] [9]
+<Images & Logos/Transformers.png, id=75, 1525.7pt x 2247.39626pt>
 File: Images & Logos/Transformers.png Graphic file (type png)
 <use Images & Logos/Transformers.png>
-Package pdftex.def Info: Images & Logos/Transformers.png  used on input line 29
+Package pdftex.def Info: Images & Logos/Transformers.png  used on input line 32
 .
 (pdftex.def)             Requested size: 228.84512pt x 337.0949pt.
- [7] [8 <./Images & Logos/Transformers.png>]
-<Images & Logos/BERT.png, id=62, 1295.84125pt x 539.01375pt>
-File: Images & Logos/BERT.png Graphic file (type png)
-<use Images & Logos/BERT.png>
-Package pdftex.def Info: Images & Logos/BERT.png  used on input line 39.
-(pdftex.def)             Requested size: 453.55124pt x 188.65762pt.
+ [10 <./Images & Logos/Transformers.png>]
+<Images & Logos/self-attention.png, id=80, 436.63126pt x 169.63374pt>
+File: Images & Logos/self-attention.png Graphic file (type png)
+<use Images & Logos/self-attention.png>
+Package pdftex.def Info: Images & Logos/self-attention.png  used on input line 
+44.
+(pdftex.def)             Requested size: 196.48224pt x 76.33447pt.
 
-Overfull \hbox (23.54662pt too wide) in paragraph at lines 39--40
+Overfull \hbox (45.978pt too wide) in paragraph at lines 44--45
  [][] 
  []
 
-[9 <./Images & Logos/BERT.png>] [10] [11]) (./Chapters/chapter2.tex [12]
-Cap\'{\i }tulo 3.
-[13
 
-] (./tables/tweets_ejemplos_1.tex
-Overfull \hbox (20.7867pt too wide) in paragraph at lines 4--16
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]\OT1/cmr/m/n/10.95 (a) |Me-ca-nis-mo de auto-
+ []
+
+<Images & Logos/Recurrent_neural_network_unfold.svg.png, id=81, 803.0pt x 268.0
+0125pt>
+File: Images & Logos/Recurrent_neural_network_unfold.svg.png Graphic file (type
+ png)
+<use Images & Logos/Recurrent_neural_network_unfold.svg.png>
+Package pdftex.def Info: Images & Logos/Recurrent_neural_network_unfold.svg.png
+  used on input line 51.
+(pdftex.def)             Requested size: 289.07977pt x 96.48036pt.
+
+Overfull \hbox (65.47554pt too wide) in paragraph at lines 51--52
+ [][] 
+ []
+
+[11 <./Images & Logos/self-attention.png> <./Images & Logos/Recurrent_neural_ne
+twork_unfold.svg.png>]
+<Images & Logos/BERT.png, id=87, 1295.84125pt x 539.01375pt>
+File: Images & Logos/BERT.png Graphic file (type png)
+<use Images & Logos/BERT.png>
+Package pdftex.def Info: Images & Logos/BERT.png  used on input line 66.
+(pdftex.def)             Requested size: 453.55124pt x 188.65762pt.
+
+Overfull \hbox (23.54662pt too wide) in paragraph at lines 66--67
+ [][] 
+ []
+
+[12 <./Images & Logos/BERT.png>] [13] [14] [15]) (./Chapters/chapter2.tex
+[16]
+Cap\'{\i }tulo 3.
+[17
+
+] [18] (./tables/tweets_ejemplos_1.tex
+Overfull \hbox (0.53677pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/8 Orientacion
+ []
+
+
+Overfull \hbox (4.33392pt too wide) in paragraph at lines 3--13
 [][] 
  []
 
-)
-<Images & Logos/EDA/Cantidad de Hashtags por sector politico.png, id=80, 386.88
-54pt x 226.9278pt>
+) [19]
+<Images & Logos/EDA/Cantidad de Hashtags por sector politico.png, id=114, 383.5
+128pt x 226.9278pt>
 File: Images & Logos/EDA/Cantidad de Hashtags por sector politico.png Graphic f
 ile (type png)
 <use Images & Logos/EDA/Cantidad de Hashtags por sector politico.png>
 Package pdftex.def Info: Images & Logos/EDA/Cantidad de Hashtags por sector pol
-itico.png  used on input line 19.
-(pdftex.def)             Requested size: 386.88446pt x 226.92723pt.
-<Images & Logos/EDA/Porcentaje de tweets por sector político.png, id=81, 386.8
-854pt x 226.9278pt>
+itico.png  used on input line 34.
+(pdftex.def)             Requested size: 383.51186pt x 226.92723pt.
+<Images & Logos/EDA/Porcentaje de tweets por sector político.png, id=115, 383.
+5128pt x 226.9278pt>
 File: Images & Logos/EDA/Porcentaje de tweets por sector político.png Graphic 
 file (type png)
 <use Images & Logos/EDA/Porcentaje de tweets por sector político.png>
 Package pdftex.def Info: Images & Logos/EDA/Porcentaje de tweets por sector pol
-ítico.png  used on input line 30.
-(pdftex.def)             Requested size: 386.88446pt x 226.92723pt.
- [14] [15]
+ítico.png  used on input line 43.
+(pdftex.def)             Requested size: 383.51186pt x 226.92723pt.
 <Images & Logos/EDA/Porcentaje de tweets por sector a lo largo del tiempo.png, 
-id=88, 449.5194pt x 218.2554pt>
+id=116, 439.8834pt x 218.2554pt>
 File: Images & Logos/EDA/Porcentaje de tweets por sector a lo largo del tiempo.
 png Graphic file (type png)
 <use Images & Logos/EDA/Porcentaje de tweets por sector a lo largo del tiempo.p
 ng>
 Package pdftex.def Info: Images & Logos/EDA/Porcentaje de tweets por sector a l
-o largo del tiempo.png  used on input line 43.
-(pdftex.def)             Requested size: 449.51828pt x 218.25485pt.
+o largo del tiempo.png  used on input line 55.
+(pdftex.def)             Requested size: 439.88232pt x 218.25485pt.
 
-Overfull \hbox (19.51366pt too wide) in paragraph at lines 43--44
+Overfull \hbox (9.8777pt too wide) in paragraph at lines 55--56
  [][] 
  []
 
-[16 <./Images & Logos/EDA/Cantidad de Hashtags por sector politico.png>]
-[17 <./Images & Logos/EDA/Porcentaje de tweets por sector político.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[][]$\OT1/cmtt/m/n/10 https : / / docs . google . com / document / d / 1hoUYKMa
-YHSeGeOQ2FqRVyahTin6T09Mu8wtl _
+[20]
+
+LaTeX Warning: Text page 21 contains only floats.
+
+[21 <./Images & Logos/EDA/Cantidad de Hashtags por sector politico.png> <./Imag
+es & Logos/EDA/Porcentaje de tweets por sector político.png>] [22 <./Images & 
+Logos/EDA/Porcentaje de tweets por sector a lo largo del tiempo.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[][]$\OT1/cmtt/m/n/10 https :// docs [] .google [] .com / document / d / 1hoUYK
+MaYHSeGeOQ2FqRVyahTin6T09Mu8wtl []
  []
 
-[18 <./Images & Logos/EDA/Porcentaje de tweets por sector a lo largo del tiempo
-.png>] (./tables/emotions_table.tex
-Overfull \hbox (36.33463pt too wide) in alignment at lines 1--6
+
+Overfull \hbox (7.31021pt too wide) in paragraph at lines 73--74
+[]\OT1/cmr/m/n/12 Para el es-que-ma de eti-que-ta-do, se tom^^So co-mo re-fe-re
+n-cia el en-fo-que de S. M. Moham-
+ []
+
+(./tables/emotions_table.tex
+Overfull \hbox (9.17511pt too wide) in alignment at lines 1--6
  [] [] 
  []
 
 
-Overfull \hbox (36.33463pt too wide) in alignment at lines 6--11
+Overfull \hbox (9.17511pt too wide) in alignment at lines 6--11
  [] [] 
  []
 
 
-Overfull \hbox (36.33463pt too wide) in alignment at lines 11--15
+Overfull \hbox (9.17511pt too wide) in alignment at lines 11--15
  [] [] 
  []
 
 
-Overfull \hbox (36.33463pt too wide) in alignment at lines 15--17
+Overfull \hbox (9.17511pt too wide) in alignment at lines 15--17
  [] [] 
  []
 
 
-Overfull \hbox (36.33463pt too wide) in alignment at lines 17--32
+Overfull \hbox (9.17511pt too wide) in alignment at lines 17--32
  [] [] 
  []
 
-[19] [20] [21])
-<Images & Logos/interfaz.png, id=114, 1087.06125pt x 752.8125pt>
+[23]) [24]
+<Images & Logos/Diagrama.png, id=137, 963.6pt x 722.7pt>
+File: Images & Logos/Diagrama.png Graphic file (type png)
+<use Images & Logos/Diagrama.png>
+Package pdftex.def Info: Images & Logos/Diagrama.png  used on input line 85.
+(pdftex.def)             Requested size: 337.26506pt x 252.94878pt.
+<Images & Logos/interfaz.png, id=138, 1087.06125pt x 752.8125pt>
 File: Images & Logos/interfaz.png Graphic file (type png)
 <use Images & Logos/interfaz.png>
-Package pdftex.def Info: Images & Logos/interfaz.png  used on input line 69.
+Package pdftex.def Info: Images & Logos/interfaz.png  used on input line 92.
 (pdftex.def)             Requested size: 489.17303pt x 338.76248pt.
 
-Overfull \hbox (59.16841pt too wide) in paragraph at lines 69--70
+Overfull \hbox (59.16841pt too wide) in paragraph at lines 92--93
  [][] 
  []
 
-<Images & Logos/EDA/emotions_correlations.png, id=115, 649.9482pt x 584.9052pt>
+[25 <./Images & Logos/Diagrama.png>] [26 <./Images & Logos/interfaz.png>]
+(./tables/cantidad_por_etiquetador.tex)
+<Images & Logos/EDA/emotions_correlations.png, id=147, 649.9482pt x 584.9052pt>
 
 File: Images & Logos/EDA/emotions_correlations.png Graphic file (type png)
 <use Images & Logos/EDA/emotions_correlations.png>
 Package pdftex.def Info: Images & Logos/EDA/emotions_correlations.png  used on 
-input line 78.
+input line 111.
 (pdftex.def)             Requested size: 422.46132pt x 380.18387pt.
-(./tables/agreements.tex) [22] [23 <./Images & Logos/interfaz.png>]
-(./tables/models_descriptions.tex
-Underfull \hbox (badness 1152) in paragraph at lines 10--11
-[]\OT1/cmr/m/n/12 Electricidad-base-discriminator es un
+
+Overfull \hbox (2.34784pt too wide) in paragraph at lines 117--118
+[]\OT1/cmr/m/n/12 Estos re-sul-ta-dos lle-va-ron a una con-clu-si^^Son si-mi-la
+r a la plan-tea-da por S. M. Moham-
+ []
+
+[27] [28 <./Images & Logos/EDA/emotions_correlations.png>]
+(./tables/agreements.tex) [29] (./tables/tweets_ejemplos_etiquetador.tex
+Overfull \hbox (1.59512pt too wide) in paragraph at lines 5--5
+[]\OT1/cmr/m/n/8 Etiquetador
  []
 
 
-Overfull \hbox (81.48265pt too wide) in paragraph at lines 4--16
+Overfull \hbox (1.59512pt too wide) in paragraph at lines 5--5
+[]\OT1/cmr/m/n/8 Etiquetador
+ []
+
+
+Overfull \hbox (1.59512pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/8 Etiquetador
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\OT1/cmr/m/n/8 Miedo,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+\OT1/cmr/m/n/8 In-cer-ti-
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 8--9
+[]\OT1/cmr/m/n/8 Asco, Des-
+ []
+
+)
+<Images & Logos/Results/Matriz_confusion_labels.png, id=160, 462.528pt x 346.89
+6pt>
+File: Images & Logos/Results/Matriz_confusion_labels.png Graphic file (type png
+)
+<use Images & Logos/Results/Matriz_confusion_labels.png>
+Package pdftex.def Info: Images & Logos/Results/Matriz_confusion_labels.png  us
+ed on input line 135.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+ (./tables/labels_counts.tex) [30] [31 <./Images & Logos/Results/Matriz_confusi
+on_labels.png>] (./tables/tweets_ejemplos_multiples.tex
+Overfull \hbox (6.88943pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/8 Etiquetas| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+[]\OT1/cmr/m/n/8 alegria,
+ []
+
+
+Overfull \hbox (1.35185pt too wide) in paragraph at lines 8--9
+[]\OT1/cmr/m/n/8 tristeza,
+ []
+
+
+Overfull \hbox (1.35185pt too wide) in paragraph at lines 9--10
+[]\OT1/cmr/m/n/8 tristeza,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]\OT1/cmr/m/n/8 miedo,
+ []
+
+
+Overfull \hbox (4.33392pt too wide) in paragraph at lines 3--13
 [][] 
  []
 
-) [24] [25]
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-[][]$\OT1/cmtt/m/n/10 https : / / huggingface . co / docs / transformers / v4 .
- 30 . 0 / en / main _ classes / trainer #
+) [32] (./tables/models_descriptions.tex
+Overfull \hbox (6.38876pt too wide) in paragraph at lines 3--15
+[][] 
  []
 
-[26]) (./Chapters/chapter4.tex [27] [28 <./Images & Logos/EDA/emotions_correlat
-ions.png>]
-Cap\'{\i }tulo 4.
-(./tables/models_results.tex) [29
+) [33]
+Overfull \hbox (8.41861pt too wide) in paragraph at lines 175--176
+[]\OT1/cmr/m/n/12 Los prin-ci-pa-les hi-per-par^^Same-tros em-plea-dos in-clu-y
+en la im-ple-men-ta-ci^^Son de AdamW,
+ []
 
-]
-<Images & Logos/Results/Matriz_confusion.png, id=144, 462.528pt x 346.896pt>
+[34]) (./Chapters/chapter4.tex [35]
+Cap\'{\i }tulo 4.
+[36
+
+] (./tables/models_results.tex) [37]
+<Images & Logos/Results/Matriz_confusion.png, id=188, 462.528pt x 346.896pt>
 File: Images & Logos/Results/Matriz_confusion.png Graphic file (type png)
 <use Images & Logos/Results/Matriz_confusion.png>
 Package pdftex.def Info: Images & Logos/Results/Matriz_confusion.png  used on i
-nput line 21.
-(pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
-
-Overfull \hbox (32.52223pt too wide) in paragraph at lines 21--22
- [][] 
+nput line 23.
+(pdftex.def)             Requested size: 346.89514pt x 260.17136pt.
+ [38 <./Images & Logos/Results/Matriz_confusion.png>] (./tables/tweets_ejemplos
+_preds.tex
+Overfull \hbox (3.29515pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/8 Predicciones| 
  []
 
-(./tables/tweets_ejemplos_2.tex
-Overfull \hbox (20.7867pt too wide) in paragraph at lines 4--13
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]\OT1/cmr/m/n/8 Tristeza,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]\OT1/cmr/m/n/8 Alegria,
+ []
+
+
+Overfull \hbox (2.10754pt too wide) in paragraph at lines 3--13
 [][] 
  []
 
 )
-<Images & Logos/Results/Cantidad_de_tweets__por_emocion.png, id=145, 386.8854pt
+Overfull \hbox (26.46107pt too wide) in paragraph at lines 41--41
+[]\OT1/cmr/bx/n/17.28 Distribuci^^Son de emo-cio-nes por orien-ta-ci^^Son pol^^
+S^^Pti-
+ []
+
+[39]
+<Images & Logos/Results/Cantidad_de_tweets__por_emocion.png, id=197, 383.5128pt
  x 226.446pt>
 File: Images & Logos/Results/Cantidad_de_tweets__por_emocion.png Graphic file (
 type png)
 <use Images & Logos/Results/Cantidad_de_tweets__por_emocion.png>
 Package pdftex.def Info: Images & Logos/Results/Cantidad_de_tweets__por_emocion
-.png  used on input line 42.
-(pdftex.def)             Requested size: 386.88446pt x 226.44543pt.
- [30] [31 <./Images & Logos/Results/Matriz_confusion.png>]
-<Images & Logos/Results/Porcentaje de tweets por emocion por sector.png, id=153
-, 442.7742pt x 282.3348pt>
+.png  used on input line 50.
+(pdftex.def)             Requested size: 383.51186pt x 226.44543pt.
+ [40 <./Images & Logos/Results/Cantidad_de_tweets__por_emocion.png>]
+<Images & Logos/Results/Porcentaje de tweets por emocion por sector.png, id=203
+, 439.8834pt x 282.8166pt>
 File: Images & Logos/Results/Porcentaje de tweets por emocion por sector.png Gr
 aphic file (type png)
 <use Images & Logos/Results/Porcentaje de tweets por emocion por sector.png>
 Package pdftex.def Info: Images & Logos/Results/Porcentaje de tweets por emocio
-n por sector.png  used on input line 55.
-(pdftex.def)             Requested size: 442.77312pt x 282.33409pt.
+n por sector.png  used on input line 63.
+(pdftex.def)             Requested size: 439.88232pt x 282.8159pt.
 
-Overfull \hbox (12.7685pt too wide) in paragraph at lines 55--56
+Overfull \hbox (9.8777pt too wide) in paragraph at lines 63--64
  [][] 
  []
 
-[32]
+[41 <./Images & Logos/Results/Porcentaje de tweets por emocion por sector.png>]
 <Images & Logos/Results/Porcentaje de tweets por emocion a lo largo del tiempo.
-png, id=157, 442.7742pt x 218.2554pt>
+png, id=208, 439.8834pt x 218.2554pt>
 File: Images & Logos/Results/Porcentaje de tweets por emocion a lo largo del ti
 empo.png Graphic file (type png)
 <use Images & Logos/Results/Porcentaje de tweets por emocion a lo largo del tie
 mpo.png>
 Package pdftex.def Info: Images & Logos/Results/Porcentaje de tweets por emocio
-n a lo largo del tiempo.png  used on input line 71.
-(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+n a lo largo del tiempo.png  used on input line 80.
+(pdftex.def)             Requested size: 439.88232pt x 218.25485pt.
 
-Overfull \hbox (12.7685pt too wide) in paragraph at lines 71--72
+Overfull \hbox (9.8777pt too wide) in paragraph at lines 80--81
  [][] 
  []
 
-[33 <./Images & Logos/Results/Cantidad_de_tweets__por_emocion.png>]
+[42]
 <Images & Logos/Results/Porcentaje de tweets con Alegria por sector lo largo de
-l tiempo.png, id=162, 442.7742pt x 218.2554pt>
+l tiempo.png, id=212, 449.0376pt x 219.219pt>
 File: Images & Logos/Results/Porcentaje de tweets con Alegria por sector lo lar
 go del tiempo.png Graphic file (type png)
 <use Images & Logos/Results/Porcentaje de tweets con Alegria por sector lo larg
 o del tiempo.png>
 Package pdftex.def Info: Images & Logos/Results/Porcentaje de tweets con Alegri
-a por sector lo largo del tiempo.png  used on input line 85.
-(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+a por sector lo largo del tiempo.png  used on input line 92.
+(pdftex.def)             Requested size: 449.03648pt x 219.21844pt.
 
-Overfull \hbox (12.7685pt too wide) in paragraph at lines 85--86
+Overfull \hbox (19.03186pt too wide) in paragraph at lines 92--93
  [][] 
  []
 
 <Images & Logos/Results/Porcentaje de tweets con Miedo por sector lo largo del 
-tiempo.png, id=163, 442.7742pt x 218.2554pt>
+tiempo.png, id=213, 451.9284pt x 219.219pt>
 File: Images & Logos/Results/Porcentaje de tweets con Miedo por sector lo largo
  del tiempo.png Graphic file (type png)
 <use Images & Logos/Results/Porcentaje de tweets con Miedo por sector lo largo 
 del tiempo.png>
 Package pdftex.def Info: Images & Logos/Results/Porcentaje de tweets con Miedo 
-por sector lo largo del tiempo.png  used on input line 95.
-(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+por sector lo largo del tiempo.png  used on input line 102.
+(pdftex.def)             Requested size: 451.92729pt x 219.21844pt.
 
-Overfull \hbox (12.7685pt too wide) in paragraph at lines 95--96
+Overfull \hbox (21.92267pt too wide) in paragraph at lines 102--103
  [][] 
  []
 
-[34 <./Images & Logos/Results/Porcentaje de tweets por emocion por sector.png>]
+[43 <./Images & Logos/Results/Porcentaje de tweets por emocion a lo largo del t
+iempo.png>] [44 <./Images & Logos/Results/Porcentaje de tweets con Alegria por 
+sector lo largo del tiempo.png> <./Images & Logos/Results/Porcentaje de tweets 
+con Miedo por sector lo largo del tiempo.png>]
 <Images & Logos/Results/Porcentaje de tweets con Tristeza por sector lo largo d
-el tiempo.png, id=168, 442.7742pt x 218.2554pt>
+el tiempo.png, id=223, 450.9648pt x 219.219pt>
 File: Images & Logos/Results/Porcentaje de tweets con Tristeza por sector lo la
 rgo del tiempo.png Graphic file (type png)
 <use Images & Logos/Results/Porcentaje de tweets con Tristeza por sector lo lar
 go del tiempo.png>
 Package pdftex.def Info: Images & Logos/Results/Porcentaje de tweets con Triste
-za por sector lo largo del tiempo.png  used on input line 105.
-(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+za por sector lo largo del tiempo.png  used on input line 111.
+(pdftex.def)             Requested size: 450.96368pt x 219.21844pt.
 
-Overfull \hbox (12.7685pt too wide) in paragraph at lines 105--106
+Overfull \hbox (20.95906pt too wide) in paragraph at lines 111--112
  [][] 
  []
 
 <Images & Logos/Results/Porcentaje de tweets con Asco por sector lo largo del t
-iempo.png, id=169, 442.7742pt x 218.2554pt>
+iempo.png, id=224, 442.2924pt x 219.219pt>
 File: Images & Logos/Results/Porcentaje de tweets con Asco por sector lo largo 
 del tiempo.png Graphic file (type png)
 <use Images & Logos/Results/Porcentaje de tweets con Asco por sector lo largo d
 el tiempo.png>
 Package pdftex.def Info: Images & Logos/Results/Porcentaje de tweets con Asco p
-or sector lo largo del tiempo.png  used on input line 114.
-(pdftex.def)             Requested size: 442.77312pt x 218.25485pt.
+or sector lo largo del tiempo.png  used on input line 120.
+(pdftex.def)             Requested size: 442.29132pt x 219.21844pt.
 
-Overfull \hbox (12.7685pt too wide) in paragraph at lines 114--115
+Overfull \hbox (12.2867pt too wide) in paragraph at lines 120--121
  [][] 
  []
 
-) (./Chapters/chapter5.tex [35 <./Images & Logos/Results/Porcentaje de tweets p
-or emocion a lo largo del tiempo.png>] [36 <./Images & Logos/Results/Porcentaje
- de tweets con Alegria por sector lo largo del tiempo.png> <./Images & Logos/Re
-sults/Porcentaje de tweets con Miedo por sector lo largo del tiempo.png>]
-[37 <./Images & Logos/Results/Porcentaje de tweets con Tristeza por sector lo l
-argo del tiempo.png> <./Images & Logos/Results/Porcentaje de tweets con Asco po
-r sector lo largo del tiempo.png>]
+[45 <./Images & Logos/Results/Porcentaje de tweets con Tristeza por sector lo l
+argo del tiempo.png>]) (./Chapters/chapter5.tex [46 <./Images & Logos/Results/P
+orcentaje de tweets con Asco por sector lo largo del tiempo.png>]
 Cap\'{\i }tulo 5.
-[38
+[47
 
-]) (./report.bbl [39] [40] [41
+]) [48] (./report.bbl [49] [50
 
-] [42] [43] [44] [45] [46]
-Underfull \hbox (badness 2564) in paragraph at lines 295--300
-\OT1/cmr/m/n/12 ency-clo-pe-dia.  $\OT1/cmtt/m/n/12 https : / / en . wikipedia 
-. org / w / index . php ? title = Recurrent _
+] [51] [52] [53] [54]
+Underfull \hbox (badness 2573) in paragraph at lines 1484--1499
+[]\OT1/cmtt/m/n/12 neural [] []network&oldid = 1109264340$\OT1/cmr/m/n/12 .  ([
+On-li-ne; ac-ces-sed 26-September-
  []
 
-) [47] (./Appendix/appendix1.tex
+[55]) [56] (./Appendix/appendix1.tex
 Ap\'{e}ndice A.
-(./tables/trendings_clean.tex [48
+(./tables/trendings_clean.tex [57
 
-] [49] [50] [51] [52] [53] [54] [55]))
-[56] (./report.aux
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+] [58] [59] [60] [61])) [62] (./report.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 15894 strings out of 478287
- 287071 string characters out of 5849289
- 638591 words of memory out of 5000000
- 33770 multiletter control sequences out of 15000+600000
- 480124 words of font info for 72 fonts, out of 8000000 for 9000
+ 17156 strings out of 478287
+ 312410 string characters out of 5849289
+ 753142 words of memory out of 5000000
+ 34975 multiletter control sequences out of 15000+600000
+ 483146 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,11n,133p,1792b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,11n,117p,2035b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on report.pdf (64 pages, 1270003 bytes).
+xmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfti1200.pfb>
+Output written on report.pdf (72 pages, 1460136 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
+ 349 PDF objects out of 1000 (max. 8388607)
+ 204 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

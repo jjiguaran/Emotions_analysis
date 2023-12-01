@@ -21,6 +21,13 @@
 
 \usepackage[spanish]{babel}
 
+%\usepackage[brazilian]{babel}
+\usepackage[natbibapa]{apacite}
+\bibliographystyle{apacite}
+
+
+
+
 \usepackage{amsthm,amssymb,mathrsfs,setspace,pstricks,booktabs,mathtools,amsmath,geometry}
 
 \usepackage{url}
@@ -37,12 +44,23 @@
 %
 % \usepackage{latexsym,footmisc,biblatex,hyperref,xcolor,tikz}.
 
-\usepackage{play}
+%\usepackage{play}
 \usepackage{epsfig}
-\usepackage[position=t,singlelinecheck=off]{subfig}
+%\usepackage[position=t,singlelinecheck=off]{subfig}
 \usepackage{appendix}
 \usepackage{longtable}
-\usepackage{natbib}
+%\usepackage{natbib}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{supertabular}
+\usepackage{booktabs} % For better table rules
+\usepackage{lipsum}
+ \usepackage{epigraph}
+
+
+
 
 
 %\usepackage[grey,times]{quotchap}
@@ -67,6 +85,13 @@
 \newtheorem{remark}[theorem]{Remark}
 
 \renewcommand{\baselinestretch}{1.5}
+\newcommand{\RT}{RoBERTuito }
+\newcommand{\BT}{BERTIN }
+\newcommand{\BTO}{BETO }
+\newcommand{\EL}{ELECTRICIDAD }
+\newcommand{\BTA}{RoBERTa }
+\newcommand{\TXL}{twitter-XLM }
+
 
 % Uncomment below for headers and footers.
 % Further customization codes can be referred here: https://www.overleaf.com/learn/latex/Headers_and_footers
@@ -81,6 +106,7 @@
 %\newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
 
 \begin{document}
+\renewcommand{\BOthers}[1]{et al.\hbox{}}
 
 % CUSTOM INPUT FIELDS ARE MARKED WITH [] IN THE INTRO SECTIONS.
 % GO THROUGH EACH INTRO PAGE AND UPDATE ALL YOUR PERSONAL INFORMATION ACCORDINGLY.
@@ -92,6 +118,7 @@
 % You can disable geometry package if not switching and compile time is too long. 
 % \input{00_Intro Pages/03b_Certificate}
 \input{00_Intro Pages/04_Acknowledgements}
+\input{00_Intro Pages/04.5_epigraph}
 \input{00_Intro Pages/05_Abstract}
 \input{00_Intro Pages/06_ToC,LoF,LoT}
 
@@ -109,7 +136,7 @@
 
 
 \nocite{*}
-\bibliographystyle{apalike} % We choose the "plain" reference style
+%\bibliographystyle{apalike} % We choose the "plain" reference style
 \bibliography{ref}
 
 \newpage

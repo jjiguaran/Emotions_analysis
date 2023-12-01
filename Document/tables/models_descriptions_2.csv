@@ -1,0 +1,7 @@
+Modelo,Descripcion 
+robertuito ,"Modelo de lenguaje preentrenado para contenido generado por usuarios en español, entrenado siguiendo las pautas de RoBERTa en 500 millones de tweets."
+bertin,Modelo basados en RoBERTa entrenados desde cero en la parte española de mC4 usando Flax
+electricidad,Electricidad-base-discriminator es un modelo base tipo Electra entrenado en el corpus BETO
+beto,BETO es un modelo BERT entrenado con un gran corpus español.
+roberta,El roberta-base-bne se basa en el modelo base de RoBERTa y ha sido preentrenado utilizando un corpus en español de 570 GB de texto limpio 
+twitter-xlm,Este es un modelo basado en XLM-roBERTa multilingüe entrenado en ~198 millones de tweets y ajustado para el análisis de sentimientos.

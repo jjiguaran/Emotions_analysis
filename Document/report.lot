@@ -2,13 +2,17 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Ejemplos de tweets con respecto a orientacion politica\relax }}{15}{}%
-\contentsline {table}{\numberline {3.2}{\ignorespaces Descripción de las emociones usadas\relax }}{19}{}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces Indice de Fleiss Kappa en cada emocion\relax }}{24}{}%
-\contentsline {table}{\numberline {3.4}{\ignorespaces Descripción de los modelos usados\relax }}{25}{}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces Ejemplos de tweets clasificados\relax }}{20}{}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Descripción de las emociones usadas\relax }}{24}{}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Cantidad de tweets asignados a cada emocion por etiquetador\relax }}{27}{}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Cantidad de tweets etiquetados e indice de Fleiss Kappa en cada emoción\relax }}{29}{}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Ejemplos de tweets clasificados por etiquetador\relax }}{30}{}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Cantidad de tweets por cantidad de etiquetas finales asignadas\relax }}{31}{}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Ejemplos de tweets con etiquetas múltiples\relax }}{32}{}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces Descripción de los modelos usados\relax }}{33}{}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Metricas de los modelos entrenados\relax }}{30}{}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces Ejemplos de tweets clasificados\relax }}{32}{}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces Metricas de los modelos entrenados\relax }}{37}{}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Ejemplos de tweets con divergencias entre etiquetas y clasificaciones\relax }}{39}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {A.1}{\ignorespaces Hashtags\relax }}{48}{}%
+\contentsline {table}{\numberline {A.1}{\ignorespaces Hashtags\relax }}{57}{}%

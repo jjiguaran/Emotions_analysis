@@ -1,7 +1,16 @@
 This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: report.aux
-The style file: apalike.bst
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: ref.bib
 Repeated entry---line 421 of file ref.bib
  : @inproceedings{perez-etal-2022-robertuito
@@ -15,50 +24,49 @@ Repeated entry---line 461 of file ref.bib
  : @inproceedings{CaneteCFP2020
  :                             ,
 I'm skipping whatever remains of this entry
-Warning--can't use both volume and number fields in bollen2011modeling
-Warning--can't use both volume and number fields in kouloumpis2011twitter
-Warning--empty journal in plaza2021overview
-Warning--can't use both volume and number fields in strapparava2004wordnet
-Warning--can't use both volume and number fields in tumasjan2010predicting
-You've used 48 entries,
-            1935 wiz_defined-function locations,
-            744 strings with 14201 characters,
-and the built_in function-call counts, 22158 in all, are:
-= -- 2187
-> -- 996
-< -- 37
-+ -- 348
-- -- 344
-* -- 1808
-:= -- 3693
-add.period$ -- 151
-call.type$ -- 48
-change.case$ -- 409
-chr.to.int$ -- 46
-cite$ -- 53
-duplicate$ -- 907
-empty$ -- 1504
-format.name$ -- 404
-if$ -- 4476
-int.to.chr$ -- 3
-int.to.str$ -- 0
-missing$ -- 47
-newline$ -- 243
-num.names$ -- 144
-pop$ -- 438
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+Warning--`others' not consistent with 6th ed. of the APA Manual
+Warning--No journal in plaza2021overview
+Warning--`others' not consistent with 6th ed. of the APA Manual
+You've used 53 entries,
+            6951 wiz_defined-function locations,
+            1567 strings with 22065 characters,
+and the built_in function-call counts, 112910 in all, are:
+= -- 14376
+> -- 1093
+< -- 5062
++ -- 5379
+- -- 113
+* -- 6855
+:= -- 19101
+add.period$ -- 253
+call.type$ -- 53
+change.case$ -- 941
+chr.to.int$ -- 0
+cite$ -- 107
+duplicate$ -- 3311
+empty$ -- 4316
+format.name$ -- 1790
+if$ -- 21925
+int.to.chr$ -- 0
+int.to.str$ -- 163
+missing$ -- 0
+newline$ -- 1384
+num.names$ -- 424
+pop$ -- 2408
 preamble$ -- 1
-purify$ -- 410
+purify$ -- 214
 quote$ -- 0
-skip$ -- 691
+skip$ -- 7417
 stack$ -- 0
-substring$ -- 1437
-swap$ -- 218
-text.length$ -- 23
+substring$ -- 6041
+swap$ -- 1855
+text.length$ -- 228
 text.prefix$ -- 0
-top$ -- 0
-type$ -- 286
-warning$ -- 5
-while$ -- 175
+top$ -- 1
+type$ -- 5648
+warning$ -- 3
+while$ -- 650
 width$ -- 0
-write$ -- 626
+write$ -- 1798
 (There were 3 error messages)

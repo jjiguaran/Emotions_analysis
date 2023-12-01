@@ -1,23 +1,26 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {chapter}{\'{I}ndice de figuras}{5}{}%
-\contentsline {chapter}{\'{I}ndice de cuadros}{7}{}%
-\contentsline {chapter}{\numberline {1}Introduccion}{1}{}%
-\contentsline {chapter}{\numberline {2}Trabajos Previos}{4}{}%
-\contentsline {section}{\numberline {2.1}Aprendizaje supervisado en la detección de emociones}{4}{}%
-\contentsline {section}{\numberline {2.2}Redes neuronales para el análisis de texto}{6}{}%
-\contentsline {section}{\numberline {2.3}Sentimientos y emociones en redes sociales}{10}{}%
-\contentsline {chapter}{\numberline {3}Metodología}{13}{}%
-\contentsline {section}{\numberline {3.1}Datos}{13}{}%
-\contentsline {subsection}{\numberline {3.1.1}Obtención y análisis exploratorio de datos}{13}{}%
-\contentsline {subsection}{\numberline {3.1.2}Etiquetado}{16}{}%
-\contentsline {section}{\numberline {3.2}Modelos}{24}{}%
-\contentsline {subsection}{\numberline {3.2.1}Modelos pre entrenados}{24}{}%
-\contentsline {subsection}{\numberline {3.2.2}Entrenamiento de los modelos}{24}{}%
-\contentsline {subsection}{\numberline {3.2.3}Evaluación de los modelos}{26}{}%
-\contentsline {chapter}{\numberline {4}Resultados}{29}{}%
-\contentsline {section}{\numberline {4.1}Distribución de emociones por sector}{30}{}%
-\contentsline {section}{\numberline {4.2}Emociones a lo largo del tiempo}{32}{}%
-\contentsline {chapter}{\numberline {5}Conclusiones}{38}{}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{41}{}%
-\contentsline {chapter}{\numberline {A}bla}{48}{}%
-\contentsline {section}{\numberline {A.1}Anexos}{48}{}%
+\contentsline {chapter}{\'{I}ndice de figuras}{7}{}%
+\contentsline {chapter}{\'{I}ndice de cuadros}{9}{}%
+\contentsline {chapter}{\numberline {1}Introducción}{1}{}%
+\contentsline {section}{\numberline {1.1}Análisis de sentimiento en Twitter en torno a política}{1}{}%
+\contentsline {section}{\numberline {1.2}Avances técnicos recientes en análisis de sentimiento}{2}{}%
+\contentsline {section}{\numberline {1.3}Aporte de este trabajo}{3}{}%
+\contentsline {chapter}{\numberline {2}Trabajo Previo}{6}{}%
+\contentsline {section}{\numberline {2.1}Aprendizaje supervisado en la detección de emociones}{7}{}%
+\contentsline {section}{\numberline {2.2}Redes neuronales para el análisis de texto}{8}{}%
+\contentsline {section}{\numberline {2.3}Sentimientos y emociones en redes sociales}{13}{}%
+\contentsline {chapter}{\numberline {3}Metodología}{17}{}%
+\contentsline {section}{\numberline {3.1}Datos}{17}{}%
+\contentsline {subsection}{\numberline {3.1.1}Recolección y análisis exploratorio de datos}{18}{}%
+\contentsline {subsection}{\numberline {3.1.2}Etiquetado}{22}{}%
+\contentsline {section}{\numberline {3.2}Experimentos de clasificación}{32}{}%
+\contentsline {subsection}{\numberline {3.2.1}Modelos preentrenados}{33}{}%
+\contentsline {subsection}{\numberline {3.2.2}Entrenamiento de los modelos}{33}{}%
+\contentsline {subsection}{\numberline {3.2.3}Evaluación de los modelos}{34}{}%
+\contentsline {chapter}{\numberline {4}Resultados}{36}{}%
+\contentsline {section}{\numberline {4.1}Desempeño de los modelos entrenados}{37}{}%
+\contentsline {section}{\numberline {4.2}Distribución de emociones por orientación política}{39}{}%
+\contentsline {section}{\numberline {4.3}Emociones a lo largo del tiempo}{42}{}%
+\contentsline {chapter}{\numberline {5}Conclusiones}{47}{}%
+\contentsline {chapter}{Referencias}{50}{}%
+\contentsline {chapter}{\numberline {A}Anexos}{57}{}%

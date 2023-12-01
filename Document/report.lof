@@ -1,22 +1,25 @@
 \babel@toc {spanish}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Arquitectura de los Transformers\relax }}{8}{}%
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Arquitectura de BERT\relax }}{9}{}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Arquitectura de los Transformers\relax }}{10}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Comparación entre mecanismos de redes. Fuentes \cite {jurafsky2000speech}, \cite {enwiki:1109264340}\relax }}{11}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Arquitectura de BERT. Fuente \cite {devlin2018bert}\relax }}{12}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Porcentaje de Hashtags clasificados según sector político\relax }}{16}{}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Porcentaje de Tweets clasificados según sector político\relax }}{17}{}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Porcentaje de tweets clasificados según sector político a lo largo del tiempo\relax }}{18}{}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Interfaz de etiquetado\relax }}{23}{}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Porcentaje de coorelación entre etiquetadores de las emociones asignadas a los tweets'\relax }}{28}{}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Porcentaje de Hashtags según la orientación política asignada\relax }}{21}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Porcentaje de Tweets según la orientación política asignada\relax }}{21}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Porcentaje de tweets según orientación política a lo largo del tiempo\relax }}{22}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Proceso de etiquetado\relax }}{25}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Interfaz de etiquetado\relax }}{26}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Indice de correlación entre etiquetadores de las emociones asignadas a los tweets\relax }}{28}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Matriz de co ocurrencia entre etiquetas asignadas\relax }}{31}{}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Matriz de confusión entre etiquetas asignadas y predicciones del algoritmo para el dataset etiquetado\relax }}{31}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Porcentaje de tweets clasificado según emociones por el algoritmo\relax }}{33}{}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Porcentaje de tweets clasificados según emoción por el algoritmo, separado por sector político del hashtag\relax }}{34}{}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Porcentaje diario del total de tweets clasificados en cada emoción a lo largo del tiempo\relax }}{35}{}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Porcentaje diario del total de tweets clasificados como Alegría, para cada sector político\relax }}{36}{}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Porcentaje diario del total de tweets clasificados como Miedo, para cada sector político\relax }}{36}{}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Porcentaje diario del total de tweets clasificados como Tristeza, para cada sector político\relax }}{37}{}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Porcentaje diario del total de tweets clasificados como Asco, para cada sector político\relax }}{37}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Matriz de confusión entre etiquetas asignadas y predicciones del algoritmo para el dataset etiquetado\relax }}{38}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Porcentaje de tweets clasificado según emociones por el algoritmo\relax }}{40}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Porcentaje de tweets clasificados según emoción por el algoritmo, separado por orientación política del hashtag\relax }}{41}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Porcentaje diario del total de tweets clasificados en cada emoción a lo largo del tiempo\relax }}{43}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Porcentaje diario del total de tweets clasificados como Alegría, para cada orientación política\relax }}{44}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Porcentaje diario del total de tweets clasificados como Miedo, para cada orientación política\relax }}{44}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Porcentaje diario del total de tweets clasificados como Tristeza, para cada orientación política\relax }}{45}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Porcentaje diario del total de tweets clasificados como Asco, para cada orientación política\relax }}{46}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }

@@ -1,16 +1,17 @@
-\begin{table}
+\begin{table}[!htbp]
+\scriptsize
+\begin{tabular}{{ | l | p{13cm} |}}
+\hline
+Modelo & Descripcion  \\
+\hline
+robertuito  & Modelo de lenguaje preentrenado para contenido generado por usuarios en español, entrenado siguiendo las pautas de RoBERTa en 500 millones de tweets. \\
+bertin & Modelo basados en RoBERTa entrenados desde cero en la parte española de mC4 usando Flax \\
+electricidad & Modelo base tipo Electra entrenado en el corpus BETO \\
+beto & BETO es un modelo BERT entrenado con un gran corpus español. \\
+roberta & Modelo base de RoBERTa y ha sido preentrenado utilizando un corpus en español de 570 GB de texto limpio  \\
+twitter-xlm & Modelo basado en XLM-roBERTa multilingüe entrenado en ~198 millones de tweets y ajustado para el análisis de sentimientos. \\
+\hline
+\end{tabular}
 \caption{Descripción de los modelos usados}
 \label{table:model_description}
-\begin{tabular}{{ | l | l | p{7cm} |}}
-\toprule
-Modelo & Localizacion & Descripcion  \\
-\midrule
-robertuito  & pysentimiento/robertuito-base-uncased & Modelo de lenguaje preentrenado para contenido generado por usuarios en español, entrenado siguiendo las pautas de RoBERTa en 500 millones de tweets. \\
-bertin & bertin-project/bertin-roberta-base-spanish & Modelo basados en RoBERTa entrenados desde cero en la parte española de mC4 usando Flax \\
-electricidad & mrm8488/electricidad-base-discriminator & Electricidad-base-discriminator es un modelo base tipo Electra entrenado en un gran corpus español (también conocido como corpus de BETO) \\
-beto & dccuchile/bert-base-spanish-wwm-cased & BETO es un modelo BERT formado en un gran corpus español. BETO tiene un tamaño similar a un BERT-Base y fue entrenado con la técnica de enmascaramiento de palabras completas. \\
-roberta & PlanTL-GOB-ES/roberta-base-bne & El roberta-base-bne se basa en el modelo base de RoBERTa y ha sido preentrenado utilizando un corpus en español de 570 GB de texto limpio  \\
-twitter-xlm & cardiffnlp/twitter-xlm-roberta-base & Este es un modelo basado en XLM-roBERTa multilingüe entrenado en ~198 millones de tweets y ajustado para el análisis de sentimientos. \\
-\bottomrule
-\end{tabular}
 \end{table}
